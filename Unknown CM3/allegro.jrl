@@ -1,0 +1,46 @@
+\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Dec 20 18:49:34 2024
+\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=21028 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe F:\Books\Инженерные науки\Проектирование аппаратного обеспечения (Электроника)\Справочная документация по устройствам\Unknown CM3\CM3_IO_V1_Routed (2).brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 51
+\i (00:00:02) trapsize 54
+\i (00:00:02) trapsize 56
+\i (00:00:02) trapsize 84
+\i (00:00:02) trapsize 84
+\t (00:00:02) Loading NV GPU Plugin
+\i (00:00:02) trapsize 24
+\i (00:00:03) placementedit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 262.0 223.6
+\i (00:00:05) trapsize 24
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 262.0 223.6
+\i (00:00:05) trapsize 24
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 262.0 223.6
+\i (00:00:05) trapsize 24
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 262.0 223.6
+\i (00:00:05) trapsize 24
+\i (00:00:06) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:07) exit 
+\t (00:00:07) Lic Summary:
+[18:49:40.397000] Cdslmd servers: DESKTOP-D851ENJ
+[18:49:40.397004] Feature usage summary:
+[18:49:40.397004] Allegro_X_Platinum_Layout
+[18:49:40.397004] Allegro_PCB_Productivity_TB
+[18:49:40.397004] Allegro_PCB_RF
+[18:49:40.397004] Allegro_PCB_Harmony_Option
+[18:49:40.397004] Allegro_Venture_PCB_Designer
+[18:49:40.397004] PCB_design_studio
+[18:49:40.397004] Venture_PCB_Schematic
+[18:49:40.397004] Allegro_Venture_PCB_Designer2
+
+\t (00:00:07)     Journal end - Fri Dec 20 18:49:40 2024
