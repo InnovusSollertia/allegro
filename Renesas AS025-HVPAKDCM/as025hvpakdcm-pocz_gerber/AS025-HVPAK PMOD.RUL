@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\a5130839\OneDrive - Renesas Electronics Corporation\Gaurav Official\Tasks_2023\AS025\AS025- Design Documents\AS025-HVPAK PMOD\AS025-HVPAK PMOD.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
