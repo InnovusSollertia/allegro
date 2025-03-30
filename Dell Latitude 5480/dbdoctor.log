@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.0.brd )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Tue Mar 19 16:58:10 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   421
+  Updated DRC errors:    453
+  DRC elapsed time:      00:00:03
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 232   after update: 232
+
+Saved drawing C:/Users/Prometheus/Downloads/Downloads/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.0/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.1.brd.
+
+
+<<< Design Uprev Warnings >>>
+
+Tue Mar 19 16:57:56 2024				Page     1
+
+
+Performing DRC...
+DRC done; 453 errors detected.

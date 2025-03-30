@@ -1,0 +1,1833 @@
+A!NET_NAME_SORT!NET_NAME!NET_PHYSICAL_TYPE!NET_SPACING_TYPE!ELECTRICAL_CONSTRAINT_SET!NET_DIFFERENTIAL_PAIR!NET_STUB_LENGTH!NET_MAX_VIA_COUNT!NET_MIN_LINE_WIDTH!NET_MAX_PARALLEL!NET_IMPEDANCE_AVERAGE!NO_TEST!NET_IMPEDANCE_MINIMUM!NET_IMPEDANCE_MAXIMUM!
+J!C:/Users/Prometheus/Downloads/Downloads/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.0/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.1.brd!Tue Mar 19 17:06:49 2024!-24000.00!-16212.60!24000.00!15787.40!0.01!mils!D:/2016/LE081/1107/BR14U_UMA_MB_A00_20161107-1.NET!47.679921 mil!10!UP TO DATE!
+S!N4919186218!N4919186218!!!!!!!!!32.59 ohms!!27.53 ohms!44.84 ohms!
+S!N 49127672!N49127672!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46430682!N46430682!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46430626!N46430626!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46428671!N46428671!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 46427645!N46427645!!!!!!!!!30.95 ohms!!27.53 ohms!44.84 ohms!
+S!N 46427605!N46427605!!!!!!!!!31.40 ohms!!27.53 ohms!44.84 ohms!
+S!N 46427561!N46427561!!!!!!!!!29.54 ohms!!27.53 ohms!44.84 ohms!
+S!N 46426548!N46426548!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46426354!N46426354!!!!!!!!!29.85 ohms!!27.53 ohms!44.84 ohms!
+S!N 46425954!N46425954!!!!!!!!!35.48 ohms!!27.53 ohms!44.84 ohms!
+S!N 46425853!N46425853!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46425689!N46425689!!!!!!!!!32.14 ohms!!27.53 ohms!44.84 ohms!
+S!CV2_ON_R!CV2_ON_R!!!!!!!!!44.81 ohms!!43.91 ohms!44.84 ohms!
+S!+3.3V_RUN_UT 00000009!+3.3V_RUN_UT9!!!!!!!!!12.67 ohms!!7.20 ohms!60.00 ohms!
+S!XTAL24_IN_R!XTAL24_IN_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!WRST#!WRST#!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!USB3_PD#!USB3_PD#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46260620!N46260620!!!!!!!!!36.22 ohms!!31.52 ohms!44.84 ohms!
+S!+3.3V_USB_UI 00000005!+3.3V_USB_UI5!!!!!!!!!18.50 ohms!!16.95 ohms!60.00 ohms!
+S!SW_+1VALWP!SW_+1VALWP!!!!!!!!!3.17 ohms!!2.65 ohms!60.00 ohms!
+S!SNB_+1VALWP!SNB_+1VALWP!!!!!!!!!11.89 ohms!!10.33 ohms!44.84 ohms!
+S!N 46204205!N46204205!!!!!!!!!33.36 ohms!!27.53 ohms!44.84 ohms!
+S!N 46204184!N46204184!!!!!!!!!3.81 ohms!!3.81 ohms!3.81 ohms!
+S!ILMT_+1VALWP!ILMT_+1VALWP!!!!!!!!!31.72 ohms!!27.53 ohms!44.84 ohms!
+S!FB_+1VALWP!FB_+1VALWP!!!!!!!!!32.37 ohms!!27.53 ohms!44.84 ohms!
+S!EN_+1VALWP!EN_+1VALWP!!!!!!!!!29.08 ohms!!27.53 ohms!44.84 ohms!
+S!BST_+1VALWP_C!BST_+1VALWP_C!!!!!!!!!17.28 ohms!!14.25 ohms!44.84 ohms!
+S!BST_+1VALWP!BST_+1VALWP!!!!!!!!!12.97 ohms!!10.82 ohms!44.84 ohms!
+S!RTCRST_ON_GPIO 00000141!RTCRST_ON_GPIO141!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!RTCRST_ON_GPIO 00000122!RTCRST_ON_GPIO122!!!!!!!!!44.62 ohms!!43.02 ohms!60.00 ohms!
+S!N 47298137!N47298137!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46178191!N46178191!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 46178128!N46178128!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!N 46177523!N46177523!!!!!!!!!32.80 ohms!!27.53 ohms!44.84 ohms!
+S!N 46177446!N46177446!!!!!!!!!31.89 ohms!!27.53 ohms!44.84 ohms!
+S!N 46177388!N46177388!!!!!!!!!20.96 ohms!!20.96 ohms!20.96 ohms!
+S!WWAN_COEX 00000003!WWAN_COEX3!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!WWAN_COEX 00000002!WWAN_COEX2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!WWAN_COEX 00000001!WWAN_COEX1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!WLAN_COEX 00000003!WLAN_COEX3!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!WLAN_COEX 00000002!WLAN_COEX2!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!WLAN_COEX 00000001!WLAN_COEX1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!VSYS_ISL 00088738!VSYS_ISL88738!!!!!!!!!28.32 ohms!!27.53 ohms!31.52 ohms!
+S!VR_READY_CPU!VR_READY_CPU!!!!!!!!!28.25 ohms!!27.53 ohms!31.52 ohms!
+S!VR_HOT#_CPU!VR_HOT#_CPU!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!VIN_CPU!VIN_CPU!!!!!!!!!32.49 ohms!!31.52 ohms!44.84 ohms!
+S!VCC_CPU!VCC_CPU!!!!!!!!!31.71 ohms!!27.53 ohms!44.84 ohms!
+S!VCCSTG_EN!VCCSTG_EN!!!!!!!!!43.70 ohms!!27.53 ohms!60.00 ohms!
+S!TPM_LPM#!TPM_LPM#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TPM_GPIO 00000004!TPM_GPIO4!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SDA_ISL 00088738!SDA_ISL88738!!!!!!!!!33.82 ohms!!27.53 ohms!44.84 ohms!
+S!SCL_ISL 00088738!SCL_ISL88738!!!!!!!!!29.06 ohms!!27.53 ohms!31.52 ohms!
+S!PROG2_CPU!PROG2_CPU!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!PROG1_CPU!PROG1_CPU!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!NTC_R_IA!NTC_R_IA!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!NTC_GT_R!NTC_GT_R!!!!!!!!!28.53 ohms!!27.53 ohms!60.00 ohms!
+S!NTC_GT!NTC_GT!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 47046031!N47046031!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 47046012!N47046012!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 47045174!N47045174!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 47045035!N47045035!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 47045031!N47045031!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 47045001!N47045001!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46932507!N46932507!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46144380!N46144380!!!!!!!!!31.51 ohms!!27.53 ohms!44.84 ohms!
+S!N 46142922!N46142922!!!!!!!!!32.01 ohms!!27.53 ohms!44.84 ohms!
+S!N 46142452!N46142452!!!!!!!!!33.95 ohms!!27.53 ohms!44.84 ohms!
+S!N 46029167!N46029167!!!!!!!!!29.75 ohms!!27.53 ohms!44.84 ohms!
+S!N 46029111!N46029111!!!!!!!!!28.87 ohms!!27.53 ohms!44.84 ohms!
+S!N 45981582!N45981582!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 45974290!N45974290!!!!!!!!!30.81 ohms!!27.53 ohms!44.84 ohms!
+S!N 45974105!N45974105!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 45974006!N45974006!!!!!!!!!31.38 ohms!!27.53 ohms!44.84 ohms!
+S!N 45974004!N45974004!!!!!!!!!32.56 ohms!!27.53 ohms!44.84 ohms!
+S!N 45973980!N45973980!!!!!!!!!28.75 ohms!!27.53 ohms!44.84 ohms!
+S!N 45973953!N45973953!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!N 45973945!N45973945!!!!!!!!!29.94 ohms!!27.53 ohms!44.84 ohms!
+S!N 45972650!N45972650!!!!!!!!!32.37 ohms!!27.53 ohms!44.84 ohms!
+S!N 45972646!N45972646!!!!!!!!!29.38 ohms!!27.53 ohms!44.84 ohms!
+S!N 45972642!N45972642!!!!!!!!!32.80 ohms!!27.53 ohms!44.84 ohms!
+S!N 45971023!N45971023!!!!!!!!!34.70 ohms!!27.53 ohms!44.84 ohms!
+S!N 45971015!N45971015!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 45971013!N45971013!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 45957346!N45957346!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 45957243!N45957243!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 45912878!N45912878!!!!!!!!!5.87 ohms!!4.90 ohms!44.84 ohms!
+S!N 35551696!N35551696!!!!!!!!!4.09 ohms!!4.09 ohms!4.09 ohms!
+S!N 17400451!N17400451!!!!!!!!!22.71 ohms!!20.96 ohms!44.84 ohms!
+S!LPM_1VS_VCCIO!LPM_1VS_VCCIO!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!LPM_1.0V_PRIM_COREP!LPM_1.0V_PRIM_COREP!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!ISUMN_R_VSA!ISUMN_R_VSA!!!!!!!!!30.69 ohms!!27.53 ohms!31.52 ohms!
+S!ISUMN_R_IA!ISUMN_R_IA!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!ISUMN_R_GT!ISUMN_R_GT!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!IA_SW!IA_SW!!!!!!!!!3.60 ohms!!3.01 ohms!4.97 ohms!
+S!IA_SNUB!IA_SNUB!!!!!!!!!5.07 ohms!!5.07 ohms!5.07 ohms!
+S!FCCM_R_IA!FCCM_R_IA!!!!!!!!!27.47 ohms!!20.96 ohms!44.84 ohms!
+S!FCCM_R_GT!FCCM_R_GT!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!FB_PRIM_CORE!FB_PRIM_CORE!!!!!!!!!30.03 ohms!!27.53 ohms!44.84 ohms!
+S!FB_GT!FB_GT!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!FB_1VS_VCCIO!FB_1VS_VCCIO!!!!!!!!!29.62 ohms!!27.53 ohms!44.84 ohms!
+S!EN_CPU!EN_CPU!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!EN_2.5V!EN_2.5V!!!!!!!!!23.16 ohms!!20.96 ohms!44.84 ohms!
+S!COMP_GT!COMP_GT!!!!!!!!!30.08 ohms!!27.53 ohms!44.84 ohms!
+S!BST_SA!BST_SA!!!!!!!!!20.96 ohms!!16.95 ohms!44.84 ohms!
+S!BST_R_IA!BST_R_IA!!!!!!!!!11.79 ohms!!9.73 ohms!31.52 ohms!
+S!BST_R_GT!BST_R_GT!!!!!!!!!13.09 ohms!!10.70 ohms!44.84 ohms!
+S!BST_IA!BST_IA!!!!!!!!!13.07 ohms!!10.76 ohms!31.52 ohms!
+S!BST_GT!BST_GT!!!!!!!!!8.29 ohms!!6.91 ohms!31.52 ohms!
+S!BST_C_SA!BST_C_SA!!!!!!!!!12.91 ohms!!10.82 ohms!44.84 ohms!
+S!BST_C_IA!BST_C_IA!!!!!!!!!12.77 ohms!!12.77 ohms!12.77 ohms!
+S!BST_C_GT!BST_C_GT!!!!!!!!!6.32 ohms!!6.32 ohms!6.32 ohms!
+S!BST_5V_R!BST_5V_R!!!!!!!!!7.29 ohms!!6.07 ohms!44.84 ohms!
+S!BST_3V_R!BST_3V_R!!!!!!!!!22.02 ohms!!16.95 ohms!44.84 ohms!
+S!BATGONE_ISL 00088738!BATGONE_ISL88738!!!!!!!!!30.22 ohms!!27.53 ohms!31.52 ohms!
+S!AUX1_SNOOP_EN#!AUX1_SNOOP_EN#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!5V_FB_R!5V_FB_R!!!!!!!!!33.08 ohms!!27.53 ohms!44.84 ohms!
+S!3V_FB_R!3V_FB_R!!!!!!!!!32.64 ohms!!27.53 ohms!44.84 ohms!
+S!+UZ12_TPM!+UZ12_TPM!!!!!!!!!17.01 ohms!!13.20 ohms!44.84 ohms!
+S!+3.3V_M_TPM!+3.3V_M_TPM!!!!!!!!!3.65 ohms!!3.34 ohms!60.00 ohms!
+S!+1.2V_DDR_VTTREF!+1.2V_DDR_VTTREF!!!!!!!!!37.48 ohms!!31.52 ohms!44.84 ohms!
+S!+1.2V_DDR_VCC!+1.2V_DDR_VCC!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!+1.2V_DDR_SNB!+1.2V_DDR_SNB!!!!!!!!!6.13 ohms!!5.18 ohms!44.84 ohms!
+S!+1.2V_DDR_LX!+1.2V_DDR_LX!!!!!!!!!3.94 ohms!!3.54 ohms!5.52 ohms!
+S!+1.2V_DDR_FB!+1.2V_DDR_FB!!!!!!!!!32.69 ohms!!27.53 ohms!44.84 ohms!
+S!+1.2V_DDR_BST_R!+1.2V_DDR_BST_R!!!!!!!!!13.17 ohms!!9.30 ohms!44.84 ohms!
+S!+1.2V_DDR_BST!+1.2V_DDR_BST!!!!!!!!!11.30 ohms!!9.72 ohms!44.84 ohms!
+S!SW2_DP1_HPD_R!SW2_DP1_HPD_R!!!!!!!!!46.15 ohms!!44.84 ohms!50.19 ohms!
+S!PD1_GPIO 00000007!PD1_GPIO7!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PD1_GPIO 00000006!PD1_GPIO6!!!!!!!!!46.33 ohms!!44.84 ohms!50.19 ohms!
+S!PD1_GPIO 00000002!PD1_GPIO2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!OTG_ID!OTG_ID!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 46447690!N46447690!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_FLIP_SEL_R!MUX1_FLIP_SEL_R!!!!!!!!!46.46 ohms!!44.84 ohms!50.19 ohms!
+S!EN_PD_HV_1_R!EN_PD_HV_1_R!!!!!!!!!45.86 ohms!!44.84 ohms!50.19 ohms!
+S!AC1_DISC#_R!AC1_DISC#_R!!!!!!!!!46.74 ohms!!44.84 ohms!50.19 ohms!
+S!M3042_PCIE_SATA#!M3042_PCIE_SATA#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!AUD_SENSE_B!AUD_SENSE_B!!!!!!!!!29.04 ohms!!27.53 ohms!31.52 ohms!
+S!N 17372063!N17372063!!!!!!!!!23.60 ohms!!20.96 ohms!44.84 ohms!
+S!N 17371029!N17371029!!!!!!!!!6.67 ohms!!5.25 ohms!60.00 ohms!
+S!N 17185092!N17185092!!!!!!!!!30.99 ohms!!27.53 ohms!44.84 ohms!
+S!CMOUT!CMOUT!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!+1.2V_DDR_B+!+1.2V_DDR_B+!!!!!!!!!4.58 ohms!!3.08 ohms!7.23 ohms!
+S!SATALED#!SATALED#!!!!!!!!!45.08 ohms!!44.84 ohms!60.00 ohms!
+S!MEM_INTERLEAVED!MEM_INTERLEAVED!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!LOM_CABLE_DETECT#!LOM_CABLE_DETECT#!!!!!!!!!44.43 ohms!!43.91 ohms!60.00 ohms!
+S!N 16783126!N16783126!!!!!!!!!4.68 ohms!!3.99 ohms!44.84 ohms!
+S!LID_CL_NB#!LID_CL_NB#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBT_RESET_N_EC_R!TBT_RESET_N_EC_R!!!!!!!!!44.34 ohms!!43.91 ohms!60.00 ohms!
+S!SLOT2_SATA_LED#!SLOT2_SATA_LED#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!NVME_LED#!NVME_LED#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!N 45886541!N45886541!!!!!!!!!46.65 ohms!!44.84 ohms!50.19 ohms!
+S!N 45886539!N45886539!!!!!!!!!46.19 ohms!!44.84 ohms!50.19 ohms!
+S!CLKREQ_PCIE#5_R!CLKREQ_PCIE#5_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!CLKREQ_PCIE#4_R!CLKREQ_PCIE#4_R!!!!!!!!!45.00 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE#3_R!CLKREQ_PCIE#3_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE#2_R!CLKREQ_PCIE#2_R!!!!!!!!!45.09 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE#1_R!CLKREQ_PCIE#1_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE#0_R!CLKREQ_PCIE#0_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SATA_PTX_RD_DRX_P 00000000!SATA_PTX_RD_DRX_P0!!!!DIFFPAIR32!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SATA_PTX_RD_DRX_N 00000000!SATA_PTX_RD_DRX_N0!!!!DIFFPAIR32!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SATA_PTX_DRX_P 00000000!SATA_PTX_DRX_P0!!!!DIFFPAIR23!!!!!47.49 ohms!!46.31 ohms!60.00 ohms!
+S!SATA_PTX_DRX_N 00000000!SATA_PTX_DRX_N0!!!!DIFFPAIR23!!!!!47.53 ohms!!46.31 ohms!60.00 ohms!
+S!SATA_PTX_C_RD_DRX_P 00000000!SATA_PTX_C_RD_DRX_P0!!!!DIFFPAIR41!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SATA_PTX_C_RD_DRX_N 00000000!SATA_PTX_C_RD_DRX_N0!!!!DIFFPAIR41!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SATA_PTX_C_DRX_P 00000000!SATA_PTX_C_DRX_P0!!!!DIFFPAIR43!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SATA_PTX_C_DRX_N 00000000!SATA_PTX_C_DRX_N0!!!!DIFFPAIR43!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SATA_PRX_RD_DTX_P 00000000!SATA_PRX_RD_DTX_P0!!!!DIFFPAIR33!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SATA_PRX_RD_DTX_N 00000000!SATA_PRX_RD_DTX_N0!!!!DIFFPAIR33!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SATA_PRX_DTX_P 00000000!SATA_PRX_DTX_P0!!!!DIFFPAIR24!!!!!46.57 ohms!!46.31 ohms!60.00 ohms!
+S!SATA_PRX_DTX_N 00000000!SATA_PRX_DTX_N0!!!!DIFFPAIR24!!!!!46.54 ohms!!46.31 ohms!60.00 ohms!
+S!SATA_PRX_C_RD_DTX_P 00000000!SATA_PRX_C_RD_DTX_P0!!!!DIFFPAIR42!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SATA_PRX_C_RD_DTX_N 00000000!SATA_PRX_C_RD_DTX_N0!!!!DIFFPAIR42!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SATA_PRX_C_DTX_P 00000000!SATA_PRX_C_DTX_P0!!!!DIFFPAIR44!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SATA_PRX_C_DTX_N 00000000!SATA_PRX_C_DTX_N0!!!!DIFFPAIR44!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!RD5_REXT!RD5_REXT!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_B_EQ 00000002!RD5_B_EQ2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_B_EQ 00000001!RD5_B_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_B_EQ 00000000!RD5_B_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_B_DE 00000001!RD5_B_DE1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_B_DE 00000000!RD5_B_DE0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_A_EQ 00000002!RD5_A_EQ2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_A_EQ 00000001!RD5_A_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_A_EQ 00000000!RD5_A_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_A_DE 00000001!RD5_A_DE1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD5_A_DE 00000000!RD5_A_DE0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCIE_PTX_RD_DRX_P 00000008!PCIE_PTX_RD_DRX_P8!!!DIFF!DIFFPAIR40!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_RD_DRX_N 00000008!PCIE_PTX_RD_DRX_N8!!!DIFF!DIFFPAIR40!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_DRX_P 00000008!PCIE_PTX_DRX_P8!!!DIFF!DIFFPAIR25!!!!!47.88 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_N 00000008!PCIE_PTX_DRX_N8!!!DIFF!DIFFPAIR25!!!!!47.85 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_C_RD_DRX_P 00000008!PCIE_PTX_C_RD_DRX_P8!!!DIFF!DIFFPAIR39!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_RD_DRX_N 00000008!PCIE_PTX_C_RD_DRX_N8!!!DIFF!DIFFPAIR39!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_P 00000008!PCIE_PTX_C_DRX_P8!!!DIFF!DIFFPAIR35!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_C_DRX_P 00000012!PCIE_PTX_C_DRX_P12!!!DIFF!DIFFPAIR26!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_P 00000011!PCIE_PTX_C_DRX_P11!!!DIFF!DIFFPAIR27!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_N 00000008!PCIE_PTX_C_DRX_N8!!!DIFF!DIFFPAIR35!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_C_DRX_N 00000012!PCIE_PTX_C_DRX_N12!!!DIFF!DIFFPAIR26!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_N 00000011!PCIE_PTX_C_DRX_N11!!!DIFF!DIFFPAIR27!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_RD_DTX_P 00000008!PCIE_PRX_RD_DTX_P8!!!DIFF!DIFFPAIR34!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_RD_DTX_N 00000008!PCIE_PRX_RD_DTX_N8!!!DIFF!DIFFPAIR34!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_P 00000008!PCIE_PRX_DTX_P8!!!DIFF!DIFFPAIR30!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_N 00000008!PCIE_PRX_DTX_N8!!!DIFF!DIFFPAIR30!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_C_RD_DTX_P 00000008!PCIE_PRX_C_RD_DTX_P8!!!DIFF!DIFFPAIR38!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_RD_DTX_N 00000008!PCIE_PRX_C_RD_DTX_N8!!!DIFF!DIFFPAIR38!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_DTX_P 00000012!PCIE_PRX_C_DTX_P12!!!DIFF!DIFFPAIR28!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_DTX_P 00000011!PCIE_PRX_C_DTX_P11!!!DIFF!DIFFPAIR29!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_DTX_N 00000012!PCIE_PRX_C_DTX_N12!!!DIFF!DIFFPAIR28!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_DTX_N 00000011!PCIE_PRX_C_DTX_N11!!!DIFF!DIFFPAIR29!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!N 45879727!N45879727!!!!!!!!!22.00 ohms!!16.95 ohms!44.84 ohms!
+S!N 45879530!N45879530!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 45863346!N45863346!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 45863109!N45863109!!!!!!!!!21.01 ohms!!16.95 ohms!44.84 ohms!
+S!N 45589439!N45589439!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 45589425!N45589425!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 45589399!N45589399!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 45589397!N45589397!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 45269008!N45269008!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 45242966!N45242966!!!!!!!!!31.10 ohms!!27.53 ohms!44.84 ohms!
+S!N 45242870!N45242870!!!!!!!!!31.20 ohms!!27.53 ohms!44.84 ohms!
+S!N 45242868!N45242868!!!!!!!!!30.57 ohms!!27.53 ohms!44.84 ohms!
+S!N 45200928!N45200928!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 00043975!N43975!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 41303246!N41303246!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 41288260!N41288260!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 40719702!N40719702!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 39070470!N39070470!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 39070459!N39070459!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 39067419!N39067419!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 39067288!N39067288!!!!!!!!!44.68 ohms!!43.91 ohms!44.84 ohms!
+S!N 39067212!N39067212!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 37894887!N37894887!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 37894644!N37894644!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 32875032!N32875032!!!!!!!!!35.11 ohms!!27.53 ohms!44.84 ohms!
+S!M3042_DEVSLP!M3042_DEVSLP!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDD_DEVSLP!HDD_DEVSLP!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDD_B_PRE!HDD_B_PRE!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDD_B_EQ 00000002!HDD_B_EQ2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDD_B_EQ!HDD_B_EQ!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDD_A_PRE!HDD_A_PRE!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDD_A_EQ 00000002!HDD_A_EQ2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDD_A_EQ!HDD_A_EQ!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DEW 00000002!DEW2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DEW 00000001!DEW1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!VCI_IN2#!VCI_IN2#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!VCI_IN1#!VCI_IN1#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TYPEC_ID!TYPEC_ID!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SATA_LED_EN!SATA_LED_EN!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PD1_GPIO 00000008!PD1_GPIO8!!!!!!!!!45.21 ohms!!44.84 ohms!50.19 ohms!
+S!LID_CL#_PCH!LID_CL#_PCH!!!!!!!!!46.04 ohms!!44.84 ohms!50.19 ohms!
+S!GPIO 00000126!GPIO126!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!BAT2_LED#_R!BAT2_LED#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PWM_SA!PWM_SA!!!!!!!!!31.39 ohms!!27.53 ohms!44.84 ohms!
+S!+5V_HDD_UZ 00000023!+5V_HDD_UZ23!!!!!!!60 MIL!!7.73 ohms!!7.73 ohms!7.73 ohms!
+S!+3.3V_VDD_PIC_PDA!+3.3V_VDD_PIC_PDA!!!!!!!30 MIL!!9.60 ohms!!4.97 ohms!60.00 ohms!
+S!SW2_ISL 00088738!SW2_ISL88738!!!!!!!!!3.09 ohms!!2.59 ohms!44.84 ohms!
+S!SW1_ISL 00088738!SW1_ISL88738!!!!!!!!!2.69 ohms!!2.11 ohms!44.84 ohms!
+S!N 17509431!N17509431!!!!!!!!!33.67 ohms!!31.52 ohms!44.84 ohms!
+S!N 16400770!N16400770!!!!!!!10 MIL!!29.98 ohms!!27.53 ohms!60.00 ohms!
+S!EN_PD_HV_1#!EN_PD_HV_1#!!!!!!!!!30.25 ohms!!27.53 ohms!44.84 ohms!
+S!Z 00002808!Z2808!!!!!!!!!16.95 ohms!!16.95 ohms!16.95 ohms!
+S!Z 00002807!Z2807!!!!!!!!!16.95 ohms!!16.95 ohms!16.95 ohms!
+S!Z 00002806!Z2806!!!!!!!!!16.95 ohms!!16.95 ohms!16.95 ohms!
+S!Z 00002805!Z2805!!!!!!!!!16.95 ohms!!16.95 ohms!16.95 ohms!
+S!XTALO_R!XTALO_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XTALO!XTALO!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XTALI!XTALI!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XTAL24_OUT_R!XTAL24_OUT_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XTAL24_OUT!XTAL24_OUT!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XTAL24_IN!XTAL24_IN!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XDP_TMS!XDP_TMS!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XDP_PRSNT_PIN 00000001!XDP_PRSNT_PIN1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XDP_OBS3_R!XDP_OBS3_R!!!!!!!!!48.04 ohms!!44.84 ohms!50.19 ohms!
+S!XDP_OBS2_R!XDP_OBS2_R!!!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!XDP_OBS1_R!XDP_OBS1_R!!!!!!!!!45.57 ohms!!44.84 ohms!60.00 ohms!
+S!XDP_OBS 00000001!XDP_OBS1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XDP_OBS0_R!XDP_OBS0_R!!!!!!!!!45.47 ohms!!44.84 ohms!60.00 ohms!
+S!XDP_OBS 00000000!XDP_OBS0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!XDP_JTAGX!XDP_JTAGX!!!!!!!!!46.89 ohms!!44.84 ohms!50.19 ohms!
+S!XDP_DBRESET#!XDP_DBRESET#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!XCLK_BIASREF!XCLK_BIASREF!!!!!!!10 MIL!!34.61 ohms!!27.53 ohms!60.00 ohms!
+S!WWAN_WAKE#!WWAN_WAKE#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!WWAN_RADIO_DIS#_R!WWAN_RADIO_DIS#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!WWAN_RADIO_DIS#!WWAN_RADIO_DIS#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!WWAN_PWR_EN!WWAN_PWR_EN!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!WLAN_WIGIG60GHZ_DIS#_R!WLAN_WIGIG60GHZ_DIS#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!WLAN_WIGIG60GHZ_DIS#!WLAN_WIGIG60GHZ_DIS#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!WIGIG_32KHZ!WIGIG_32KHZ!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!VSYNC_CRT!VSYNC_CRT!!CRT_SYNC_12_20!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!VSYNC_CONN!VSYNC_CONN!!CRT_SYNC_12_20!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!VSS_GT_SENSE!VSS_GT_SENSE!!!!DIFFPAIR50!!!!!30.69 ohms!!27.53 ohms!60.00 ohms!
+S!VSSSENSE!VSSSENSE!!!!DIFFPAIR49!!!!!29.15 ohms!!27.53 ohms!60.00 ohms!
+S!VSSIO_SENSE!VSSIO_SENSE!!!!DIFFPAIR36!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!VSET_ 00005105!VSET_5105!!!!!!!!!43.43 ohms!!43.02 ohms!60.00 ohms!
+S!VSA_SEN-!VSA_SEN-!!!!!!!!!28.49 ohms!!27.53 ohms!60.00 ohms!
+S!VSA_SEN+!VSA_SEN+!!!!!!!!!28.35 ohms!!27.53 ohms!60.00 ohms!
+S!VRALERT#!VRALERT#!!!!!!!!!46.09 ohms!!44.84 ohms!60.00 ohms!
+S!VIN_1V_PRIM!VIN_1V_PRIM!!!!!!!!!3.77 ohms!!3.20 ohms!44.84 ohms!
+S!VIN_1VS_VCCIO!VIN_1VS_VCCIO!!!!!!!!!3.04 ohms!!3.04 ohms!3.04 ohms!
+S!VIN_1.8VALW!VIN_1.8VALW!!!!!!!!!5.19 ohms!!5.19 ohms!5.19 ohms!
+S!VIDSOUT_B!VIDSOUT_B!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!VIDSOUT!VIDSOUT!!!!!!!!!46.82 ohms!!44.84 ohms!60.00 ohms!
+S!VIDSCLK_B!VIDSCLK_B!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!VIDSCLK!VIDSCLK!!!!!!!!!45.92 ohms!!44.84 ohms!60.00 ohms!
+S!VIDALERT_N_B!VIDALERT_N_B!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!VIDALERT_N!VIDALERT_N!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!VID1_VCCIO!VID1_VCCIO!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!VID1_PRIM_CORE!VID1_PRIM_CORE!!!!!!!!!28.33 ohms!!27.53 ohms!60.00 ohms!
+S!VID0_VCCIO!VID0_VCCIO!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!VID0_PRIM_CORE!VID0_PRIM_CORE!!!!!!!!!29.12 ohms!!27.53 ohms!60.00 ohms!
+S!VGA_ID!VGA_ID!!!!!!!!!44.80 ohms!!43.91 ohms!44.84 ohms!
+S!VDD_ISL 00088738!VDD_ISL88738!!!!!!!!!27.90 ohms!!27.53 ohms!31.52 ohms!
+S!VDDP_ISL 00088738!VDDP_ISL88738!!!!!!!10 MIL!!30.08 ohms!!27.53 ohms!40.48 ohms!
+S!VCT_LAN_R 00000001!VCT_LAN_R1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!VCC_GT_SENSE!VCC_GT_SENSE!!!!DIFFPAIR50!!!!!29.19 ohms!!27.53 ohms!60.00 ohms!
+S!VCCST_PWRGD_EC!VCCST_PWRGD_EC!!!!!!!!!44.78 ohms!!43.91 ohms!44.84 ohms!
+S!VCCST_PWRGD_CPU!VCCST_PWRGD_CPU!!!!!!!!!46.68 ohms!!44.84 ohms!50.19 ohms!
+S!VCCST_PWRGD!VCCST_PWRGD!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!VCCSENSE!VCCSENSE!!!!DIFFPAIR49!!!!!28.64 ohms!!27.53 ohms!60.00 ohms!
+S!VCCSA_B+!VCCSA_B+!!!!!!!!!3.36 ohms!!2.84 ohms!7.59 ohms!
+S!VCCIO_SENSE!VCCIO_SENSE!!!!DIFFPAIR36!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!VBUS2_ECOK!VBUS2_ECOK!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!VBUS1_ECOK!VBUS1_ECOK!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!VBAT1_ISL 00088738!VBAT1_ISL88738!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!USH_SMBDAT!USH_SMBDAT!!!DIFF!DIFFPAIR20!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!USH_SMBCLK!USH_SMBCLK!!!DIFF!DIFFPAIR20!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!USH_RST#_R!USH_RST#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USH_PWR_STATE#!USH_PWR_STATE#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!USH_DET#_R!USH_DET#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USH_DET#!USH_DET#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!USB_PWR_SHR_VBUS_EN!USB_PWR_SHR_VBUS_EN!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!USB_PWR_SHR_LFT_EN#!USB_PWR_SHR_LFT_EN#!!!!!!!!!44.78 ohms!!43.91 ohms!60.00 ohms!
+S!USB_PWR_EN2#!USB_PWR_EN2#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!USB_PWR_EN1#!USB_PWR_EN1#!!!!!!!!!44.80 ohms!!43.91 ohms!60.00 ohms!
+S!USB_OC3#!USB_OC3#!!!!!!!!!47.50 ohms!!44.84 ohms!50.19 ohms!
+S!USB_OC2#!USB_OC2#!!!!!!!!!45.44 ohms!!44.84 ohms!60.00 ohms!
+S!USB_OC1#!USB_OC1#!!!!!!!!!45.49 ohms!!44.84 ohms!60.00 ohms!
+S!USB_OC0#!USB_OC0#!!!!!!!!!45.02 ohms!!44.84 ohms!60.00 ohms!
+S!USBCOMP!USBCOMP!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB3_PTX_RD_DRX_P 00000001!USB3_PTX_RD_DRX_P1!!!DIFF!USB3_PTX_RD_DRX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_RD_DRX_N 00000001!USB3_PTX_RD_DRX_N1!!!DIFF!USB3_PTX_RD_DRX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_L_DRX_P 00000002!USB3_PTX_L_DRX_P2!!!DIFF!USB3_PTX_L_DRX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_L_DRX_N 00000002!USB3_PTX_L_DRX_N2!!!DIFF!USB3_PTX_L_DRX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_DRX_P 00000006!USB3_PTX_DRX_P6!!!DIFF!USB3_PTX_DRX_6!!!!!48.25 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_P 00000004!USB3_PTX_DRX_P4!!!DIFF!USB3_PTX_DRX_4!!!!!47.66 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_P 00000003!USB3_PTX_DRX_P3!!!DIFF!USB3_PTX_DRX_3!!!!!47.61 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_P 00000002!USB3_PTX_DRX_P2!!!DIFF!USB3_PTX_DRX_2!!!!!46.94 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_P 00000001!USB3_PTX_DRX_P1!!!DIFF!USB3_PTX_DRX_1!!!!!49.18 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_N 00000006!USB3_PTX_DRX_N6!!!DIFF!USB3_PTX_DRX_6!!!!!48.36 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_N 00000004!USB3_PTX_DRX_N4!!!DIFF!USB3_PTX_DRX_4!!!!!47.58 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_N 00000003!USB3_PTX_DRX_N3!!!DIFF!USB3_PTX_DRX_3!!!!!47.74 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_N 00000002!USB3_PTX_DRX_N2!!!DIFF!USB3_PTX_DRX_2!!!!!46.95 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_DRX_N 00000001!USB3_PTX_DRX_N1!!!DIFF!USB3_PTX_DRX_1!!!!!49.19 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PTX_C_RD_DRX_P 00000001!USB3_PTX_C_RD_DRX_P1!!!DIFF!USB3_PTX_C_RD_DRX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_RD_DRX_N 00000001!USB3_PTX_C_RD_DRX_N1!!!DIFF!USB3_PTX_C_RD_DRX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_P 00000006!USB3_PTX_C_DRX_P6!!!DIFF!USB3_PTX_C_DRX_6!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_P 00000004!USB3_PTX_C_DRX_P4!!!DIFF!USB3_PTX_C_DRX_4!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_P 00000003!USB3_PTX_C_DRX_P3!!!DIFF!USB3_PTX_C_DRX_3!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_P 00000002!USB3_PTX_C_DRX_P2!!!DIFF!USB3_PTX_C_DRX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_P 00000001!USB3_PTX_C_DRX_P1!!!DIFF!USB3_PTX_C_DRX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_N 00000006!USB3_PTX_C_DRX_N6!!!DIFF!USB3_PTX_C_DRX_6!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_N 00000004!USB3_PTX_C_DRX_N4!!!DIFF!USB3_PTX_C_DRX_4!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_N 00000003!USB3_PTX_C_DRX_N3!!!DIFF!USB3_PTX_C_DRX_3!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_N 00000002!USB3_PTX_C_DRX_N2!!!DIFF!USB3_PTX_C_DRX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PTX_C_DRX_N 00000001!USB3_PTX_C_DRX_N1!!!DIFF!USB3_PTX_C_DRX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PRX_RD_DTX_P 00000001!USB3_PRX_RD_DTX_P1!!!DIFF!USB3_PRX_RD_DTX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PRX_RD_DTX_N 00000001!USB3_PRX_RD_DTX_N1!!!DIFF!USB3_PRX_RD_DTX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PRX_L_DTX_P 00000002!USB3_PRX_L_DTX_P2!!!DIFF!USB3_PRX_L_DTX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PRX_L_DTX_N 00000002!USB3_PRX_L_DTX_N2!!!DIFF!USB3_PRX_L_DTX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PRX_DTX_P 00000006!USB3_PRX_DTX_P6!!!DIFF!USB3_PRX_DTX_6!!!!!47.33 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_P 00000004!USB3_PRX_DTX_P4!!!DIFF!USB3_PRX_DTX_4!!!!!46.42 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_P 00000003!USB3_PRX_DTX_P3!!!DIFF!USB3_PRX_DTX_3!!!!!46.48 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_P 00000002!USB3_PRX_DTX_P2!!!DIFF!USB3_PRX_DTX_2!!!!!46.65 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_P 00000001!USB3_PRX_DTX_P1!!!DIFF!USB3_PRX_DTX_1!!!!!47.44 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_N 00000006!USB3_PRX_DTX_N6!!!DIFF!USB3_PRX_DTX_6!!!!!47.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_N 00000004!USB3_PRX_DTX_N4!!!DIFF!USB3_PRX_DTX_4!!!!!46.42 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_N 00000003!USB3_PRX_DTX_N3!!!DIFF!USB3_PRX_DTX_3!!!!!46.47 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_N 00000002!USB3_PRX_DTX_N2!!!DIFF!USB3_PRX_DTX_2!!!!!46.67 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_DTX_N 00000001!USB3_PRX_DTX_N1!!!DIFF!USB3_PRX_DTX_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB3_PRX_C_RD_DTX_P 00000001!USB3_PRX_C_RD_DTX_P1!!!DIFF!USB3_PRX_C_RD_DTX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PRX_C_RD_DTX_N 00000001!USB3_PRX_C_RD_DTX_N1!!!DIFF!USB3_PRX_C_RD_DTX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PRX_C_DTX_P 00000006!USB3_PRX_C_DTX_P6!!!DIFF!USB3_PRX_C_DTX_6!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB3_PRX_C_DTX_N 00000006!USB3_PRX_C_DTX_N6!!!DIFF!USB3_PRX_C_DTX_6!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB2_VBUSSENSE!USB2_VBUSSENSE!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!USB2_ID!USB2_ID!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!USB20_P 00000009!USB20_P9!!!DIFF!USB20_9!!!!!50.19 ohms!!50.19 ohms!60.00 ohms!
+S!USB20_P8_R!USB20_P8_R!!!DIFF!USB20_8_R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_P 00000008!USB20_P8!!!DIFF!USB20_8!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_P7_L!USB20_P7_L!!!DIFF!USB20_7_L!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_P 00000007!USB20_P7!!!DIFF!USB20_7!!!!!47.29 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_P5_R!USB20_P5_R!!!DIFF!USB20_5_R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_P 00000005!USB20_P5!!!DIFF!USB20_5!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_P4_L!USB20_P4_L!!!DIFF!USB20_4_L!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_P 00000004!USB20_P4!!!DIFF!USB20_4!!!!!46.55 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_P3_R!USB20_P3_R!!!DIFF!USB20_3_R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_P 00000003!USB20_P3!!!DIFF!USB20_3!!!!!49.19 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_P2_R!USB20_P2_R!!!DIFF!USB20_2_R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_P 00000002!USB20_P2!!!DIFF!USB20_2!!!!!47.38 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_P1_R!USB20_P1_R!!!DIFF!USB20_1_R!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_P 00000010!USB20_P10!!!DIFF!USB20_10!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_P 00000001!USB20_P1!!!DIFF!USB20_1!!!!!46.51 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N 00000009!USB20_N9!!!DIFF!USB20_9!!!!!50.19 ohms!!50.19 ohms!60.00 ohms!
+S!USB20_N8_R!USB20_N8_R!!!DIFF!USB20_8_R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_N 00000008!USB20_N8!!!DIFF!USB20_8!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N7_L!USB20_N7_L!!!DIFF!USB20_7_L!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_N 00000007!USB20_N7!!!DIFF!USB20_7!!!!!47.24 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N5_R!USB20_N5_R!!!DIFF!USB20_5_R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_N 00000005!USB20_N5!!!DIFF!USB20_5!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N4_L!USB20_N4_L!!!DIFF!USB20_4_L!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_N 00000004!USB20_N4!!!DIFF!USB20_4!!!!!46.55 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N3_R!USB20_N3_R!!!DIFF!USB20_3_R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_N 00000003!USB20_N3!!!DIFF!USB20_3!!!!!49.20 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N2_R!USB20_N2_R!!!DIFF!USB20_2_R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!USB20_N 00000002!USB20_N2!!!DIFF!USB20_2!!!!!47.49 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N1_R!USB20_N1_R!!!DIFF!USB20_1_R!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N 00000010!USB20_N10!!!DIFF!USB20_10!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!USB20_N 00000001!USB20_N1!!!DIFF!USB20_1!!!!!46.53 ohms!!46.31 ohms!60.00 ohms!
+S!USB1_TEST!USB1_TEST!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB1_B_EQ 00000001!USB1_B_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB1_B_EQ 00000000!USB1_B_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB1_B_DE 00000001!USB1_B_DE1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB1_B_DE 00000000!USB1_B_DE0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB1_A_EQ 00000001!USB1_A_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB1_A_EQ 00000000!USB1_A_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB1_A_DE 00000001!USB1_A_DE1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!USB1_A_DE 00000000!USB1_A_DE0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!UPD2_SMBDAT!UPD2_SMBDAT!!!DIFF!DIFFPAIR37!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!UPD2_SMBCLK!UPD2_SMBCLK!!!DIFF!DIFFPAIR37!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!UPD2_ALERT#!UPD2_ALERT#!!!DIFF!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!UPD1_SMBUS_ALERT#!UPD1_SMBUS_ALERT#!!!DIFF!!!!!!46.03 ohms!!44.84 ohms!50.19 ohms!
+S!UPD1_SMBDAT_Q!UPD1_SMBDAT_Q!!!DIFF!DIFFPAIR22!!!!!45.29 ohms!!44.84 ohms!60.00 ohms!
+S!UPD1_SMBDAT!UPD1_SMBDAT!!!DIFF!DIFFPAIR31!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!UPD1_SMBCLK_Q!UPD1_SMBCLK_Q!!!DIFF!DIFFPAIR22!!!!!45.33 ohms!!44.84 ohms!60.00 ohms!
+S!UPD1_SMBCLK!UPD1_SMBCLK!!!DIFF!DIFFPAIR31!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!UPD1_ALERT#!UPD1_ALERT#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!UIM_RESET!UIM_RESET!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!UIM_DATA!UIM_DATA!!!!DIFFPAIR19!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!UIM_CLK!UIM_CLK!!!!DIFFPAIR19!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!UG2_ISL 00088738!UG2_ISL88738!!!!!!!30 MIL!!13.40 ohms!!9.71 ohms!60.00 ohms!
+S!UG1_ISL 00088738!UG1_ISL88738!!!!!!!30 MIL!!15.14 ohms!!13.20 ohms!60.00 ohms!
+S!UART_MOSI!UART_MOSI!!!!!!!!!45.91 ohms!!44.84 ohms!50.19 ohms!
+S!UART_MISO!UART_MISO!!!!!!!!!46.55 ohms!!44.84 ohms!50.19 ohms!
+S!TUSB546A_SBU2_R!TUSB546A_SBU2_R!!!DIFF!DIFFPAIR45!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TUSB546A_SBU1_R!TUSB546A_SBU1_R!!!DIFF!DIFFPAIR45!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TRST#_XDP!TRST#_XDP!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TP_LAN_JTAG_TMS!TP_LAN_JTAG_TMS!!!!!!!!!43.83 ohms!!43.02 ohms!44.84 ohms!
+S!TP_LAN_JTAG_TDO!TP_LAN_JTAG_TDO!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TP_LAN_JTAG_TDI!TP_LAN_JTAG_TDI!!!!!!!!!44.30 ohms!!43.02 ohms!44.84 ohms!
+S!TP_LAN_JTAG_TCK!TP_LAN_JTAG_TCK!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TPM_TYPE!TPM_TYPE!!!!!!!!!46.04 ohms!!44.84 ohms!50.19 ohms!
+S!TPM_PIRQ#!TPM_PIRQ#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!TOUCH_SCREEN_PD#!TOUCH_SCREEN_PD#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!TOUCH_SCREEN_DET#!TOUCH_SCREEN_DET#!!!!!!!!!45.88 ohms!!44.84 ohms!60.00 ohms!
+S!TOUCHPAD_INTR#!TOUCHPAD_INTR#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!THERMATRIP2#!THERMATRIP2#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!THERMATRIP1#!THERMATRIP1#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TDO_XDP!TDO_XDP!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!TDI_XDP!TDI_XDP!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBT_FORCE_PWR!TBT_FORCE_PWR!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_TX2P_C!TBTA_TX2P_C!!!DIFF!TBTA_TX2_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TX2P!TBTA_TX2P!!!DIFF!TBTA_TX2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TX2N_C!TBTA_TX2N_C!!!DIFF!TBTA_TX2_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TX2N!TBTA_TX2N!!!DIFF!TBTA_TX2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TX1P_C!TBTA_TX1P_C!!!DIFF!TBTA_TX1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TX1P!TBTA_TX1P!!!DIFF!TBTA_TX1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TX1N_C!TBTA_TX1N_C!!!DIFF!TBTA_TX1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TX1N!TBTA_TX1N!!!DIFF!TBTA_TX1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TOP_P_R!TBTA_TOP_P_R!!!DIFF!TBTA_TOP__R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TOP_P!TBTA_TOP_P!!!DIFF!TBTA_TOP_!!!!!46.84 ohms!!46.31 ohms!60.00 ohms!
+S!TBTA_TOP_N_R!TBTA_TOP_N_R!!!DIFF!TBTA_TOP__R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_TOP_N!TBTA_TOP_N!!!DIFF!TBTA_TOP_!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!TBTA_SBU2_R!TBTA_SBU2_R!!!DIFF!DIFFPAIR46!!!!!47.83 ohms!!46.31 ohms!50.19 ohms!
+S!TBTA_SBU 00000002!TBTA_SBU2!!!DIFF!DIFFPAIR47!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!TBTA_SBU1_R!TBTA_SBU1_R!!!DIFF!DIFFPAIR46!!!!!48.43 ohms!!46.31 ohms!50.19 ohms!
+S!TBTA_SBU 00000001!TBTA_SBU1!!!DIFF!DIFFPAIR47!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!TBTA_RX2P!TBTA_RX2P!!!DIFF!TBTA_RX2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_RX2N!TBTA_RX2N!!!DIFF!TBTA_RX2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_RX1P!TBTA_RX1P!!!DIFF!TBTA_RX1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_RX1N!TBTA_RX1N!!!DIFF!TBTA_RX1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_ROSC!TBTA_ROSC!!!!!!!!!47.95 ohms!!44.84 ohms!50.19 ohms!
+S!TBTA_ROM_WP#_PD!TBTA_ROM_WP#_PD!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_ROM_HOLD#_PD!TBTA_ROM_HOLD#_PD!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_ROM_DO_PD_R!TBTA_ROM_DO_PD_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_ROM_DO_PD!TBTA_ROM_DO_PD!!!!!!!!!45.13 ohms!!44.84 ohms!60.00 ohms!
+S!TBTA_ROM_DI_PD_R!TBTA_ROM_DI_PD_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_ROM_DI_PD!TBTA_ROM_DI_PD!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!TBTA_ROM_CS#_PD_R!TBTA_ROM_CS#_PD_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_ROM_CS#_PD!TBTA_ROM_CS#_PD!!!!!!!!!45.86 ohms!!44.84 ohms!60.00 ohms!
+S!TBTA_ROM_CLK_PD_R!TBTA_ROM_CLK_PD_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_ROM_CLK_PD!TBTA_ROM_CLK_PD!!!!!!!!!45.46 ohms!!44.84 ohms!60.00 ohms!
+S!TBTA_MRESET!TBTA_MRESET!!!!!!!!!47.13 ohms!!44.84 ohms!50.19 ohms!
+S!TBTA_LSTX_R!TBTA_LSTX_R!!!!!!!!!45.79 ohms!!44.84 ohms!46.31 ohms!
+S!TBTA_LSRX_R!TBTA_LSRX_R!!!!!!!!!45.53 ohms!!44.84 ohms!50.19 ohms!
+S!TBTA_DEBUG 00000004!TBTA_DEBUG4!!!!!!!!!45.49 ohms!!44.84 ohms!50.19 ohms!
+S!TBTA_DEBUG 00000003!TBTA_DEBUG3!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_DEBUG 00000002!TBTA_DEBUG2!!!!!!!!!46.27 ohms!!44.84 ohms!50.19 ohms!
+S!TBTA_DEBUG 00000001!TBTA_DEBUG1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_DBG_CTL 00000002!TBTA_DBG_CTL2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!TBTA_DBG_CTL 00000001!TBTA_DBG_CTL1!!!!!!!!!45.96 ohms!!44.84 ohms!50.19 ohms!
+S!TBTA_CC 00000002!TBTA_CC2!!!!DIFFPAIR48!!!10 MIL!!22.14 ohms!!20.96 ohms!60.00 ohms!
+S!TBTA_CC 00000001!TBTA_CC1!!!!DIFFPAIR48!!!10 MIL!!22.64 ohms!!20.96 ohms!60.00 ohms!
+S!TBTA_BOT_P_R!TBTA_BOT_P_R!!!DIFF!TBTA_BOT__R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_BOT_P!TBTA_BOT_P!!!DIFF!TBTA_BOT_!!!!!48.71 ohms!!46.31 ohms!60.00 ohms!
+S!TBTA_BOT_N_R!TBTA_BOT_N_R!!!DIFF!TBTA_BOT__R!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!TBTA_BOT_N!TBTA_BOT_N!!!DIFF!TBTA_BOT_!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!TBTA_AUXP_C!TBTA_AUXP_C!!!DIFF!TBTA_AUX_C!!!!!47.83 ohms!!46.31 ohms!50.19 ohms!
+S!TBTA_AUXN_C!TBTA_AUXN_C!!!DIFF!TBTA_AUX_C!!!!!47.96 ohms!!46.31 ohms!50.19 ohms!
+S!SYS_RESET#_R!SYS_RESET#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SYS_RESET#!SYS_RESET#!!!!!!!!!45.18 ohms!!44.84 ohms!60.00 ohms!
+S!SYS_PWROK!SYS_PWROK!!!!!!!!!45.10 ohms!!43.91 ohms!60.00 ohms!
+S!SYS_LED_MASK#!SYS_LED_MASK#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SW_USB20_P 00000001!SW_USB20_P1!!!DIFF!SW_USB20_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW_USB20_N 00000001!SW_USB20_N1!!!DIFF!SW_USB20_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP3_P1_C!SW2_DP3_P1_C!!DP_SW_12_15!DIFF!SW2_DP3_1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP3_P 00000001!SW2_DP3_P1!!DP_SW_12_15!DIFF!SW2_DP3_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP3_P0_C!SW2_DP3_P0_C!!DP_SW_12_15!DIFF!SW2_DP3_0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP3_P 00000000!SW2_DP3_P0!!DP_SW_12_15!DIFF!SW2_DP3_0!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP3_N1_C!SW2_DP3_N1_C!!DP_SW_12_15!DIFF!SW2_DP3_1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP3_N 00000001!SW2_DP3_N1!!DP_SW_12_15!DIFF!SW2_DP3_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP3_N0_C!SW2_DP3_N0_C!!DP_SW_12_15!DIFF!SW2_DP3_0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP3_N 00000000!SW2_DP3_N0!!DP_SW_12_15!DIFF!SW2_DP3_0!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP3_HPD!SW2_DP3_HPD!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SW2_DP3_CADET!SW2_DP3_CADET!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SW2_DP3_AUXP_C!SW2_DP3_AUXP_C!!DP_SW_12_15!DIFF!SW2_DP3_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP3_AUXP!SW2_DP3_AUXP!!DP_SW_12_15!DIFF!SW2_DP3_AUX!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP3_AUXN_C!SW2_DP3_AUXN_C!!DP_SW_12_15!DIFF!SW2_DP3_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP3_AUXN!SW2_DP3_AUXN!!DP_SW_12_15!DIFF!SW2_DP3_AUX!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_P3_C!SW2_DP2_P3_C!!DP_SW_12_15!DIFF!SW2_DP2_3_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_P 00000003!SW2_DP2_P3!!DP_SW_12_15!DIFF!SW2_DP2_3!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_P2_C!SW2_DP2_P2_C!!DP_SW_12_15!DIFF!SW2_DP2_2_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_P 00000002!SW2_DP2_P2!!DP_SW_12_15!DIFF!SW2_DP2_2!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_P1_C!SW2_DP2_P1_C!!DP_SW_12_15!DIFF!SW2_DP2_1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_P 00000001!SW2_DP2_P1!!DP_SW_12_15!DIFF!SW2_DP2_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_P0_C!SW2_DP2_P0_C!!DP_SW_12_15!DIFF!SW2_DP2_0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_P 00000000!SW2_DP2_P0!!DP_SW_12_15!DIFF!SW2_DP2_0!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_N3_C!SW2_DP2_N3_C!!DP_SW_12_15!DIFF!SW2_DP2_3_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_N 00000003!SW2_DP2_N3!!DP_SW_12_15!DIFF!SW2_DP2_3!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_N2_C!SW2_DP2_N2_C!!DP_SW_12_15!DIFF!SW2_DP2_2_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_N 00000002!SW2_DP2_N2!!DP_SW_12_15!DIFF!SW2_DP2_2!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_N1_C!SW2_DP2_N1_C!!DP_SW_12_15!DIFF!SW2_DP2_1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_N 00000001!SW2_DP2_N1!!DP_SW_12_15!DIFF!SW2_DP2_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_N0_C!SW2_DP2_N0_C!!DP_SW_12_15!DIFF!SW2_DP2_0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_N 00000000!SW2_DP2_N0!!DP_SW_12_15!DIFF!SW2_DP2_0!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_HPD!SW2_DP2_HPD!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SW2_DP2_CADET!SW2_DP2_CADET!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SW2_DP2_AUXP_C!SW2_DP2_AUXP_C!!DP_SW_12_15!DIFF!SW2_DP2_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_AUXP!SW2_DP2_AUXP!!DP_SW_12_15!DIFF!SW2_DP2_AUX!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP2_AUXN_C!SW2_DP2_AUXN_C!!DP_SW_12_15!DIFF!SW2_DP2_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP2_AUXN!SW2_DP2_AUXN!!DP_SW_12_15!DIFF!SW2_DP2_AUX!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_P3_C!SW2_DP1_P3_C!!DP_SW_12_15!DIFF!SW2_DP1_3_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_P 00000003!SW2_DP1_P3!!DP_SW_12_15!DIFF!SW2_DP1_3!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_P2_C!SW2_DP1_P2_C!!DP_SW_12_15!DIFF!SW2_DP1_2_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_P 00000002!SW2_DP1_P2!!DP_SW_12_15!DIFF!SW2_DP1_2!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_P1_C!SW2_DP1_P1_C!!DP_SW_12_15!DIFF!SW2_DP1_1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_P 00000001!SW2_DP1_P1!!DP_SW_12_15!DIFF!SW2_DP1_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_P0_C!SW2_DP1_P0_C!!DP_SW_12_15!DIFF!SW2_DP1_0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_P 00000000!SW2_DP1_P0!!DP_SW_12_15!DIFF!SW2_DP1_0!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_N3_C!SW2_DP1_N3_C!!DP_SW_12_15!DIFF!SW2_DP1_3_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_N 00000003!SW2_DP1_N3!!DP_SW_12_15!DIFF!SW2_DP1_3!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_N2_C!SW2_DP1_N2_C!!DP_SW_12_15!DIFF!SW2_DP1_2_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_N 00000002!SW2_DP1_N2!!DP_SW_12_15!DIFF!SW2_DP1_2!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_N1_C!SW2_DP1_N1_C!!DP_SW_12_15!DIFF!SW2_DP1_1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_N 00000001!SW2_DP1_N1!!DP_SW_12_15!DIFF!SW2_DP1_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_N0_C!SW2_DP1_N0_C!!DP_SW_12_15!DIFF!SW2_DP1_0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_N 00000000!SW2_DP1_N0!!DP_SW_12_15!DIFF!SW2_DP1_0!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_HPD!SW2_DP1_HPD!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SW2_DP1_CADET!SW2_DP1_CADET!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SW2_DP1_AUXP_C!SW2_DP1_AUXP_C!!DP_SW_12_15!DIFF!SW2_DP1_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_AUXP!SW2_DP1_AUXP!!DP_SW_12_15!DIFF!SW2_DP1_AUX!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SW2_DP1_AUXN_C!SW2_DP1_AUXN_C!!DP_SW_12_15!DIFF!SW2_DP1_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!SW2_DP1_AUXN!SW2_DP1_AUXN!!DP_SW_12_15!DIFF!SW2_DP1_AUX!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!SUSCLK_R!SUSCLK_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SUSCLK!SUSCLK!!!!!!!!!45.09 ohms!!44.84 ohms!60.00 ohms!
+S!SUSACK#!SUSACK#!!!!!!!!!45.99 ohms!!43.91 ohms!60.00 ohms!
+S!SS_1V_PRIM!SS_1V_PRIM!!!!!!!!!29.83 ohms!!27.53 ohms!44.84 ohms!
+S!SS_1VS_VCCIO!SS_1VS_VCCIO!!!!!!!!!31.40 ohms!!27.53 ohms!44.84 ohms!
+S!SRTCRST#!SRTCRST#!!!!!!!!!45.55 ohms!!44.84 ohms!60.00 ohms!
+S!SPKR_R!SPKR_R!!!!!!!10 MIL!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!SPKR!SPKR!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SNUB_CHG 00000002!SNUB_CHG2!!!!!!!!!6.12 ohms!!4.45 ohms!44.84 ohms!
+S!SNUB_CHG 00000001!SNUB_CHG1!!!!!!!!!4.93 ohms!!4.93 ohms!4.93 ohms!
+S!SNUB_1V_PRIM!SNUB_1V_PRIM!!!!!!!!!14.47 ohms!!9.83 ohms!44.84 ohms!
+S!SNUB_1VS_VCCIO!SNUB_1VS_VCCIO!!!!!!!!!8.79 ohms!!7.02 ohms!44.84 ohms!
+S!SNUB_1.8VALW!SNUB_1.8VALW!!!!!!!!!12.76 ohms!!10.33 ohms!44.84 ohms!
+S!SM_RCOMP 00000002!SM_RCOMP2!!!!!!!15 MIL!!21.23 ohms!!20.96 ohms!27.53 ohms!
+S!SM_RCOMP 00000001!SM_RCOMP1!!!!!!!15 MIL!!21.23 ohms!!20.96 ohms!27.53 ohms!
+S!SM_RCOMP 00000000!SM_RCOMP0!!!!!!!15 MIL!!22.68 ohms!!20.96 ohms!27.53 ohms!
+S!SML1_SMBDATA!SML1_SMBDATA!!!DIFF!DIFFPAIR1!!!!!45.94 ohms!!44.84 ohms!60.00 ohms!
+S!SML1_SMBCLK!SML1_SMBCLK!!!DIFF!DIFFPAIR1!!!!!45.92 ohms!!44.84 ohms!60.00 ohms!
+S!SML0_SMBDATA!SML0_SMBDATA!!!DIFF!DIFFPAIR0!!!!!45.07 ohms!!44.84 ohms!60.00 ohms!
+S!SML0_SMBCLK!SML0_SMBCLK!!!DIFF!DIFFPAIR0!!!!!45.41 ohms!!44.84 ohms!60.00 ohms!
+S!SLOT2_CONFIG_ 00000003!SLOT2_CONFIG_3!!!!!!!!!44.75 ohms!!43.02 ohms!60.00 ohms!
+S!SLOT2_CONFIG_ 00000002!SLOT2_CONFIG_2!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SLOT2_CONFIG_ 00000001!SLOT2_CONFIG_1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SLOT2_CONFIG_ 00000000!SLOT2_CONFIG_0!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SLEEVE_R!SLEEVE_R!!!!!!!50 MIL!!4.07 ohms!!3.22 ohms!60.00 ohms!
+S!SLEEVE!SLEEVE!!!!!!!50 MIL!!8.33 ohms!!7.15 ohms!60.00 ohms!
+S!SIO_SLP_WLAN#!SIO_SLP_WLAN#!!!!!!!!!45.05 ohms!!43.02 ohms!60.00 ohms!
+S!SIO_SLP_SUS#!SIO_SLP_SUS#!!!!!!!!!43.07 ohms!!27.53 ohms!60.00 ohms!
+S!SIO_SLP_S5#!SIO_SLP_S5#!!!!!!!!!44.72 ohms!!43.02 ohms!60.00 ohms!
+S!SIO_SLP_S4#!SIO_SLP_S4#!!!!!!!!!44.94 ohms!!44.84 ohms!60.00 ohms!
+S!SIO_SLP_S3#!SIO_SLP_S3#!!!!!!!!!44.95 ohms!!43.91 ohms!60.00 ohms!
+S!SIO_SLP_S0#!SIO_SLP_S0#!!!!!!!!!44.38 ohms!!27.53 ohms!60.00 ohms!
+S!SIO_SLP_LAN#!SIO_SLP_LAN#!!!!!!!!!45.11 ohms!!43.91 ohms!60.00 ohms!
+S!SIO_SLP_A#!SIO_SLP_A#!!!!!!!!!44.91 ohms!!44.84 ohms!60.00 ohms!
+S!SIO_RCIN#_EC!SIO_RCIN#_EC!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SIO_RCIN#!SIO_RCIN#!!!!!!!!!45.20 ohms!!44.84 ohms!60.00 ohms!
+S!SIO_PWRBTN#!SIO_PWRBTN#!!!!!!!!!46.02 ohms!!44.84 ohms!60.00 ohms!
+S!SIO_EXT_WAKE#!SIO_EXT_WAKE#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SIO_EXT_SMI#_EC!SIO_EXT_SMI#_EC!!!!!!!!!44.44 ohms!!43.91 ohms!60.00 ohms!
+S!SIO_EXT_SMI#!SIO_EXT_SMI#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SIO_EXT_SCI#_EC!SIO_EXT_SCI#_EC!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SIO_EXT_SCI#!SIO_EXT_SCI#!!!!!!!!!44.91 ohms!!44.84 ohms!60.00 ohms!
+S!SIM_DET!SIM_DET!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SHD_IO3_R 00000002!SHD_IO3_R2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SHD_IO3_R 00000001!SHD_IO3_R1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SHD_IO 00000003!SHD_IO3!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SHD_IO2_R 00000002!SHD_IO2_R2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SHD_IO2_R 00000001!SHD_IO2_R1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SHD_IO 00000002!SHD_IO2!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SHD_IO1_R 00000002!SHD_IO1_R2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SHD_IO1_R 00000001!SHD_IO1_R1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SHD_IO 00000001!SHD_IO1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SHD_IO0_R 00000002!SHD_IO0_R2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SHD_IO0_R 00000001!SHD_IO0_R1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SHD_IO 00000000!SHD_IO0!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SHD_CS#!SHD_CS#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SHD_CLK_R 00000001!SHD_CLK_R1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SHD_CLK!SHD_CLK!!!!!!!!!44.39 ohms!!43.91 ohms!60.00 ohms!
+S!SD_UHS2_D1P!SD_UHS2_D1P!!!DIFF!SD_UHS2_D1!!!!!47.35 ohms!!47.35 ohms!60.00 ohms!
+S!SD_UHS2_D1N!SD_UHS2_D1N!!!DIFF!SD_UHS2_D1!!!!!47.35 ohms!!47.35 ohms!60.00 ohms!
+S!SD_UHS2_D0P!SD_UHS2_D0P!!!DIFF!SD_UHS2_D0!!!!!47.35 ohms!!47.35 ohms!60.00 ohms!
+S!SD_UHS2_D0N!SD_UHS2_D0N!!!DIFF!SD_UHS2_D0!!!!!47.35 ohms!!47.35 ohms!60.00 ohms!
+S!SD_RCOMP!SD_RCOMP!!!!!!!15 MIL!!22.32 ohms!!20.96 ohms!60.00 ohms!
+S!SD_GPIO!SD_GPIO!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SDWP_Q!SDWP_Q!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SDWP!SDWP!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SD/MMCDAT3_R!SD/MMCDAT3_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SD/MMCDAT 00000003!SD/MMCDAT3!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SD/MMCDAT2_R!SD/MMCDAT2_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SD/MMCDAT 00000002!SD/MMCDAT2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SD/MMCDAT1/RCLK-_R!SD/MMCDAT1/RCLK-_R!!!!SD/MMCDAT1/RCLK-_R!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SD/MMCDAT1/RCLK-!SD/MMCDAT1/RCLK-!!!!SD/MMCDAT1/RCLK-!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SD/MMCDAT0/RCLK+_R!SD/MMCDAT0/RCLK+_R!!!!SD/MMCDAT1/RCLK-_R!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SD/MMCDAT0/RCLK+!SD/MMCDAT0/RCLK+!!!!SD/MMCDAT1/RCLK-!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SD/MMCCMD_R!SD/MMCCMD_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SD/MMCCMD!SD/MMCCMD!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SD/MMCCLK_R!SD/MMCCLK_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SD/MMCCLK!SD/MMCCLK!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!SD/MMCCD#!SD/MMCCD#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!SBIOS_TX!SBIOS_TX!!!!!!!!!47.19 ohms!!44.84 ohms!60.00 ohms!
+S!SA_UGATE!SA_UGATE!!!!!!!!!10.71 ohms!!9.82 ohms!60.00 ohms!
+S!SA_SW!SA_SW!!!!!!!!!11.62 ohms!!3.52 ohms!60.00 ohms!
+S!SA_SNUB!SA_SNUB!!!!!!!!!7.21 ohms!!6.19 ohms!44.84 ohms!
+S!SA_LGATE!SA_LGATE!!!!!!!!!11.51 ohms!!10.45 ohms!60.00 ohms!
+S!RUN_ON_EC!RUN_ON_EC!!!!!!!!!44.65 ohms!!43.02 ohms!60.00 ohms!
+S!RUN_ON_1.8V!RUN_ON_1.8V!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RUN_ON#!RUN_ON#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RUN_ON!RUN_ON!!!!!!!!!44.46 ohms!!27.53 ohms!60.00 ohms!
+S!RUNPWROK!RUNPWROK!!!!!!!!!44.83 ohms!!43.91 ohms!60.00 ohms!
+S!RTD3_CIO_PWR_EN!RTD3_CIO_PWR_EN!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RTCRST_ON!RTCRST_ON!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RJ45_MDIP 00000003!RJ45_MDIP3!!LAN_20_25!DIFF!RJ45_MDI3!!!!!29.40 ohms!!29.40 ohms!60.00 ohms!
+S!RJ45_MDIP 00000002!RJ45_MDIP2!!LAN_20_25!DIFF!RJ45_MDI2!!!!!29.40 ohms!!29.40 ohms!60.00 ohms!
+S!RJ45_MDIP 00000001!RJ45_MDIP1!!LAN_20_25!DIFF!RJ45_MDI1!!!!!29.40 ohms!!29.40 ohms!60.00 ohms!
+S!RJ45_MDIP 00000000!RJ45_MDIP0!!LAN_20_25!DIFF!RJ45_MDI0!!!!!29.40 ohms!!29.40 ohms!60.00 ohms!
+S!RJ45_MDIN 00000003!RJ45_MDIN3!!LAN_20_25!DIFF!RJ45_MDI3!!!!!29.40 ohms!!29.40 ohms!60.00 ohms!
+S!RJ45_MDIN 00000002!RJ45_MDIN2!!LAN_20_25!DIFF!RJ45_MDI2!!!!!29.40 ohms!!29.40 ohms!60.00 ohms!
+S!RJ45_MDIN 00000001!RJ45_MDIN1!!LAN_20_25!DIFF!RJ45_MDI1!!!!!29.40 ohms!!29.40 ohms!60.00 ohms!
+S!RJ45_MDIN 00000000!RJ45_MDIN0!!LAN_20_25!DIFF!RJ45_MDI0!!!!!29.40 ohms!!29.40 ohms!60.00 ohms!
+S!RING2_R!RING2_R!!!!!!!50 MIL!!3.01 ohms!!2.79 ohms!4.72 ohms!
+S!RING 00000002!RING2!!!!!!!50 MIL!!7.67 ohms!!5.93 ohms!60.00 ohms!
+S!RES_BIAS!RES_BIAS!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RESET_OUT#_R!RESET_OUT#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!REM_DIODE4_P!REM_DIODE4_P!!!DIFF!REM_DIODE4_!!!10 MIL!!27.60 ohms!!27.53 ohms!60.00 ohms!
+S!REM_DIODE4_N!REM_DIODE4_N!!!DIFF!REM_DIODE4_!!!10 MIL!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!REM_DIODE2_P!REM_DIODE2_P!!!DIFF!REM_DIODE2_!!!10 MIL!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!REM_DIODE2_N!REM_DIODE2_N!!!DIFF!REM_DIODE2_!!!10 MIL!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!REM_DIODE1_P!REM_DIODE1_P!!!DIFF!REM_DIODE1_!!!10 MIL!!28.02 ohms!!27.53 ohms!60.00 ohms!
+S!REM_DIODE1_N!REM_DIODE1_N!!!DIFF!REM_DIODE1_!!!10 MIL!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!RED_CRT!RED_CRT!!CRT_DAC_20_30!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!RED!RED!!CRT_DAC_20_30!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_REXT!RD2_REXT!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_B_EQ 00000002!RD2_B_EQ2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_B_EQ 00000001!RD2_B_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_B_EQ 00000000!RD2_B_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_B_DE 00000001!RD2_B_DE1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_B_DE 00000000!RD2_B_DE0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_A_EQ2_R!RD2_A_EQ2_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_A_EQ 00000002!RD2_A_EQ2!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!RD2_A_EQ1_R!RD2_A_EQ1_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_A_EQ 00000001!RD2_A_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!RD2_A_EQ0_R!RD2_A_EQ0_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_A_EQ 00000000!RD2_A_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!RD2_A_DE 00000001!RD2_A_DE1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD2_A_DE 00000000!RD2_A_DE0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_REXT!RD1_REXT!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_B_EQ 00000002!RD1_B_EQ2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_B_EQ 00000001!RD1_B_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_B_EQ 00000000!RD1_B_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_B_DE 00000001!RD1_B_DE1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_B_DE 00000000!RD1_B_DE0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_A_EQ 00000002!RD1_A_EQ2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_A_EQ 00000001!RD1_A_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_A_EQ 00000000!RD1_A_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_A_DE 00000001!RD1_A_DE1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!RD1_A_DE 00000000!RD1_A_DE0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PWM_VSA!PWM_VSA!!!!!!!!!31.39 ohms!!27.53 ohms!60.00 ohms!
+S!PWM_IA!PWM_IA!!!!!!!!!30.25 ohms!!27.53 ohms!60.00 ohms!
+S!PWM1_GT!PWM1_GT!!!!!!!!!31.30 ohms!!27.53 ohms!60.00 ohms!
+S!PS_ID!PS_ID!!!!!!!!!44.73 ohms!!43.91 ohms!60.00 ohms!
+S!PS8348B_SW 00000001!PS8348B_SW1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PS8348B_SW 00000000!PS8348B_SW0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PS8348B_PI 00000001!PS8348B_PI1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PS8348B_PI 00000000!PS8348B_PI0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PS8348B_PEQ!PS8348B_PEQ!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PS8348B_PC 00000003!PS8348B_PC3!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PS8348B_PC 00000002!PS8348B_PC2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PS8348B_PC 00000001!PS8348B_PC1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PS8348B_CFG!PS8348B_CFG!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PROCHOT#_ISL 00088738!PROCHOT#_ISL88738!!!!!!!!!29.84 ohms!!27.53 ohms!31.52 ohms!
+S!PRIM_PWRGD_GPIO 00000024!PRIM_PWRGD_GPIO024!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!POWER_SW_IN#!POWER_SW_IN#!!!!!!!10 MIL!!29.17 ohms!!27.53 ohms!60.00 ohms!
+S!POWER_SW#_MB!POWER_SW#_MB!!!!!!!10 MIL!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!PORT80_DET#!PORT80_DET#!!!!!!!!!44.80 ohms!!43.91 ohms!60.00 ohms!
+S!POA_WAKE#!POA_WAKE#!!!!!!!!!44.82 ohms!!43.91 ohms!60.00 ohms!
+S!PM_LANPHY_ENABLE!PM_LANPHY_ENABLE!!!!!!!!!45.19 ohms!!44.84 ohms!60.00 ohms!
+S!PME#!PME#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PLTRST_TPM#!PLTRST_TPM#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PLTRST_LAN#!PLTRST_LAN#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PGOOD_5V!PGOOD_5V!!!!!!!!!31.67 ohms!!27.53 ohms!44.84 ohms!
+S!PGOOD_3V!PGOOD_3V!!!!!!!!!29.69 ohms!!27.53 ohms!44.84 ohms!
+S!PECI_EC_R!PECI_EC_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PECI_EC!PECI_EC!!!!!!!!!45.38 ohms!!44.84 ohms!60.00 ohms!
+S!PDA_RESET#_R!PDA_RESET#_R!!!!!!!!!33.71 ohms!!27.53 ohms!44.84 ohms!
+S!PD#!PD#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCI_CLK_LPC 00000001!PCI_CLK_LPC1!!!!!!!!!48.82 ohms!!44.84 ohms!60.00 ohms!
+S!PCIE_WAKE#_R!PCIE_WAKE#_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCIE_WAKE#!PCIE_WAKE#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCIE_RCOMPP!PCIE_RCOMPP!!!DIFF!PCIE_RCOMP!!!15 MIL!!22.26 ohms!!20.96 ohms!27.53 ohms!
+S!PCIE_RCOMPN!PCIE_RCOMPN!!!DIFF!PCIE_RCOMP!!!15 MIL!!21.68 ohms!!20.96 ohms!27.53 ohms!
+S!PCIE_PTX_RD_DRX_P 00000012!PCIE_PTX_RD_DRX_P12!!!DIFF!PCIE_PTX_RD_DRX_12!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_RD_DRX_P 00000011!PCIE_PTX_RD_DRX_P11!!!DIFF!PCIE_PTX_RD_DRX_11!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_RD_DRX_N 00000012!PCIE_PTX_RD_DRX_N12!!!DIFF!PCIE_PTX_RD_DRX_12!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_RD_DRX_N 00000011!PCIE_PTX_RD_DRX_N11!!!DIFF!PCIE_PTX_RD_DRX_11!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_P 00000009!PCIE_PTX_DRX_P9!!!DIFF!PCIE_PTX_DRX_9!!!!!48.60 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_P 00000004!PCIE_PTX_DRX_P4!!!DIFF!PCIE_PTX_DRX_4!!!!!46.68 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_P 00000003!PCIE_PTX_DRX_P3!!!DIFF!PCIE_PTX_DRX_3!!!!!46.76 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_P 00000012!PCIE_PTX_DRX_P12!!!DIFF!PCIE_PTX_DRX_12!!!!!48.01 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_P 00000011!PCIE_PTX_DRX_P11!!!DIFF!PCIE_PTX_DRX_11!!!!!47.26 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_P 00000001!PCIE_PTX_DRX_P1!!!DIFF!PCIE_PTX_DRX_1!!!!!47.99 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_N 00000009!PCIE_PTX_DRX_N9!!!DIFF!PCIE_PTX_DRX_9!!!!!48.63 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_N 00000004!PCIE_PTX_DRX_N4!!!DIFF!PCIE_PTX_DRX_4!!!!!46.69 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_N 00000003!PCIE_PTX_DRX_N3!!!DIFF!PCIE_PTX_DRX_3!!!!!46.76 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_N 00000012!PCIE_PTX_DRX_N12!!!DIFF!PCIE_PTX_DRX_12!!!!!48.03 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_N 00000011!PCIE_PTX_DRX_N11!!!DIFF!PCIE_PTX_DRX_11!!!!!47.32 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_DRX_N 00000001!PCIE_PTX_DRX_N1!!!DIFF!PCIE_PTX_DRX_1!!!!!48.17 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PTX_C_RD_DRX_P 00000012!PCIE_PTX_C_RD_DRX_P12!!!DIFF!PCIE_PTX_C_RD_DRX_12!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_RD_DRX_P 00000011!PCIE_PTX_C_RD_DRX_P11!!!DIFF!PCIE_PTX_C_RD_DRX_11!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_RD_DRX_N 00000012!PCIE_PTX_C_RD_DRX_N12!!!DIFF!PCIE_PTX_C_RD_DRX_12!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_RD_DRX_N 00000011!PCIE_PTX_C_RD_DRX_N11!!!DIFF!PCIE_PTX_C_RD_DRX_11!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_P 00000009!PCIE_PTX_C_DRX_P9!!!DIFF!PCIE_PTX_C_DRX_9!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_P 00000004!PCIE_PTX_C_DRX_P4!!!DIFF!PCIE_PTX_C_DRX_4!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_P 00000003!PCIE_PTX_C_DRX_P3!!!DIFF!PCIE_PTX_C_DRX_3!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_P 00000001!PCIE_PTX_C_DRX_P1!!!DIFF!PCIE_PTX_C_DRX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_N 00000009!PCIE_PTX_C_DRX_N9!!!DIFF!PCIE_PTX_C_DRX_9!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_N 00000004!PCIE_PTX_C_DRX_N4!!!DIFF!PCIE_PTX_C_DRX_4!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_N 00000003!PCIE_PTX_C_DRX_N3!!!DIFF!PCIE_PTX_C_DRX_3!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PTX_C_DRX_N 00000001!PCIE_PTX_C_DRX_N1!!!DIFF!PCIE_PTX_C_DRX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_RD_DTX_P 00000012!PCIE_PRX_RD_DTX_P12!!!DIFF!PCIE_PRX_RD_DTX_12!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_RD_DTX_P 00000011!PCIE_PRX_RD_DTX_P11!!!DIFF!PCIE_PRX_RD_DTX_11!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_RD_DTX_N 00000012!PCIE_PRX_RD_DTX_N12!!!DIFF!PCIE_PRX_RD_DTX_12!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_RD_DTX_N 00000011!PCIE_PRX_RD_DTX_N11!!!DIFF!PCIE_PRX_RD_DTX_11!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_P 00000009!PCIE_PRX_DTX_P9!!!DIFF!PCIE_PRX_DTX_9!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_P 00000004!PCIE_PRX_DTX_P4!!!DIFF!PCIE_PRX_DTX_4!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_P 00000003!PCIE_PRX_DTX_P3!!!DIFF!PCIE_PRX_DTX_3!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_P 00000012!PCIE_PRX_DTX_P12!!!DIFF!PCIE_PRX_DTX_12!!!!!46.45 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_P 00000011!PCIE_PRX_DTX_P11!!!DIFF!PCIE_PRX_DTX_11!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_P 00000001!PCIE_PRX_DTX_P1!!!DIFF!PCIE_PRX_DTX_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_N 00000009!PCIE_PRX_DTX_N9!!!DIFF!PCIE_PRX_DTX_9!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_N 00000004!PCIE_PRX_DTX_N4!!!DIFF!PCIE_PRX_DTX_4!!!!!46.36 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_N 00000003!PCIE_PRX_DTX_N3!!!DIFF!PCIE_PRX_DTX_3!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_N 00000012!PCIE_PRX_DTX_N12!!!DIFF!PCIE_PRX_DTX_12!!!!!46.48 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_N 00000011!PCIE_PRX_DTX_N11!!!DIFF!PCIE_PRX_DTX_11!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_DTX_N 00000001!PCIE_PRX_DTX_N1!!!DIFF!PCIE_PRX_DTX_1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!PCIE_PRX_C_RD_DTX_P 00000012!PCIE_PRX_C_RD_DTX_P12!!!DIFF!PCIE_PRX_C_RD_DTX_12!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_RD_DTX_P 00000011!PCIE_PRX_C_RD_DTX_P11!!!DIFF!PCIE_PRX_C_RD_DTX_11!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_RD_DTX_N 00000012!PCIE_PRX_C_RD_DTX_N12!!!DIFF!PCIE_PRX_C_RD_DTX_12!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_RD_DTX_N 00000011!PCIE_PRX_C_RD_DTX_N11!!!DIFF!PCIE_PRX_C_RD_DTX_11!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_DTX_P 00000009!PCIE_PRX_C_DTX_P9!!!DIFF!PCIE_PRX_C_DTX_9!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_DTX_P 00000001!PCIE_PRX_C_DTX_P1!!!DIFF!PCIE_PRX_C_DTX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_DTX_N 00000009!PCIE_PRX_C_DTX_N9!!!DIFF!PCIE_PRX_C_DTX_9!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCIE_PRX_C_DTX_N 00000001!PCIE_PRX_C_DTX_N1!!!DIFF!PCIE_PRX_C_DTX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!PCH_SPI_DO_XDP!PCH_SPI_DO_XDP!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_SPI_DO2_XDP!PCH_SPI_DO2_XDP!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_SPI_D3_R 00000001!PCH_SPI_D3_R1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_SPI_D3_1_R!PCH_SPI_D3_1_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D3_0_R!PCH_SPI_D3_0_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D 00000003!PCH_SPI_D3!!!!!!!!!45.48 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_SPI_D2_R 00000001!PCH_SPI_D2_R1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D2_1_R!PCH_SPI_D2_1_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D2_0_R!PCH_SPI_D2_0_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D 00000002!PCH_SPI_D2!!!!!!!!!45.09 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_SPI_D1_R 00000001!PCH_SPI_D1_R1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_SPI_D1_2_R!PCH_SPI_D1_2_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D1_1_R!PCH_SPI_D1_1_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D1_0_R!PCH_SPI_D1_0_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D 00000001!PCH_SPI_D1!!!!!!!!!45.12 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_SPI_D0_R 00000001!PCH_SPI_D0_R1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_SPI_D0_2_R!PCH_SPI_D0_2_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D0_1_R!PCH_SPI_D0_1_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D0_0_R!PCH_SPI_D0_0_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_D 00000000!PCH_SPI_D0!!!!!!!!!45.14 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_SPI_CS#2_R!PCH_SPI_CS#2_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_CS# 00000002!PCH_SPI_CS#2!!!!!!!!!45.06 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_SPI_CS#1_R 00000002!PCH_SPI_CS#1_R2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_CS#1_R 00000001!PCH_SPI_CS#1_R1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_CS# 00000001!PCH_SPI_CS#1!!!!!!!!!45.12 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_SPI_CS#0_R 00000002!PCH_SPI_CS#0_R2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_CS#0_R 00000001!PCH_SPI_CS#0_R1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_CS# 00000000!PCH_SPI_CS#0!!!!!!!!!45.32 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_SPI_CLK_R 00000001!PCH_SPI_CLK_R1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_SPI_CLK_2_R!PCH_SPI_CLK_2_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_CLK_1_R!PCH_SPI_CLK_1_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_CLK_0_R!PCH_SPI_CLK_0_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_SPI_CLK!PCH_SPI_CLK!!!!!!!!!45.10 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_SMB_ALERT#!PCH_SMB_ALERT#!!!DIFF!!!!!!45.00 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_RTCX2_R!PCH_RTCX2_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_RTCX 00000002!PCH_RTCX2!!!!!!!!!44.94 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_RTCX 00000001!PCH_RTCX1!!!!!!!!!44.93 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_RTCRST#!PCH_RTCRST#!!!!!!!!!44.91 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_RSMRST#_GPIO 00000204!PCH_RSMRST#_GPIO204!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_RSMRST#_AND!PCH_RSMRST#_AND!!!!!!!!!45.64 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_RSMRST#!PCH_RSMRST#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_PWROK!PCH_PWROK!!!!!!!!!45.52 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_POPIRCOMP!PCH_POPIRCOMP!!!!!!!15 MIL!!21.22 ohms!!20.96 ohms!27.53 ohms!
+S!PCH_PLTRST#_EC!PCH_PLTRST#_EC!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_PLTRST#_AND!PCH_PLTRST#_AND!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_PLTRST#_ 00005105!PCH_PLTRST#_5105!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_PLTRST#!PCH_PLTRST#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PCH_PCIE_WAKE#!PCH_PCIE_WAKE#!!!!!!!!!45.11 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_JTAG_TMS!PCH_JTAG_TMS!!!!!!!!!46.15 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_JTAG_TDO!PCH_JTAG_TDO!!!!!!!!!46.41 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_JTAG_TDI!PCH_JTAG_TDI!!!!!!!!!47.85 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_JTAG_TCK!PCH_JTAG_TCK!!!!!!!!!46.34 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_DPWROK_EC!PCH_DPWROK_EC!!!!!!!!!44.54 ohms!!43.02 ohms!60.00 ohms!
+S!PCH_DPWROK!PCH_DPWROK!!!!!!!!!45.02 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_CL_RST1#!PCH_CL_RST1#!!!!!!!!!44.86 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_CL_DATA 00000001!PCH_CL_DATA1!!!!DIFFPAIR18!!!!!44.89 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_CL_CLK 00000001!PCH_CL_CLK1!!!!DIFFPAIR18!!!!!44.93 ohms!!44.84 ohms!50.19 ohms!
+S!PCH_BATLOW#!PCH_BATLOW#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PCH_ALW_ON!PCH_ALW_ON!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PBAT_SMBDAT_C!PBAT_SMBDAT_C!!!DIFF!DIFFPAIR17!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PBAT_SMBCLK_C!PBAT_SMBCLK_C!!!DIFF!DIFFPAIR17!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PBAT_PRES#_C!PBAT_PRES#_C!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!PBAT_PRES#!PBAT_PRES#!!!!!!!!!44.76 ohms!!43.02 ohms!60.00 ohms!
+S!PBAT_CHARGER_SMBDAT!PBAT_CHARGER_SMBDAT!!!DIFF!DIFFPAIR16!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PBAT_CHARGER_SMBCLK!PBAT_CHARGER_SMBCLK!!!!DIFFPAIR16!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!PBATT+_C!PBATT+_C!!!!!!!!!2.58 ohms!!2.37 ohms!2.83 ohms!
+S!PANEL_ID!PANEL_ID!!!!!!!!!44.80 ohms!!43.91 ohms!44.84 ohms!
+S!PANEL_BKLEN!PANEL_BKLEN!!!!!!!!!44.91 ohms!!44.84 ohms!60.00 ohms!
+S!PANEL_BKEN_EC!PANEL_BKEN_EC!!!!!!!!!44.57 ohms!!43.91 ohms!60.00 ohms!
+S!OTGEN/CMIN!OTGEN/CMIN!!!!!!!!!28.82 ohms!!27.53 ohms!31.52 ohms!
+S!ONE_DIMM#!ONE_DIMM#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!NTC_IA!NTC_IA!!!!!!!!!31.12 ohms!!27.53 ohms!44.84 ohms!
+S!NRB_BIT!NRB_BIT!!!!!!!!!46.12 ohms!!44.84 ohms!60.00 ohms!
+S!NB_PSID!NB_PSID!!!!!!!!!2.82 ohms!!2.69 ohms!27.53 ohms!
+S!N 45131598!N45131598!!!!!!!!!33.65 ohms!!31.52 ohms!44.84 ohms!
+S!N 41840238!N41840238!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 41840194!N41840194!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 41840158!N41840158!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 40543312!N40543312!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 40543303!N40543303!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 39473183!N39473183!!!!!!!!!28.84 ohms!!27.53 ohms!60.00 ohms!
+S!N 39470546!N39470546!!!!!!!!!32.69 ohms!!27.53 ohms!44.84 ohms!
+S!N 39470375!N39470375!!!!!!!!!30.15 ohms!!27.53 ohms!44.84 ohms!
+S!N 39470328!N39470328!!!!!!!!!33.47 ohms!!27.53 ohms!44.84 ohms!
+S!N 39470270!N39470270!!!!!!!!!28.22 ohms!!27.53 ohms!60.00 ohms!
+S!N 39470248!N39470248!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 39470189!N39470189!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!N 39470173!N39470173!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 39470169!N39470169!!!!!!!!!38.63 ohms!!31.52 ohms!44.84 ohms!
+S!N 39470145!N39470145!!!!!!!!!36.88 ohms!!31.52 ohms!44.84 ohms!
+S!N 39470129!N39470129!!!!!!!!!36.23 ohms!!31.52 ohms!44.84 ohms!
+S!N 39469908!N39469908!!!!!!!!!36.39 ohms!!27.53 ohms!44.84 ohms!
+S!N 39469818!N39469818!!!!!!!!!36.50 ohms!!31.52 ohms!44.84 ohms!
+S!N 39469812!N39469812!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 39469798!N39469798!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 39469718!N39469718!!!!!!!!!32.93 ohms!!27.53 ohms!44.84 ohms!
+S!N 39468570!N39468570!!!!!!!!!36.56 ohms!!31.52 ohms!44.84 ohms!
+S!N 39468508!N39468508!!!!!!!!!32.83 ohms!!27.53 ohms!44.84 ohms!
+S!N 39154676!N39154676!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 39154673!N39154673!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 38804727!N38804727!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 38802260!N38802260!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 38802239!N38802239!!!!!!!!!34.05 ohms!!27.53 ohms!44.84 ohms!
+S!N 38799008!N38799008!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 38799002!N38799002!!!!!!!!!45.65 ohms!!44.84 ohms!50.19 ohms!
+S!N 38798949!N38798949!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 38798948!N38798948!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 38798908!N38798908!!!!!!!!!27.91 ohms!!20.96 ohms!44.84 ohms!
+S!N 38798905!N38798905!!!!!!!!!47.50 ohms!!44.84 ohms!50.19 ohms!
+S!N 38798904!N38798904!!!!!!!!!46.83 ohms!!44.84 ohms!50.19 ohms!
+S!N 38798858!N38798858!!!!!!!!!45.78 ohms!!44.84 ohms!50.19 ohms!
+S!N 38798745!N38798745!!!!!!!!!45.78 ohms!!44.84 ohms!50.19 ohms!
+S!N 38798744!N38798744!!!!!!!!!40.53 ohms!!31.52 ohms!44.84 ohms!
+S!N 38798736!N38798736!!!!!!!!!45.19 ohms!!44.84 ohms!50.19 ohms!
+S!N3792239420!N3792239420!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N379222980!N379222980!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N379222690!N379222690!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 37776840!N37776840!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 37776698!N37776698!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 36827741!N36827741!!!!!!!!!4.83 ohms!!4.83 ohms!4.83 ohms!
+S!N 36626863!N36626863!!!!!!!!!11.43 ohms!!10.20 ohms!44.84 ohms!
+S!N 35551806!N35551806!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!N 35551785!N35551785!!!!!!!!!18.85 ohms!!16.95 ohms!44.84 ohms!
+S!N 35551783!N35551783!!!!!!!!!3.25 ohms!!3.01 ohms!44.84 ohms!
+S!N 35551616!N35551616!!!!!!!!!29.32 ohms!!27.53 ohms!44.84 ohms!
+S!N 35551592!N35551592!!!!!!!!!31.22 ohms!!27.53 ohms!44.84 ohms!
+S!N 35551584!N35551584!!!!!!!!!8.06 ohms!!5.39 ohms!27.53 ohms!
+S!N 35551576!N35551576!!!!!!!!!7.13 ohms!!7.13 ohms!7.13 ohms!
+S!N 35551572!N35551572!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!N 35551558!N35551558!!!!!!!!!5.38 ohms!!5.38 ohms!5.38 ohms!
+S!N 33298471!N33298471!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 33199744!N33199744!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 32819772!N32819772!!!!!!!!!32.39 ohms!!27.53 ohms!44.84 ohms!
+S!N 32818355!N32818355!!!!!!!!!8.23 ohms!!7.03 ohms!44.84 ohms!
+S!N 32817808!N32817808!!!!!!!!!35.81 ohms!!31.52 ohms!44.84 ohms!
+S!N 32594166!N32594166!!!!!!!!!36.11 ohms!!31.52 ohms!44.84 ohms!
+S!N 32592963!N32592963!!!!!!!!!34.92 ohms!!31.52 ohms!44.84 ohms!
+S!N 32590572!N32590572!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 30342894!N30342894!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 29708639!N29708639!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 29708601!N29708601!!!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!N 29708599!N29708599!!!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!N 29708561!N29708561!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 29708559!N29708559!!!!!!!!!46.11 ohms!!44.84 ohms!50.19 ohms!
+S!N 28938914!N28938914!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 28938912!N28938912!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 28861827!N28861827!!!!!!!!!47.14 ohms!!44.84 ohms!50.19 ohms!
+S!N 28857240!N28857240!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 28857237!N28857237!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 28857234!N28857234!!!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!N 28857231!N28857231!!!!!!!!!46.49 ohms!!44.84 ohms!50.19 ohms!
+S!N 28856402!N28856402!!!!!!!!!46.97 ohms!!44.84 ohms!50.19 ohms!
+S!N 28856399!N28856399!!!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!N 28811129!N28811129!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 28810563!N28810563!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 28489601!N28489601!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 28425002!N28425002!!!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!N 28424999!N28424999!!!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!N 27077001!N27077001!!!!!!!10 MIL!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 27076242!N27076242!!!!!!!!!9.95 ohms!!8.78 ohms!44.84 ohms!
+S!N 20151644!N20151644!!!!!!!10 MIL!!29.56 ohms!!27.53 ohms!60.00 ohms!
+S!N 18762438!N18762438!!!!!!!10 MIL!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 18762428!N18762428!!!!!!!10 MIL!!30.00 ohms!!27.53 ohms!31.52 ohms!
+S!N 18762426!N18762426!!!!!!!10 MIL!!13.16 ohms!!13.16 ohms!13.16 ohms!
+S!N 18762416!N18762416!!!!!!!10 MIL!!29.79 ohms!!27.53 ohms!31.52 ohms!
+S!N 18762411!N18762411!!!!!!!10 MIL!!29.29 ohms!!27.53 ohms!31.52 ohms!
+S!N 18762401!N18762401!!!!!!!10 MIL!!28.29 ohms!!27.53 ohms!31.52 ohms!
+S!N 18762355!N18762355!!!!!!!!!30.10 ohms!!27.53 ohms!44.84 ohms!
+S!N 18762353!N18762353!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 18762349!N18762349!!!!!!!!!4.97 ohms!!4.97 ohms!4.97 ohms!
+S!N 18762172!N18762172!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 18762152!N18762152!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!N 18762046!N18762046!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 18490882!N18490882!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 17494434!N17494434!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!N 17479322!N17479322!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 17372283!N17372283!!!!!!!!!25.34 ohms!!20.96 ohms!44.84 ohms!
+S!N 17372074!N17372074!!!!!!!!!31.53 ohms!!27.53 ohms!44.84 ohms!
+S!N 17371184!N17371184!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 17371125!N17371125!!!!!!!!!24.92 ohms!!20.96 ohms!44.84 ohms!
+S!N 17370999!N17370999!!!!!!!!!30.08 ohms!!27.53 ohms!44.84 ohms!
+S!N 17370995!N17370995!!!!!!!!!33.41 ohms!!27.53 ohms!44.84 ohms!
+S!N 17370983!N17370983!!!!!!!!!29.90 ohms!!27.53 ohms!44.84 ohms!
+S!N 17370961!N17370961!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N 17370921!N17370921!!!!!!!!!30.77 ohms!!27.53 ohms!44.84 ohms!
+S!N 17370885!N17370885!!!!!!!!!18.79 ohms!!16.95 ohms!44.84 ohms!
+S!N 17370862!N17370862!!!!!!!!!10.74 ohms!!7.43 ohms!60.00 ohms!
+S!N 17185371!N17185371!!!!!!!!!30.13 ohms!!27.53 ohms!44.84 ohms!
+S!N 17185089!N17185089!!!!!!!!!31.42 ohms!!27.53 ohms!44.84 ohms!
+S!N 16404800!N16404800!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 16404788!N16404788!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 16404606!N16404606!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!N 16399089!N16399089!!!!!!!!!3.25 ohms!!3.25 ohms!3.25 ohms!
+S!N132005053!N132005053!!!!!!!10 MIL!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!N132000604!N132000604!!!!!!!!!13.72 ohms!!11.51 ohms!44.84 ohms!
+S!M_ID2#!M_ID2#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_USB_SEL!MUX1_USB_SEL!!!!DIFFPAIR21!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!MUX1_USB_EQ 00000001!MUX1_USB_EQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_USB_EQ 00000000!MUX1_USB_EQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_SSEQ 00000001!MUX1_SSEQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_SSEQ 00000000!MUX1_SSEQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_I2C_EN!MUX1_I2C_EN!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_FLIP_SEL!MUX1_FLIP_SEL!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_DP_SEL!MUX1_DP_SEL!!!!DIFFPAIR21!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!MUX1_DPEQ 00000001!MUX1_DPEQ1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MUX1_DPEQ 00000000!MUX1_DPEQ0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MSDATA!MSDATA!!!!!!!!!44.80 ohms!!43.02 ohms!60.00 ohms!
+S!MSCLK!MSCLK!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!MPHYP_PWR_EN!MPHYP_PWR_EN!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ME_SUS_PWR_ACK!ME_SUS_PWR_ACK!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ME_RESET#!ME_RESET#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ME_FW_EC!ME_FW_EC!!!!!!!!!44.82 ohms!!43.91 ohms!44.84 ohms!
+S!ME_FWP!ME_FWP!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!MEM_SMBDATA!MEM_SMBDATA!!!DIFF!DIFFPAIR15!!!!!44.92 ohms!!44.84 ohms!50.19 ohms!
+S!MEM_SMBCLK!MEM_SMBCLK!!!DIFF!DIFFPAIR15!!!!!44.94 ohms!!44.84 ohms!50.19 ohms!
+S!MEDIACARD_IRQ#!MEDIACARD_IRQ#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!MEC_XTAL2_R!MEC_XTAL2_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MEC_XTAL 00000002!MEC_XTAL2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MEC_XTAL 00000001!MEC_XTAL1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!MASK_BASE_LEDS#!MASK_BASE_LEDS#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!M3042_PCIE#_SATA!M3042_PCIE#_SATA!!!!!!!!!44.82 ohms!!43.91 ohms!60.00 ohms!
+S!M2280_PCIE_SATA#!M2280_PCIE_SATA#!!!!!!!!!44.94 ohms!!44.84 ohms!60.00 ohms!
+S!M2280_DEVSLP!M2280_DEVSLP!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LX_5V!LX_5V!!!!!!!!!3.03 ohms!!2.54 ohms!60.00 ohms!
+S!LX_3V!LX_3V!!!!!!!!!3.26 ohms!!2.92 ohms!60.00 ohms!
+S!LX_1V_PRIM!LX_1V_PRIM!!!!!!!!!2.80 ohms!!2.54 ohms!44.84 ohms!
+S!LX_1VS_VCCIO!LX_1VS_VCCIO!!!!!!!!!3.10 ohms!!2.79 ohms!44.84 ohms!
+S!LX_1.8VALW!LX_1.8VALW!!!!!!!!!4.58 ohms!!4.10 ohms!44.84 ohms!
+S!LX2_ISL 00088738!LX2_ISL88738!!!!!!!30 MIL!!8.98 ohms!!8.86 ohms!60.00 ohms!
+S!LX1_ISL 00088738!LX1_ISL88738!!!!!!!30 MIL!!6.30 ohms!!5.75 ohms!60.00 ohms!
+S!LPS_PROTECT#!LPS_PROTECT#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!LPSS_UART2_TXD!LPSS_UART2_TXD!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LPSS_UART2_RXD!LPSS_UART2_RXD!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LOM_SPD10LED_GRN#!LOM_SPD10LED_GRN#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LOM_SPD100LED_ORG#!LOM_SPD100LED_ORG#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LOM_ACTLED_YEL#!LOM_ACTLED_YEL#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LM393_P!LM393_P!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!LINE1_R!LINE1_R!!!!!!!15 MIL!!26.11 ohms!!20.96 ohms!31.52 ohms!
+S!LINE1_L!LINE1_L!!!!!!!15 MIL!!22.59 ohms!!20.96 ohms!31.52 ohms!
+S!LID_CL#!LID_CL#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LG2_ISL 00088738!LG2_ISL88738!!!!!!!30 MIL!!12.08 ohms!!9.30 ohms!60.00 ohms!
+S!LG1_ISL 00088738!LG1_ISL88738!!!!!!!30 MIL!!9.58 ohms!!8.08 ohms!60.00 ohms!
+S!LED_10_GRN_R#!LED_10_GRN_R#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LED_10_GRN#!LED_10_GRN#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!LED_100_ORG_R#!LED_100_ORG_R#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LED_100_ORG#!LED_100_ORG#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!LCD_VCC_TEST_EN!LCD_VCC_TEST_EN!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LCD_TST!LCD_TST!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!LCD_CBL_DET#!LCD_CBL_DET#!!!!!!!!!47.70 ohms!!44.84 ohms!60.00 ohms!
+S!LAN_WAKE#!LAN_WAKE#!!!!!!!!!44.82 ohms!!43.02 ohms!60.00 ohms!
+S!LAN_TEST_EN!LAN_TEST_EN!!!!!!!!!43.51 ohms!!43.02 ohms!44.84 ohms!
+S!LAN_MDIP3_L!LAN_MDIP3_L!!LAN_20_25!DIFF!LAN_MDI3_L!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIP 00000003!LAN_MDIP3!!LAN_20_25!DIFF!LAN_MDI3!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIP2_L!LAN_MDIP2_L!!LAN_20_25!DIFF!LAN_MDI2_L!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIP 00000002!LAN_MDIP2!!LAN_20_25!DIFF!LAN_MDI2!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIP1_L!LAN_MDIP1_L!!LAN_20_25!DIFF!LAN_MDI1_L!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIP 00000001!LAN_MDIP1!!LAN_20_25!DIFF!LAN_MDI1!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIP0_L!LAN_MDIP0_L!!LAN_20_25!DIFF!LAN_MDI0_L!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIP 00000000!LAN_MDIP0!!LAN_20_25!DIFF!LAN_MDI0!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIN3_L!LAN_MDIN3_L!!LAN_20_25!DIFF!LAN_MDI3_L!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIN 00000003!LAN_MDIN3!!LAN_20_25!DIFF!LAN_MDI3!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIN2_L!LAN_MDIN2_L!!LAN_20_25!DIFF!LAN_MDI2_L!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIN 00000002!LAN_MDIN2!!LAN_20_25!DIFF!LAN_MDI2!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIN1_L!LAN_MDIN1_L!!LAN_20_25!DIFF!LAN_MDI1_L!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIN 00000001!LAN_MDIN1!!LAN_20_25!DIFF!LAN_MDI1!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIN0_L!LAN_MDIN0_L!!LAN_20_25!DIFF!LAN_MDI0_L!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_MDIN 00000000!LAN_MDIN0!!LAN_20_25!DIFF!LAN_MDI0!!!!!47.35 ohms!!47.35 ohms!47.35 ohms!
+S!LAN_DISABLE#_R!LAN_DISABLE#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!LAN_ACTLED_YEL_R#!LAN_ACTLED_YEL_R#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!LAN_ACTLED_YEL#!LAN_ACTLED_YEL#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!KB_DET#!KB_DET#!!!!!!!!!45.21 ohms!!44.84 ohms!60.00 ohms!
+S!JTAG_TMS!JTAG_TMS!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!JTAG_TDO!JTAG_TDO!!!!!!!!!44.81 ohms!!43.91 ohms!60.00 ohms!
+S!JTAG_TDI!JTAG_TDI!!!!!!!!!44.59 ohms!!43.02 ohms!60.00 ohms!
+S!JTAG_RST#!JTAG_RST#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!JTAG_CLK!JTAG_CLK!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!JDIMM2_EVENT#!JDIMM2_EVENT#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!JDIMM1_EVENT#!JDIMM1_EVENT#!!!!!!!!!25.29 ohms!!20.96 ohms!44.84 ohms!
+S!JCRT- 00000011!JCRT-11!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!I_SYS_R!I_SYS_R!!!!!!!!!44.71 ohms!!43.91 ohms!60.00 ohms!
+S!I_SYS!I_SYS!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!I_BATT_R!I_BATT_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!I_BATT!I_BATT!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!I_ADP!I_ADP!!!!!!!!!44.41 ohms!!43.91 ohms!60.00 ohms!
+S!ITP_PMODE!ITP_PMODE!!!!!!!!!45.42 ohms!!44.84 ohms!60.00 ohms!
+S!ISUMP_VSA!ISUMP_VSA!!!!!!!!!30.45 ohms!!27.53 ohms!44.84 ohms!
+S!ISUMP_IA!ISUMP_IA!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!ISUMP_GT!ISUMP_GT!!!!!!!!!28.73 ohms!!27.53 ohms!44.84 ohms!
+S!ISUMN_IA!ISUMN_IA!!!!!!!!!29.48 ohms!!27.53 ohms!60.00 ohms!
+S!ISUMN_GT!ISUMN_GT!!!!!!!!!27.81 ohms!!27.53 ohms!44.84 ohms!
+S!ISPSDA!ISPSDA!!!DIFF!DIFFPAIR14!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ISPSCL!ISPSCL!!!DIFF!DIFFPAIR14!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ISH_UART0_TXD_R!ISH_UART0_TXD_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ISH_UART0_TXD!ISH_UART0_TXD!!!!!!!!!45.24 ohms!!44.84 ohms!60.00 ohms!
+S!ISH_UART0_RXD_R!ISH_UART0_RXD_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ISH_UART0_RXD!ISH_UART0_RXD!!!!!!!!!45.05 ohms!!44.84 ohms!60.00 ohms!
+S!ISH_UART0_RTS#_R!ISH_UART0_RTS#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ISH_UART0_RTS#!ISH_UART0_RTS#!!!!!!!!!45.41 ohms!!44.84 ohms!60.00 ohms!
+S!ISH_UART0_CTS#_R!ISH_UART0_CTS#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ISH_UART0_CTS#!ISH_UART0_CTS#!!!!!!!!!46.49 ohms!!44.84 ohms!60.00 ohms!
+S!ISH_I2C2_SDA_R!ISH_I2C2_SDA_R!!!DIFF!DIFFPAIR12!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ISH_I2C2_SDA!ISH_I2C2_SDA!!!DIFF!DIFFPAIR13!!!!!45.38 ohms!!44.84 ohms!60.00 ohms!
+S!ISH_I2C2_SCL_R!ISH_I2C2_SCL_R!!!DIFF!DIFFPAIR12!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ISH_I2C2_SCL!ISH_I2C2_SCL!!!DIFF!DIFFPAIR13!!!!!45.41 ohms!!44.84 ohms!60.00 ohms!
+S!IR_CAM_DET#!IR_CAM_DET#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!INT_SPK_R-!INT_SPK_R-!!20!!!!!40 MIL!!9.64 ohms!!6.97 ohms!60.00 ohms!
+S!INT_SPK_R+!INT_SPK_R+!!20!!!!!40 MIL!!10.19 ohms!!8.69 ohms!60.00 ohms!
+S!INT_SPK_L-!INT_SPK_L-!!20!!!!!40 MIL!!14.46 ohms!!10.57 ohms!60.00 ohms!
+S!INT_SPK_L+!INT_SPK_L+!!20!!!!!40 MIL!!11.65 ohms!!9.30 ohms!60.00 ohms!
+S!INT_SPKR_R-!INT_SPKR_R-!!20!!!!!40 MIL!!9.18 ohms!!4.39 ohms!10.94 ohms!
+S!INT_SPKR_R+!INT_SPKR_R+!!20!!!!!40 MIL!!7.24 ohms!!3.04 ohms!10.94 ohms!
+S!INT_SPKR_L-!INT_SPKR_L-!!20!!!!!40 MIL!!9.57 ohms!!5.93 ohms!11.51 ohms!
+S!INT_SPKR_L+!INT_SPKR_L+!!20!!!!!40 MIL!!9.51 ohms!!5.57 ohms!10.94 ohms!
+S!INTRUDER#!INTRUDER#!!!!!!!!!46.00 ohms!!44.84 ohms!60.00 ohms!
+S!IMVP_VR_ON_EC!IMVP_VR_ON_EC!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!IMVP_VR_ON!IMVP_VR_ON!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!IMON_VSA!IMON_VSA!!!!!!!!!30.01 ohms!!27.53 ohms!44.84 ohms!
+S!IMON_IA!IMON_IA!!!!!!!!!30.25 ohms!!27.53 ohms!44.84 ohms!
+S!ILMT_DDR!ILMT_DDR!!!!!!!!!32.53 ohms!!27.53 ohms!44.84 ohms!
+S!ILIM_SEL!ILIM_SEL!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!IFDET_SATA_PCIE#!IFDET_SATA_PCIE#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!I2C1_SDA_TP_R!I2C1_SDA_TP_R!!!!DIFFPAIR4!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!I2C1_SDA_TP!I2C1_SDA_TP!!!!DIFFPAIR3!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!I2C1_SCK_TP_R!I2C1_SCK_TP_R!!!!DIFFPAIR4!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!I2C1_SCK_TP!I2C1_SCK_TP!!!!DIFFPAIR3!!!!!45.56 ohms!!44.84 ohms!60.00 ohms!
+S!H_VCCST_PWRGD_XDP!H_VCCST_PWRGD_XDP!!12!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!H_THERMTRIP#!H_THERMTRIP#!!!!!!!!!45.22 ohms!!44.84 ohms!60.00 ohms!
+S!H_PROCHOT#_R 00000001!H_PROCHOT#_R1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!H_PROCHOT#_R!H_PROCHOT#_R!!!!!!!!!47.01 ohms!!44.84 ohms!50.19 ohms!
+S!H_PROCHOT#!H_PROCHOT#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!H_CPU_SVIDALRT#!H_CPU_SVIDALRT#!!!!!!!!!46.79 ohms!!44.84 ohms!50.19 ohms!
+S!H_CPUPWRGD_R!H_CPUPWRGD_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!H_CPUPWRGD!H_CPUPWRGD!!!!!!!!!45.80 ohms!!44.84 ohms!50.19 ohms!
+S!H_CATERR#!H_CATERR#!!!!!!!!!48.46 ohms!!44.84 ohms!50.19 ohms!
+S!HW_GPS_DISABLE#_R!HW_GPS_DISABLE#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HW_GPS_DISABLE#!HW_GPS_DISABLE#!!!!!!!!!44.80 ohms!!43.91 ohms!60.00 ohms!
+S!HV_GATE2_A!HV_GATE2_A!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HV_GATE1_A!HV_GATE1_A!!!!!!!!!47.65 ohms!!44.84 ohms!50.19 ohms!
+S!HSYNC_CRT!HSYNC_CRT!!CRT_SYNC_12_20!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HSYNC_CONN!HSYNC_CONN!!CRT_SYNC_12_20!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HP_OUT_R!HP_OUT_R!!!!!!!15 MIL!!23.01 ohms!!20.96 ohms!60.00 ohms!
+S!HP_OUT_L!HP_OUT_L!!!!!!!15 MIL!!27.47 ohms!!20.96 ohms!60.00 ohms!
+S!HOST_SD_WP#!HOST_SD_WP#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HOST_DEBUG_TX!HOST_DEBUG_TX!!!!!!!!!44.80 ohms!!43.02 ohms!60.00 ohms!
+S!HDMI_TX_P 00000002!HDMI_TX_P2!!HDMI_12_15!DIFF!HDMI_TX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_TX_P 00000001!HDMI_TX_P1!!HDMI_12_15!DIFF!HDMI_TX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_TX_P 00000000!HDMI_TX_P0!!HDMI_12_15!DIFF!HDMI_TX_0!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_TX_N 00000002!HDMI_TX_N2!!HDMI_12_15!DIFF!HDMI_TX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_TX_N 00000001!HDMI_TX_N1!!HDMI_12_15!DIFF!HDMI_TX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_TX_N 00000000!HDMI_TX_N0!!HDMI_12_15!DIFF!HDMI_TX_0!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_OB!HDMI_OB!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDMI_L_TX_P 00000002!HDMI_L_TX_P2!!HDMI_12_15!DIFF!HDMI_L_TX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_L_TX_P 00000001!HDMI_L_TX_P1!!HDMI_12_15!DIFF!HDMI_L_TX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_L_TX_P 00000000!HDMI_L_TX_P0!!HDMI_12_15!DIFF!HDMI_L_TX_0!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_L_TX_N 00000002!HDMI_L_TX_N2!!HDMI_12_15!DIFF!HDMI_L_TX_2!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_L_TX_N 00000001!HDMI_L_TX_N1!!HDMI_12_15!DIFF!HDMI_L_TX_1!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_L_TX_N 00000000!HDMI_L_TX_N0!!HDMI_12_15!DIFF!HDMI_L_TX_0!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_L_CLKP!HDMI_L_CLKP!!HDMI_12_15!DIFF!HDMI_L_CLK!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_L_CLKN!HDMI_L_CLKN!!HDMI_12_15!DIFF!HDMI_L_CLK!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_HPD!HDMI_HPD!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDMI_CTRL_DATA!HDMI_CTRL_DATA!!!DIFF!DIFFPAIR11!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDMI_CTRL_CLK!HDMI_CTRL_CLK!!!DIFF!DIFFPAIR11!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDMI_CLKP!HDMI_CLKP!!HDMI_12_15!DIFF!HDMI_CLK!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_CLKN!HDMI_CLKN!!HDMI_12_15!DIFF!HDMI_CLK!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!HDMI_CEC!HDMI_CEC!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDD_FALL_INT!HDD_FALL_INT!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDD_EN!HDD_EN!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDD_DET#!HDD_DET#!!!!!!!!!45.14 ohms!!44.84 ohms!60.00 ohms!
+S!HDA_SYNC_R!HDA_SYNC_R!!HDA_5_15!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDA_SYNC!HDA_SYNC!!HDA_5_15!!!!!!!46.55 ohms!!44.84 ohms!50.19 ohms!
+S!HDA_SDOUT_R!HDA_SDOUT_R!!HDA_5_15!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDA_SDOUT!HDA_SDOUT!!HDA_5_15!!!!!!!46.08 ohms!!44.84 ohms!50.19 ohms!
+S!HDA_SDIN0_R!HDA_SDIN0_R!!HDA_5_15!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!HDA_SDIN 00000000!HDA_SDIN0!!HDA_5_15!!!!!!!45.29 ohms!!44.84 ohms!60.00 ohms!
+S!HDA_RST#_R!HDA_RST#_R!!HDA_5_15!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDA_RST#!HDA_RST#!!HDA_5_15!!!!!!!47.70 ohms!!44.84 ohms!50.19 ohms!
+S!HDA_BIT_CLK_R!HDA_BIT_CLK_R!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!HDA_BIT_CLK!HDA_BIT_CLK!!!!!!!!!46.53 ohms!!44.84 ohms!50.19 ohms!
+S!GT_SW 00000001!GT_SW1!!!!!!!!!3.25 ohms!!2.52 ohms!5.54 ohms!
+S!GT_SNUB 00000001!GT_SNUB1!!!!!!!!!6.11 ohms!!6.11 ohms!6.11 ohms!
+S!GT1P!GT1P!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!GREEN_CRT!GREEN_CRT!!CRT_DAC_20_30!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!GREEN!GREEN!!CRT_DAC_20_30!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!GPU_B+!GPU_B+!!!!!!!!!3.98 ohms!!3.30 ohms!5.44 ohms!
+S!GPP_E 00000023!GPP_E23!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!GPP_C 00000008!GPP_C8!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!GPP_C 00000005!GPP_C5!!!DIFF!!!!!!47.84 ohms!!44.84 ohms!50.19 ohms!
+S!GPP_B 00000023!GPP_B23!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!GNDA!GNDA!!GND!!!!!20 MIL!!6.40 ohms!!3.53 ohms!60.00 ohms!
+S!GND!GND!!GND!!!!!20 MIL!!0.64 ohms!!0.14 ohms!60.00 ohms!
+S!FIVR_EN_R!FIVR_EN_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!FIVR_EN!FIVR_EN!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!FFS_INT2_Q!FFS_INT2_Q!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!FFS_INT 00000002!FFS_INT2!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!FCCM_VSA!FCCM_VSA!!!!!!!!!31.65 ohms!!27.53 ohms!60.00 ohms!
+S!FCCM_IA!FCCM_IA!!!!!!!!!30.29 ohms!!27.53 ohms!60.00 ohms!
+S!FCCM_GT!FCCM_GT!!!!!!!!!30.36 ohms!!27.53 ohms!60.00 ohms!
+S!FB_VSA!FB_VSA!!!!!!!!!32.31 ohms!!31.52 ohms!44.84 ohms!
+S!FB_IA!FB_IA!!!!!!!!!30.91 ohms!!27.53 ohms!31.52 ohms!
+S!FB_1.8VALW!FB_1.8VALW!!!!!!!!!22.69 ohms!!20.96 ohms!44.84 ohms!
+S!FAN1_TACH!FAN1_TACH!!!!!!!!!44.81 ohms!!43.91 ohms!60.00 ohms!
+S!FAN1_PWM!FAN1_PWM!!!!!!!!!44.82 ohms!!43.91 ohms!60.00 ohms!
+S!EXPANDER_GPU_SMDAT!EXPANDER_GPU_SMDAT!!!!DIFFPAIR9!!!!!44.83 ohms!!43.91 ohms!60.00 ohms!
+S!EXPANDER_GPU_SMCLK!EXPANDER_GPU_SMCLK!!!!DIFFPAIR9!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!EXPANDER_ALERT#!EXPANDER_ALERT#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ESPI_RESET#!ESPI_RESET#!!!!!!!!!45.91 ohms!!43.91 ohms!60.00 ohms!
+S!ESPI_IO3_R!ESPI_IO3_R!!!!!!!!!46.18 ohms!!44.84 ohms!50.19 ohms!
+S!ESPI_IO 00000003!ESPI_IO3!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ESPI_IO2_R!ESPI_IO2_R!!!!!!!!!47.20 ohms!!44.84 ohms!50.19 ohms!
+S!ESPI_IO 00000002!ESPI_IO2!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ESPI_IO1_R!ESPI_IO1_R!!!!!!!!!46.14 ohms!!44.84 ohms!50.19 ohms!
+S!ESPI_IO 00000001!ESPI_IO1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ESPI_IO0_R!ESPI_IO0_R!!!!!!!!!46.59 ohms!!44.84 ohms!50.19 ohms!
+S!ESPI_IO 00000000!ESPI_IO0!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ESPI_CS#!ESPI_CS#!!!!!!!!!44.99 ohms!!44.84 ohms!60.00 ohms!
+S!ESPI_CLK_ 00005105!ESPI_CLK_5105!!15!!!!!!!44.83 ohms!!43.91 ohms!60.00 ohms!
+S!ESPI_CLK!ESPI_CLK!!!!!!!!!47.10 ohms!!44.84 ohms!50.19 ohms!
+S!ESPI_ALERT#!ESPI_ALERT#!!!!!!!!!47.34 ohms!!43.91 ohms!60.00 ohms!
+S!EOPIO_RCOMP!EOPIO_RCOMP!!!!!!!15 MIL!!22.87 ohms!!20.96 ohms!60.00 ohms!
+S!EN_PD_HV_ 00000001!EN_PD_HV_1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!EN_LCDPWR!EN_LCDPWR!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!EN_INVPWR!EN_INVPWR!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!EN_1VS_VCCIO!EN_1VS_VCCIO!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!EN_1.8VALW!EN_1.8VALW!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!EN_1.2V!EN_1.2V!!!!!!!!!31.21 ohms!!27.53 ohms!44.84 ohms!
+S!EN_1.0V_PRIM_COREP!EN_1.0V_PRIM_COREP!!!!!!!!!31.04 ohms!!27.53 ohms!44.84 ohms!
+S!EN_0.6V!EN_0.6V!!!!!!!!!33.32 ohms!!27.53 ohms!44.84 ohms!
+S!ENVDD_PCH!ENVDD_PCH!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ENLDO_3V5V!ENLDO_3V5V!!!!!!!!!28.10 ohms!!27.53 ohms!60.00 ohms!
+S!EMMC_RCOMP!EMMC_RCOMP!!!!!!!15 MIL!!22.40 ohms!!20.96 ohms!60.00 ohms!
+S!EDRAM_OPIO_RCOMP!EDRAM_OPIO_RCOMP!!!!!!!15 MIL!!27.17 ohms!!20.96 ohms!60.00 ohms!
+S!EDP_TXP1_C!EDP_TXP1_C!!EDP_12_15!DIFF!EDP_TX1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!EDP_TXP 00000001!EDP_TXP1!!EDP_12_15!DIFF!EDP_TX1!!!!!49.25 ohms!!46.31 ohms!60.00 ohms!
+S!EDP_TXP0_C!EDP_TXP0_C!!EDP_12_15!DIFF!EDP_TX0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!EDP_TXP 00000000!EDP_TXP0!!EDP_12_15!DIFF!EDP_TX0!!!!!48.50 ohms!!46.31 ohms!60.00 ohms!
+S!EDP_TXN1_C!EDP_TXN1_C!!EDP_12_15!DIFF!EDP_TX1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!EDP_TXN 00000001!EDP_TXN1!!EDP_12_15!DIFF!EDP_TX1!!!!!49.25 ohms!!46.31 ohms!60.00 ohms!
+S!EDP_TXN0_C!EDP_TXN0_C!!EDP_12_15!DIFF!EDP_TX0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!EDP_TXN 00000000!EDP_TXN0!!EDP_12_15!DIFF!EDP_TX0!!!!!48.52 ohms!!46.31 ohms!60.00 ohms!
+S!EDP_HPD!EDP_HPD!!!!!!!!!45.17 ohms!!44.84 ohms!60.00 ohms!
+S!EDP_COMP!EDP_COMP!!!!!!!20 MIL!!21.34 ohms!!16.95 ohms!44.84 ohms!
+S!EDP_BIA_PWM!EDP_BIA_PWM!!!!!!!!!46.53 ohms!!44.84 ohms!60.00 ohms!
+S!EDP_AUXP_C!EDP_AUXP_C!!EDP_12_15!DIFF!EDP_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!EDP_AUXP!EDP_AUXP!!EDP_12_15!DIFF!EDP_AUX!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!EDP_AUXN_C!EDP_AUXN_C!!EDP_12_15!DIFF!EDP_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!EDP_AUXN!EDP_AUXN!!EDP_12_15!DIFF!EDP_AUX!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!EC_FPM_EN!EC_FPM_EN!!!!!!!!!44.81 ohms!!43.91 ohms!60.00 ohms!
+S!DMIC_CLK_CODEC!DMIC_CLK_CODEC!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DMIC_CLK 00000000!DMIC_CLK0!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DMIC 00000000!DMIC0!!HDA_5_15!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DISP_ON!DISP_ON!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DIMM2_SA 00000002!DIMM2_SA2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DIMM2_SA 00000001!DIMM2_SA1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DIMM2_SA 00000000!DIMM2_SA0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DIMM1_SA 00000002!DIMM1_SA2!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DIMM1_SA 00000001!DIMM1_SA1!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DIMM1_SA 00000000!DIMM1_SA0!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DEBUG_TX!DEBUG_TX!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DDR_XDP_WAN_SMBDAT!DDR_XDP_WAN_SMBDAT!!!DIFF!DIFFPAIR8!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_XDP_WAN_SMBCLK!DDR_XDP_WAN_SMBCLK!!!DIFF!DIFFPAIR8!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_VTT_CTRL!DDR_VTT_CTRL!!!!!!!!!49.82 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_DRAMRST#_R!DDR_DRAMRST#_R!!20!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DDR_DRAMRST#!DDR_DRAMRST#!!20!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_PARITY!DDR_B_PARITY!!DDRADD_ALERT_10/11_19/20_25!!!!!!!35.94 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_ODT 00000001!DDR_B_ODT1!!DDRCTL_CKE_10/11_19/20_25!!!!!!!42.94 ohms!!40.48 ohms!60.00 ohms!
+S!DDR_B_ODT 00000000!DDR_B_ODT0!!DDRCTL_CKE_10/11_19/20_25!!!!!!!40.04 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000009!DDR_B_MA9!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.02 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000008!DDR_B_MA8!!DDRADD_ALERT_10/11_19/20_25!!!!!!!39.98 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000007!DDR_B_MA7!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.28 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000006!DDR_B_MA6!!DDRADD_ALERT_10/11_19/20_25!!!!!!!38.82 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000005!DDR_B_MA5!!DDRADD_ALERT_10/11_19/20_25!!!!!!!41.04 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000004!DDR_B_MA4!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.51 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000003!DDR_B_MA3!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.94 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000002!DDR_B_MA2!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.98 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000016!DDR_B_MA16!!DDRADD_ALERT_10/11_19/20_25!!!!!!!42.15 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000015!DDR_B_MA15!!DDRADD_ALERT_10/11_19/20_25!!!!!!!42.24 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000014!DDR_B_MA14!!DDRADD_ALERT_10/11_19/20_25!!!!!!!44.30 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000013!DDR_B_MA13!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.08 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000012!DDR_B_MA12!!DDRADD_ALERT_10/11_19/20_25!!!!!!!35.94 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000011!DDR_B_MA11!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.38 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000010!DDR_B_MA10!!DDRADD_ALERT_10/11_19/20_25!!!!!!!42.68 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000001!DDR_B_MA1!!DDRADD_ALERT_10/11_19/20_25!!!!!!!42.83 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_MA 00000000!DDR_B_MA0!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.00 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_DQS 00000007!DDR_B_DQS7!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_7!!!!!46.01 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS 00000006!DDR_B_DQS6!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_6!!!!!45.89 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS 00000005!DDR_B_DQS5!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_5!!!!!48.61 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS 00000004!DDR_B_DQS4!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_4!!!!!48.24 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS 00000003!DDR_B_DQS3!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_3!!!!!45.97 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS 00000002!DDR_B_DQS2!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_2!!!!!45.32 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS 00000001!DDR_B_DQS1!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_1!!!!!48.74 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS 00000000!DDR_B_DQS0!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_0!!!!!48.04 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS# 00000007!DDR_B_DQS#7!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_7!!!!!45.96 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS# 00000006!DDR_B_DQS#6!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_6!!!!!46.20 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS# 00000005!DDR_B_DQS#5!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_5!!!!!48.59 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS# 00000004!DDR_B_DQS#4!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_4!!!!!48.10 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS# 00000003!DDR_B_DQS#3!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_3!!!!!45.89 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS# 00000002!DDR_B_DQS#2!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_2!!!!!46.30 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS# 00000001!DDR_B_DQS#1!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_1!!!!!48.92 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_DQS# 00000000!DDR_B_DQS#0!!DDRDQS_19/19/16_19/20!DIFF!DDR_B_0!!!!!47.87 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_B_D 00000009!DDR_B_D9!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.72 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000008!DDR_B_D8!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.37 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000007!DDR_B_D7!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.75 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000063!DDR_B_D63!!DDRD1_19/8.5/10_19/20_25!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000062!DDR_B_D62!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.41 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000061!DDR_B_D61!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.45 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000060!DDR_B_D60!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.77 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000006!DDR_B_D6!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.91 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000059!DDR_B_D59!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.35 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000058!DDR_B_D58!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.72 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000057!DDR_B_D57!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.33 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000056!DDR_B_D56!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.77 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000055!DDR_B_D55!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.73 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000054!DDR_B_D54!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.58 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000053!DDR_B_D53!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.80 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000052!DDR_B_D52!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.74 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000051!DDR_B_D51!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.65 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000050!DDR_B_D50!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.46 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000005!DDR_B_D5!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.36 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000049!DDR_B_D49!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.35 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000048!DDR_B_D48!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.45 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000047!DDR_B_D47!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.33 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000046!DDR_B_D46!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.54 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000045!DDR_B_D45!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.92 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000044!DDR_B_D44!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.70 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000043!DDR_B_D43!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.47 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000042!DDR_B_D42!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.95 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000041!DDR_B_D41!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.95 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000040!DDR_B_D40!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.28 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000004!DDR_B_D4!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.46 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000039!DDR_B_D39!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.89 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000038!DDR_B_D38!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.26 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000037!DDR_B_D37!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.94 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000036!DDR_B_D36!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.81 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000035!DDR_B_D35!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.97 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000034!DDR_B_D34!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.34 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000033!DDR_B_D33!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.23 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000032!DDR_B_D32!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.88 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000031!DDR_B_D31!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.35 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000030!DDR_B_D30!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.71 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000003!DDR_B_D3!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.89 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000029!DDR_B_D29!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.81 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000028!DDR_B_D28!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.46 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000027!DDR_B_D27!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.78 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000026!DDR_B_D26!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.77 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000025!DDR_B_D25!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.65 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000024!DDR_B_D24!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.40 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000023!DDR_B_D23!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.39 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000022!DDR_B_D22!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.66 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000021!DDR_B_D21!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.45 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000020!DDR_B_D20!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.80 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000002!DDR_B_D2!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.50 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000019!DDR_B_D19!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.75 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000018!DDR_B_D18!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.42 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000017!DDR_B_D17!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.94 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000016!DDR_B_D16!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.54 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000015!DDR_B_D15!!DDRD1_19/8.5/10_19/20_25!!!!!!!46.93 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000014!DDR_B_D14!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.68 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000013!DDR_B_D13!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.64 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000012!DDR_B_D12!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.14 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000011!DDR_B_D11!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.96 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000010!DDR_B_D10!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.75 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000001!DDR_B_D1!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.23 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_D 00000000!DDR_B_D0!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.69 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_B_CS# 00000001!DDR_B_CS#1!!DDRCTL_CKE_10/11_19/20_25!!!!!!!39.16 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_CS# 00000000!DDR_B_CS#0!!DDRCTL_CKE_10/11_19/20_25!!!!!!!38.13 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_CLK 00000001!DDR_B_CLK1!!DDRCLK_20/16_20!DIFF!DDR_B_CLK1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!DDR_B_CLK 00000000!DDR_B_CLK0!!DDRCLK_20/16_20!DIFF!DDR_B_CLK0!!!!!46.77 ohms!!46.31 ohms!60.00 ohms!
+S!DDR_B_CLK# 00000001!DDR_B_CLK#1!!DDRCLK_20/16_20!DIFF!DDR_B_CLK1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!DDR_B_CLK# 00000000!DDR_B_CLK#0!!DDRCLK_20/16_20!DIFF!DDR_B_CLK0!!!!!46.92 ohms!!46.31 ohms!60.00 ohms!
+S!DDR_B_CKE 00000003!DDR_B_CKE3!!DDRCTL_CKE_10/11_19/20_25!!!!!!!36.57 ohms!!35.13 ohms!50.19 ohms!
+S!DDR_B_CKE 00000002!DDR_B_CKE2!!DDRCTL_CKE_10/11_19/20_25!!!!!!!38.80 ohms!!35.13 ohms!50.19 ohms!
+S!DDR_B_CKE 00000001!DDR_B_CKE1!!DDRCTL_CKE_10/11_19/20_25!!!!!!!37.74 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_CKE 00000000!DDR_B_CKE0!!DDRCTL_CKE_10/11_19/20_25!!!!!!!36.91 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_BG 00000001!DDR_B_BG1!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.38 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_BG 00000000!DDR_B_BG0!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.06 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_BA 00000001!DDR_B_BA1!!DDRADD_ALERT_10/11_19/20_25!!!!!!!44.83 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_BA 00000000!DDR_B_BA0!!DDRADD_ALERT_10/11_19/20_25!!!!!!!41.01 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_ALERT#!DDR_B_ALERT#!!DDRADD_ALERT_10/11_19/20_25!!!!!!!37.11 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_B_ACT#!DDR_B_ACT#!!DDRADD_ALERT_10/11_19/20_25!!!!!!!37.32 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_PARITY!DDR_A_PARITY!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.42 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_ODT 00000001!DDR_A_ODT1!!DDRCTL_CKE_10/11_19/20_25!!!!!!!36.38 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_ODT 00000000!DDR_A_ODT0!!DDRCTL_CKE_10/11_19/20_25!!!!!!!36.06 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000009!DDR_A_MA9!!DDRADD_ALERT_10/11_19/20_25!!!!!!!45.08 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000008!DDR_A_MA8!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.95 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000007!DDR_A_MA7!!DDRADD_ALERT_10/11_19/20_25!!!!!!!44.97 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000006!DDR_A_MA6!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.68 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000005!DDR_A_MA5!!DDRADD_ALERT_10/11_19/20_25!!!!!!!39.34 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000004!DDR_A_MA4!!DDRADD_ALERT_10/11_19/20_25!!!!!!!41.29 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000003!DDR_A_MA3!!DDRADD_ALERT_10/11_19/20_25!!!!!!!40.77 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000002!DDR_A_MA2!!DDRADD_ALERT_10/11_19/20_25!!!!!!!44.97 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000016!DDR_A_MA16!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.74 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000015!DDR_A_MA15!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.39 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000014!DDR_A_MA14!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.48 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000013!DDR_A_MA13!!DDRADD_ALERT_10/11_19/20_25!!!!!!!37.67 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000012!DDR_A_MA12!!DDRADD_ALERT_10/11_19/20_25!!!!!!!44.35 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000011!DDR_A_MA11!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.38 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000010!DDR_A_MA10!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.80 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000001!DDR_A_MA1!!DDRADD_ALERT_10/11_19/20_25!!!!!!!40.86 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_MA 00000000!DDR_A_MA0!!DDRADD_ALERT_10/11_19/20_25!!!!!!!45.60 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_DQS 00000007!DDR_A_DQS7!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_7!!!!!45.88 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS 00000006!DDR_A_DQS6!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_6!!!!!45.32 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS 00000005!DDR_A_DQS5!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_5!!!!!48.31 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS 00000004!DDR_A_DQS4!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_4!!!!!48.55 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS 00000003!DDR_A_DQS3!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_3!!!!!47.99 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS 00000002!DDR_A_DQS2!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_2!!!!!45.32 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS 00000001!DDR_A_DQS1!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_1!!!!!48.23 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS 00000000!DDR_A_DQS0!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_0!!!!!48.03 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS# 00000007!DDR_A_DQS#7!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_7!!!!!45.87 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS# 00000006!DDR_A_DQS#6!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_6!!!!!45.32 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS# 00000005!DDR_A_DQS#5!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_5!!!!!48.64 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS# 00000004!DDR_A_DQS#4!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_4!!!!!48.41 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS# 00000003!DDR_A_DQS#3!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_3!!!!!48.10 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS# 00000002!DDR_A_DQS#2!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_2!!!!!45.32 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS# 00000001!DDR_A_DQS#1!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_1!!!!!48.41 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_DQS# 00000000!DDR_A_DQS#0!!DDRDQS_19/19/16_19/20!DIFF!DDR_A_0!!!!!47.85 ohms!!45.32 ohms!60.00 ohms!
+S!DDR_A_D 00000009!DDR_A_D9!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.37 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000008!DDR_A_D8!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.65 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000007!DDR_A_D7!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.14 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000063!DDR_A_D63!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.75 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000062!DDR_A_D62!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.75 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000061!DDR_A_D61!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.39 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000060!DDR_A_D60!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.77 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000006!DDR_A_D6!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.69 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000059!DDR_A_D59!!DDRD1_19/8.5/10_19/20_25!!!!!!!46.05 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000058!DDR_A_D58!!DDRD1_19/8.5/10_19/20_25!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000057!DDR_A_D57!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.57 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000056!DDR_A_D56!!DDRD1_19/8.5/10_19/20_25!!!!!!!45.31 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000055!DDR_A_D55!!DDRD0_19/8.5/10_19/20_25!!!!!!!46.14 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000054!DDR_A_D54!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.39 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000053!DDR_A_D53!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.36 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000052!DDR_A_D52!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.73 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000051!DDR_A_D51!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.65 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000050!DDR_A_D50!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.37 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000005!DDR_A_D5!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.71 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000049!DDR_A_D49!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.59 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000048!DDR_A_D48!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.38 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000047!DDR_A_D47!!DDRD1_19/8.5/10_19/20_25!!!!!!!49.01 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000046!DDR_A_D46!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.81 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000045!DDR_A_D45!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.52 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000044!DDR_A_D44!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.55 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000043!DDR_A_D43!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.42 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000042!DDR_A_D42!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.96 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000041!DDR_A_D41!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.17 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000040!DDR_A_D40!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.69 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000004!DDR_A_D4!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.69 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000039!DDR_A_D39!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.65 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000038!DDR_A_D38!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.89 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000037!DDR_A_D37!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.78 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000036!DDR_A_D36!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.63 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000035!DDR_A_D35!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.42 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000034!DDR_A_D34!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.78 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000033!DDR_A_D33!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.46 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000032!DDR_A_D32!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.85 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000031!DDR_A_D31!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.01 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000030!DDR_A_D30!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.00 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000003!DDR_A_D3!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.69 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000029!DDR_A_D29!!DDRD1_19/8.5/10_19/20_25!!!!!!!46.63 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000028!DDR_A_D28!!DDRD1_19/8.5/10_19/20_25!!!!!!!46.75 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000027!DDR_A_D27!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.77 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000026!DDR_A_D26!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.88 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000025!DDR_A_D25!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.69 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000024!DDR_A_D24!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.98 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000023!DDR_A_D23!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.70 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000022!DDR_A_D22!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.58 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000021!DDR_A_D21!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.36 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000020!DDR_A_D20!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.34 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000002!DDR_A_D2!!DDRD0_19/8.5/10_19/20_25!!!!!!!48.00 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000019!DDR_A_D19!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.34 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000018!DDR_A_D18!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.34 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000017!DDR_A_D17!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.68 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000016!DDR_A_D16!!DDRD0_19/8.5/10_19/20_25!!!!!!!45.65 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000015!DDR_A_D15!!DDRD1_19/8.5/10_19/20_25!!!!!!!46.94 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000014!DDR_A_D14!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.63 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000013!DDR_A_D13!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.58 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000012!DDR_A_D12!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.03 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000011!DDR_A_D11!!DDRD1_19/8.5/10_19/20_25!!!!!!!48.40 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000010!DDR_A_D10!!DDRD1_19/8.5/10_19/20_25!!!!!!!47.09 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000001!DDR_A_D1!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.75 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_D 00000000!DDR_A_D0!!DDRD0_19/8.5/10_19/20_25!!!!!!!47.76 ohms!!44.84 ohms!60.00 ohms!
+S!DDR_A_CS# 00000001!DDR_A_CS#1!!DDRCTL_CKE_10/11_19/20_25!!!!!!!35.93 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_CS# 00000000!DDR_A_CS#0!!DDRCTL_CKE_10/11_19/20_25!!!!!!!35.86 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_CLK 00000001!DDR_A_CLK1!!DDRCLK_20/16_20!DIFF!DDR_A_CLK1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!DDR_A_CLK 00000000!DDR_A_CLK0!!DDRCLK_20/16_20!DIFF!DDR_A_CLK0!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!DDR_A_CLK# 00000001!DDR_A_CLK#1!!DDRCLK_20/16_20!DIFF!DDR_A_CLK1!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!DDR_A_CLK# 00000000!DDR_A_CLK#0!!DDRCLK_20/16_20!DIFF!DDR_A_CLK0!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!DDR_A_CKE 00000003!DDR_A_CKE3!!DDRCTL_CKE_10/11_19/20_25!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!DDR_A_CKE 00000002!DDR_A_CKE2!!DDRCTL_CKE_10/11_19/20_25!!!!!!!50.19 ohms!!50.19 ohms!50.19 ohms!
+S!DDR_A_CKE 00000001!DDR_A_CKE1!!DDRCTL_CKE_10/11_19/20_25!!!!!!!43.70 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_CKE 00000000!DDR_A_CKE0!!DDRCTL_CKE_10/11_19/20_25!!!!!!!41.47 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_BG 00000001!DDR_A_BG1!!DDRADD_ALERT_10/11_19/20_25!!!!!!!45.57 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_BG 00000000!DDR_A_BG0!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.45 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_BA 00000001!DDR_A_BA1!!DDRADD_ALERT_10/11_19/20_25!!!!!!!35.95 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_BA 00000000!DDR_A_BA0!!DDRADD_ALERT_10/11_19/20_25!!!!!!!36.06 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_ALERT#!DDR_A_ALERT#!!DDRADD_ALERT_10/11_19/20_25!!!!!!!43.70 ohms!!35.13 ohms!60.00 ohms!
+S!DDR_A_ACT#!DDR_A_ACT#!!DDRADD_ALERT_10/11_19/20_25!!!!!!!41.54 ohms!!35.13 ohms!60.00 ohms!
+S!DCIN_ISL 00088738!DCIN_ISL88738!!!!!!!!!2.63 ohms!!2.63 ohms!2.63 ohms!
+S!DCIN2_EN!DCIN2_EN!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DCIN1_EN!DCIN1_EN!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DAT_TP_SIO_R!DAT_TP_SIO_R!!!!DIFFPAIR5!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!DAT_TP_SIO_I2C_CLK!DAT_TP_SIO_I2C_CLK!!!DIFF!DIFFPAIR2!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!DAT_DDC2_CRT!DAT_DDC2_CRT!!CRT_CTL_5_10!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CV2_ON!CV2_ON!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CSOP_ISL 00088738!CSOP_ISL88738!!!DIFF!CSO_ISL88738!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!CSON_ISL 00088738!CSON_ISL88738!!!DIFF!CSO_ISL88738!!!!!33.16 ohms!!31.52 ohms!44.84 ohms!
+S!CSIP_ISL 00088738!CSIP_ISL88738!!!DIFF!CSI_ISL88738!!!!!29.78 ohms!!27.53 ohms!31.52 ohms!
+S!CSIN_ISL 00088738!CSIN_ISL88738!!!DIFF!CSI_ISL88738!!!!!32.39 ohms!!27.53 ohms!44.84 ohms!
+S!CSI2_COMP!CSI2_COMP!!!!!!!!!17.15 ohms!!16.95 ohms!27.53 ohms!
+S!CPU_XDP_TRST#!CPU_XDP_TRST#!!!!!!!!!47.44 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_XDP_TMS!CPU_XDP_TMS!!!!!!!!!46.84 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_XDP_TDO!CPU_XDP_TDO!!!!!!!!!46.63 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_XDP_TDI!CPU_XDP_TDI!!!!!!!!!47.39 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_XDP_TCLK!CPU_XDP_TCLK!!!!!!!!!45.65 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_XDP_PREQ#!CPU_XDP_PREQ#!!!!!!!!!45.48 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_XDP_PRDY#!CPU_XDP_PRDY#!!!!!!!!!45.46 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_POPIRCOMP!CPU_POPIRCOMP!!!!!!!15 MIL!!22.10 ohms!!20.96 ohms!27.53 ohms!
+S!CPU_DP3_AUXP!CPU_DP3_AUXP!!!DIFF!CPU_DP3_AUX!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!CPU_DP3_AUXN!CPU_DP3_AUXN!!!DIFF!CPU_DP3_AUX!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!CPU_DP2_P3_C!CPU_DP2_P3_C!!DP_12_15!DIFF!CPU_DP2_3_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_P 00000003!CPU_DP2_P3!!DP_12_15!DIFF!CPU_DP2_3!!!!!48.62 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_P2_C!CPU_DP2_P2_C!!DP_12_15!DIFF!CPU_DP2_2_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_P 00000002!CPU_DP2_P2!!DP_12_15!DIFF!CPU_DP2_2!!!!!48.84 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_P1_C!CPU_DP2_P1_C!!DP_12_15!DIFF!CPU_DP2_1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_P 00000001!CPU_DP2_P1!!DP_12_15!DIFF!CPU_DP2_1!!!!!48.78 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_P0_C!CPU_DP2_P0_C!!DP_12_15!DIFF!CPU_DP2_0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_P 00000000!CPU_DP2_P0!!DP_12_15!DIFF!CPU_DP2_0!!!!!49.09 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_N3_C!CPU_DP2_N3_C!!DP_12_15!DIFF!CPU_DP2_3_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_N 00000003!CPU_DP2_N3!!DP_12_15!DIFF!CPU_DP2_3!!!!!48.56 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_N2_C!CPU_DP2_N2_C!!DP_12_15!DIFF!CPU_DP2_2_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_N 00000002!CPU_DP2_N2!!DP_12_15!DIFF!CPU_DP2_2!!!!!48.81 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_N1_C!CPU_DP2_N1_C!!DP_12_15!DIFF!CPU_DP2_1_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_N 00000001!CPU_DP2_N1!!DP_12_15!DIFF!CPU_DP2_1!!!!!48.75 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_N0_C!CPU_DP2_N0_C!!DP_12_15!DIFF!CPU_DP2_0_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_N 00000000!CPU_DP2_N0!!DP_12_15!DIFF!CPU_DP2_0!!!!!49.08 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_HPD!CPU_DP2_HPD!!!!!!!!!45.70 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_DP2_CTRL_DATA!CPU_DP2_CTRL_DATA!!!DIFF!DIFFPAIR7!!!!!46.76 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_CTRL_CLK!CPU_DP2_CTRL_CLK!!!DIFF!DIFFPAIR7!!!!!46.80 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_AUXP_C!CPU_DP2_AUXP_C!!DP_12_15!DIFF!CPU_DP2_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_AUXP!CPU_DP2_AUXP!!DP_12_15!DIFF!CPU_DP2_AUX!!!!!47.01 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP2_AUXN_C!CPU_DP2_AUXN_C!!DP_12_15!DIFF!CPU_DP2_AUX_C!!!!!46.31 ohms!!46.31 ohms!46.31 ohms!
+S!CPU_DP2_AUXN!CPU_DP2_AUXN!!DP_12_15!DIFF!CPU_DP2_AUX!!!!!47.00 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_P 00000003!CPU_DP1_P3!!HDMI_12_15!DIFF!CPU_DP1_3!!!!!47.31 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_P 00000002!CPU_DP1_P2!!HDMI_12_15!DIFF!CPU_DP1_2!!!!!47.22 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_P 00000001!CPU_DP1_P1!!HDMI_12_15!DIFF!CPU_DP1_1!!!!!47.33 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_P 00000000!CPU_DP1_P0!!HDMI_12_15!DIFF!CPU_DP1_0!!!!!47.35 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_N 00000003!CPU_DP1_N3!!HDMI_12_15!DIFF!CPU_DP1_3!!!!!47.28 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_N 00000002!CPU_DP1_N2!!HDMI_12_15!DIFF!CPU_DP1_2!!!!!47.23 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_N 00000001!CPU_DP1_N1!!HDMI_12_15!DIFF!CPU_DP1_1!!!!!47.28 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_N 00000000!CPU_DP1_N0!!HDMI_12_15!DIFF!CPU_DP1_0!!!!!47.43 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_HPD!CPU_DP1_HPD!!!!!!!!!44.91 ohms!!44.84 ohms!60.00 ohms!
+S!CPU_DP1_CTRL_DATA!CPU_DP1_CTRL_DATA!!!DIFF!DIFFPAIR6!!!!!46.39 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_CTRL_CLK!CPU_DP1_CTRL_CLK!!!DIFF!DIFFPAIR6!!!!!46.39 ohms!!46.31 ohms!60.00 ohms!
+S!CPU_DP1_AUXP!CPU_DP1_AUXP!!!DIFF!CPU_DP1_AUX!!!!!47.40 ohms!!46.31 ohms!50.19 ohms!
+S!CPU_DP1_AUXN!CPU_DP1_AUXN!!!DIFF!CPU_DP1_AUX!!!!!47.92 ohms!!46.31 ohms!50.19 ohms!
+S!CPU_B+!CPU_B+!!!!!!!!!1.94 ohms!!1.31 ohms!60.00 ohms!
+S!CORE_VID 00000001!CORE_VID1!!!!!!!!!30.46 ohms!!27.53 ohms!60.00 ohms!
+S!CORE_VID 00000000!CORE_VID0!!!!!!!!!31.11 ohms!!27.53 ohms!60.00 ohms!
+S!CONTACTLESS_DET#!CONTACTLESS_DET#!!!!!!!!!44.99 ohms!!44.84 ohms!60.00 ohms!
+S!COMP_VSA!COMP_VSA!!!!!!!!!29.23 ohms!!27.53 ohms!44.84 ohms!
+S!COMP_ISL 00088738!COMP_ISL88738!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!COMP_IA!COMP_IA!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!CLK_TP_SIO_R!CLK_TP_SIO_R!!!!DIFFPAIR5!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!CLK_TP_SIO_I2C_DAT!CLK_TP_SIO_I2C_DAT!!!DIFF!DIFFPAIR2!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLK_PCIE_P 00000005!CLK_PCIE_P5!!!DIFF!CLK_PCIE_5!!!!!47.23 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_P 00000004!CLK_PCIE_P4!!!DIFF!CLK_PCIE_4!!!!!48.94 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_P 00000003!CLK_PCIE_P3!!!DIFF!CLK_PCIE_3!!!!!46.49 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_P 00000002!CLK_PCIE_P2!!!DIFF!CLK_PCIE_2!!!!!46.71 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_P 00000001!CLK_PCIE_P1!!!DIFF!CLK_PCIE_1!!!!!46.63 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_P 00000000!CLK_PCIE_P0!!!DIFF!CLK_PCIE_0!!!!!46.58 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_N 00000005!CLK_PCIE_N5!!!DIFF!CLK_PCIE_5!!!!!47.25 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_N 00000004!CLK_PCIE_N4!!!DIFF!CLK_PCIE_4!!!!!48.98 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_N 00000003!CLK_PCIE_N3!!!DIFF!CLK_PCIE_3!!!!!46.47 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_N 00000002!CLK_PCIE_N2!!!DIFF!CLK_PCIE_2!!!!!46.72 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_N 00000001!CLK_PCIE_N1!!!DIFF!CLK_PCIE_1!!!!!46.63 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_PCIE_N 00000000!CLK_PCIE_N0!!!DIFF!CLK_PCIE_0!!!!!46.58 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_ITPXDP_P_R!CLK_ITPXDP_P_R!!!DIFF!CLK_ITPXDP__R!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_ITPXDP_P!CLK_ITPXDP_P!!!DIFF!CLK_ITPXDP_!!!!!46.82 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_ITPXDP_N_R!CLK_ITPXDP_N_R!!!DIFF!CLK_ITPXDP__R!!!!!46.31 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_ITPXDP_N!CLK_ITPXDP_N!!!DIFF!CLK_ITPXDP_!!!!!46.90 ohms!!46.31 ohms!60.00 ohms!
+S!CLK_DDC2_CRT!CLK_DDC2_CRT!!CRT_CTL_5_10!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKRUN#_EC!CLKRUN#_EC!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!CLKRUN#!CLKRUN#!!!!!!!!!47.11 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE# 00000005!CLKREQ_PCIE#5!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE# 00000004!CLKREQ_PCIE#4!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE# 00000003!CLKREQ_PCIE#3!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE# 00000002!CLKREQ_PCIE#2!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE# 00000001!CLKREQ_PCIE#1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKREQ_PCIE# 00000000!CLKREQ_PCIE#0!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CLKDET#!CLKDET#!!!!!!!!!47.13 ohms!!44.84 ohms!50.19 ohms!
+S!CFG_RCOMP!CFG_RCOMP!!!!!!!15 MIL!!24.50 ohms!!20.96 ohms!40.48 ohms!
+S!CFG 00000009!CFG9!!!!!!!!!46.64 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000008!CFG8!!!!!!!!!47.81 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000007!CFG7!!!!!!!!!47.79 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000006!CFG6!!!!!!!!!48.32 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000005!CFG5!!!!!!!!!48.06 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000004!CFG4!!!!!!!!!45.78 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000003!CFG3!!!!!!!!!45.87 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000002!CFG2!!!!!!!!!47.62 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000019!CFG19!!!!!!!!!45.14 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000018!CFG18!!!!!!!!!45.20 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000017!CFG17!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000016!CFG16!!!!!!!!!45.39 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000015!CFG15!!!!!!!!!46.78 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000014!CFG14!!!!!!!!!47.96 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000013!CFG13!!!!!!!!!48.33 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000012!CFG12!!!!!!!!!46.55 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000011!CFG11!!!!!!!!!47.65 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000010!CFG10!!!!!!!!!46.57 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000001!CFG1!!!!!!!!!45.86 ohms!!44.84 ohms!60.00 ohms!
+S!CFG 00000000!CFG0!!!!!!!!!46.32 ohms!!44.84 ohms!60.00 ohms!
+S!CAM_MIC_CBL_DET#!CAM_MIC_CBL_DET#!!!!!!!!!45.12 ohms!!44.84 ohms!60.00 ohms!
+S!BT_RADIO_DIS#_R!BT_RADIO_DIS#_R!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!BT_RADIO_DIS#!BT_RADIO_DIS#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!BST_5V!BST_5V!!!!!!!!!14.87 ohms!!10.69 ohms!44.84 ohms!
+S!BST_3V!BST_3V!!!!!!!!!14.74 ohms!!10.46 ohms!44.84 ohms!
+S!BREATH_WHITE_LED_SNIFF#!BREATH_WHITE_LED_SNIFF#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!BREATH_LED#_Q!BREATH_LED#_Q!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!BREATH_LED#!BREATH_LED#!!!!!!!!!44.80 ohms!!43.91 ohms!60.00 ohms!
+S!BOOT2_ISL 00088738!BOOT2_ISL88738!!!!!!!!!10.94 ohms!!10.94 ohms!10.94 ohms!
+S!BOOT1_ISL 00088738!BOOT1_ISL88738!!!!!!!!!6.88 ohms!!6.88 ohms!6.88 ohms!
+S!BOARD_ID!BOARD_ID!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!BL_PWR_SRC_ON!BL_PWR_SRC_ON!!!!!!!!!7.47 ohms!!6.86 ohms!44.84 ohms!
+S!BLUE_CRT!BLUE_CRT!!CRT_DAC_20_30!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!BLUE!BLUE!!CRT_DAC_20_30!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!BIA_PWM_EC!BIA_PWM_EC!!!!!!!!!44.81 ohms!!43.91 ohms!60.00 ohms!
+S!BIA_PWM!BIA_PWM!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!BGATE_ISL 00088738!BGATE_ISL88738!!!!!!!30 MIL!!8.55 ohms!!6.64 ohms!60.00 ohms!
+S!BEEP_R!BEEP_R!!!!!!!10 MIL!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!BEEP!BEEP!!!!!!!!!44.40 ohms!!43.91 ohms!60.00 ohms!
+S!BC_INT#_ECE 00001117!BC_INT#_ECE1117!!!!!!!!!44.76 ohms!!43.02 ohms!60.00 ohms!
+S!BC_DAT_ECE 00001117!BC_DAT_ECE1117!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!BC_CLK_ECE 00001117!BC_CLK_ECE1117!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!BCM5882_ALERT#!BCM5882_ALERT#!!!!!!!!!44.80 ohms!!43.02 ohms!60.00 ohms!
+S!BBS_BIT 00000006!BBS_BIT6!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!BATT_YELLOW#!BATT_YELLOW#!!!!!!!10 MIL!!30.70 ohms!!27.53 ohms!40.48 ohms!
+S!BATT_WHITE#!BATT_WHITE#!!!!!!!10 MIL!!27.85 ohms!!27.53 ohms!60.00 ohms!
+S!BAT2_LED#!BAT2_LED#!!!!!!!10 MIL!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!BAT1_LED#!BAT1_LED#!!!!!!!10 MIL!!28.02 ohms!!27.53 ohms!60.00 ohms!
+S!AUX_EN_WOWL!AUX_EN_WOWL!!!!!!!!!44.82 ohms!!43.91 ohms!60.00 ohms!
+S!AUD_SENSE_A!AUD_SENSE_A!!!!!!!10 MIL!!27.72 ohms!!27.53 ohms!31.52 ohms!
+S!AUD_PWR_EN!AUD_PWR_EN!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!AUD_PC_BEEP!AUD_PC_BEEP!!!!!!!10 MIL!!28.30 ohms!!27.53 ohms!31.52 ohms!
+S!AUD_NB_MUTE#!AUD_NB_MUTE#!!!!!!!!!44.55 ohms!!43.91 ohms!60.00 ohms!
+S!AUD_HP_OUT_R 00000001!AUD_HP_OUT_R1!!!!!!!15 MIL!!21.52 ohms!!20.96 ohms!60.00 ohms!
+S!AUD_HP_OUT_R!AUD_HP_OUT_R!!!!!!!15 MIL!!20.96 ohms!!20.96 ohms!20.96 ohms!
+S!AUD_HP_OUT_L 00000001!AUD_HP_OUT_L1!!!!!!!15 MIL!!16.73 ohms!!8.45 ohms!20.96 ohms!
+S!AUD_HP_OUT_L!AUD_HP_OUT_L!!!!!!!15 MIL!!26.18 ohms!!20.96 ohms!40.48 ohms!
+S!AUD_HP_NB_SENSE!AUD_HP_NB_SENSE!!!!!!!10 MIL!!16.99 ohms!!6.41 ohms!60.00 ohms!
+S!AR_DET#!AR_DET#!!!!!!!!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!ALW_PWRGD_3V_5V!ALW_PWRGD_3V_5V!!!!!!!!!44.45 ohms!!27.53 ohms!60.00 ohms!
+S!ALWON!ALWON!!!!!!!!!44.80 ohms!!43.91 ohms!60.00 ohms!
+S!ADP_ISL 00088738!ADP_ISL88738!!!!!!!!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!AC_PRESENT!AC_PRESENT!!!!!!!!!45.10 ohms!!43.91 ohms!60.00 ohms!
+S!AC_DISC#!AC_DISC#!!!!!!!!!44.83 ohms!!43.02 ohms!60.00 ohms!
+S!AC_DIS!AC_DIS!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ACOK_ISL 00088738!ACOK_ISL88738!!!!!!!!!28.07 ohms!!27.53 ohms!31.52 ohms!
+S!ACIN_ISL 00088738!ACIN_ISL88738!!!!!!!!!29.03 ohms!!27.53 ohms!44.84 ohms!
+S!ACAV_IN_NB!ACAV_IN_NB!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ACAV_IN 00000001!ACAV_IN1!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!ACAV_IN!ACAV_IN!!!!!!!!!44.83 ohms!!43.91 ohms!60.00 ohms!
+S!AC1_DISC#!AC1_DISC#!!!!!!!!!44.84 ohms!!44.84 ohms!60.00 ohms!
+S!5V_VIN!5V_VIN!!!!!!!!!2.65 ohms!!2.06 ohms!44.84 ohms!
+S!5V_SN!5V_SN!!!!!!!!!9.79 ohms!!6.19 ohms!44.84 ohms!
+S!5V_FB!5V_FB!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!3V_VIN!3V_VIN!!!!!!!!!4.16 ohms!!3.50 ohms!5.57 ohms!
+S!3V_SN!3V_SN!!!!!!!!!8.13 ohms!!6.59 ohms!44.84 ohms!
+S!3V_FB!3V_FB!!!!!!!!!31.26 ohms!!27.53 ohms!44.84 ohms!
+S!3V5V_EN!3V5V_EN!!!!!!!!!28.23 ohms!!27.53 ohms!60.00 ohms!
+S!32KHZ_OUT!32KHZ_OUT!!!!!!!!!44.78 ohms!!43.91 ohms!44.84 ohms!
+S!3.3V_WWAN_EN!3.3V_WWAN_EN!!!!!!!!!44.82 ohms!!43.91 ohms!60.00 ohms!
+S!3.3V_TS_EN!3.3V_TS_EN!!!!!!!!!45.68 ohms!!44.84 ohms!60.00 ohms!
+S!3.3V_CAM_EN#!3.3V_CAM_EN#!!!!!!!!!45.02 ohms!!44.84 ohms!60.00 ohms!
+S!2.5VSP!2.5VSP!!!!!!!!!7.81 ohms!!5.40 ohms!27.53 ohms!
+S!1.8V_PRIM_PWRGD!1.8V_PRIM_PWRGD!!!!!!!!!44.02 ohms!!27.53 ohms!60.00 ohms!
+S!0.6V_DDR_VTT_ON!0.6V_DDR_VTT_ON!!!!!!!!!35.11 ohms!!27.53 ohms!60.00 ohms!
+S!+Z 00004012!+Z4012!!!!!!!!!32.30 ohms!!27.53 ohms!44.84 ohms!
+S!+VSS_PLL!+VSS_PLL!!!!!!!20 MIL!!8.18 ohms!!8.18 ohms!8.18 ohms!
+S!+VR_CAP!+VR_CAP!!!!!!!!!27.53 ohms!!27.53 ohms!60.00 ohms!
+S!+VHDMI_VCC!+VHDMI_VCC!!!!!!!40 MIL!!6.16 ohms!!4.82 ohms!60.00 ohms!
+S!+VDD_DAC_ 00000033!+VDD_DAC_33!!!!!!!20 MIL!!33.47 ohms!!31.52 ohms!40.48 ohms!
+S!+VDDA_AVDD 00000001!+VDDA_AVDD1!!!!!!!20 MIL!!2.16 ohms!!2.16 ohms!2.16 ohms!
+S!+VCHGR!+VCHGR!!!!!!!!!3.38 ohms!!2.97 ohms!44.84 ohms!
+S!+VCC_SFR_OC!+VCC_SFR_OC!!!!!!!20 MIL!!12.97 ohms!!6.15 ohms!27.53 ohms!
+S!+VCC_SA!+VCC_SA!!!!!!!20 MIL!!8.43 ohms!!2.57 ohms!60.00 ohms!
+S!+VCC_GTUS!+VCC_GTUS!!!!!!!!!10.93 ohms!!6.15 ohms!44.84 ohms!
+S!+VCC_GT!+VCC_GT!!!!!!!20 MIL!!1.45 ohms!!0.99 ohms!60.00 ohms!
+S!+VCC_CORE_G 00000001!+VCC_CORE_G1!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!+VCC_CORE_G 00000000!+VCC_CORE_G0!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!+VCC_CORE!+VCC_CORE!!!!!!!20 MIL!!0.73 ohms!!0.44 ohms!40.48 ohms!
+S!+VCC_1P 00000008!+VCC_1P8!!!!!!!!!15.93 ohms!!9.77 ohms!60.00 ohms!
+S!+VCCK_ 00000012!+VCCK_12!!!!!!!!!28.12 ohms!!27.53 ohms!60.00 ohms!
+S!+VCC1V8D_TBTA_LDO!+VCC1V8D_TBTA_LDO!!!!!!!!!24.47 ohms!!20.96 ohms!44.84 ohms!
+S!+VCC1V8A_TBTA_LDO!+VCC1V8A_TBTA_LDO!!!!!!!!!45.69 ohms!!44.84 ohms!50.19 ohms!
+S!+VBUS_DC_SS!+VBUS_DC_SS!!!!!!!!!2.09 ohms!!1.90 ohms!60.00 ohms!
+S!+USB_EX3_PWR!+USB_EX3_PWR!!!!!!!80 MIL!!2.60 ohms!!2.45 ohms!40.48 ohms!
+S!+USB_EX2_PWR!+USB_EX2_PWR!!!!!!!80 MIL!!3.92 ohms!!3.92 ohms!3.92 ohms!
+S!+TBTA_VBUS_ 00000001!+TBTA_VBUS_1!!!!!!!!!1.75 ohms!!0.82 ohms!60.00 ohms!
+S!+TBTA_VBUS!+TBTA_VBUS!!!!!!!!!5.25 ohms!!2.18 ohms!60.00 ohms!
+S!+TBTA_LDO_BMC!+TBTA_LDO_BMC!!!!!!!!!47.84 ohms!!44.84 ohms!50.19 ohms!
+S!+SIM_PWR!+SIM_PWR!!!!!!!!!17.58 ohms!!16.95 ohms!60.00 ohms!
+S!+SDREG 00000002!+SDREG2!!!!!!!20 MIL!!8.08 ohms!!8.08 ohms!8.08 ohms!
+S!+SDC_IN!+SDC_IN!!!!!!!!!0.77 ohms!!0.40 ohms!60.00 ohms!
+S!+RTC_CELL_VBAT!+RTC_CELL_VBAT!!!!!!!!!28.52 ohms!!27.53 ohms!60.00 ohms!
+S!+RTC_CELL!+RTC_CELL!!!!!!!20 MIL!!17.13 ohms!!16.95 ohms!60.00 ohms!
+S!+RSVD_VCC3P3_ 00000001!+RSVD_VCC3P3_1!!!!!!!20 MIL!!31.52 ohms!!31.52 ohms!31.52 ohms!
+S!+RREF!+RREF!!!!!!!12 MIL!!20.01 ohms!!14.72 ohms!24.45 ohms!
+S!+REGCTL_PNP 00000010!+REGCTL_PNP10!!!!!!!!!7.29 ohms!!7.29 ohms!7.29 ohms!
+S!+PWR_SRC_R!+PWR_SRC_R!!!!!!!!!9.88 ohms!!9.88 ohms!9.88 ohms!
+S!+PWR_SRC_AC!+PWR_SRC_AC!!!!!!!!!2.52 ohms!!2.52 ohms!2.52 ohms!
+S!+PWR_SRC!+PWR_SRC!B+!B+!!!!!!!0.53 ohms!!0.22 ohms!60.00 ohms!
+S!+PECI_VREF!+PECI_VREF!!!!!!!!!28.74 ohms!!27.53 ohms!44.84 ohms!
+S!+PBATT!+PBATT!!!!!!!!!6.50 ohms!!4.19 ohms!27.53 ohms!
+S!+MIC2-VREFO!+MIC2-VREFO!!!!!!!20 MIL!!24.61 ohms!!16.95 ohms!60.00 ohms!
+S!+LINE1-VREFO-R!+LINE1-VREFO-R!!!!!!!15 MIL!!10.82 ohms!!10.82 ohms!10.82 ohms!
+S!+LINE1-VREFO-L!+LINE1-VREFO-L!!!!!!!15 MIL!!7.43 ohms!!7.43 ohms!7.43 ohms!
+S!+LCDVDD!+LCDVDD!!!!!!!60 MIL!!5.26 ohms!!3.89 ohms!60.00 ohms!
+S!+GND_CHASSIS!+GND_CHASSIS!!!!!!!20 MIL!!7.76 ohms!!6.88 ohms!40.48 ohms!
+S!+EDP_VDD!+EDP_VDD!!!!!!!60 MIL!!7.96 ohms!!6.97 ohms!40.48 ohms!
+S!+EC_DEBUG_VCC!+EC_DEBUG_VCC!!!!!!!!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!+DV33_ 00000018!+DV33_18!!!!!!!20 MIL!!26.97 ohms!!16.95 ohms!40.48 ohms!
+S!+DDR_VREF_CA!+DDR_VREF_CA!!20!!!!!8 MIL!!22.95 ohms!!16.95 ohms!60.00 ohms!
+S!+DDR_VREF_B_DQ!+DDR_VREF_B_DQ!!20!!!!!8 MIL!!18.44 ohms!!16.95 ohms!60.00 ohms!
+S!+DDR_VREF_B_CA!+DDR_VREF_B_CA!!20!!!!!8 MIL!!18.26 ohms!!16.95 ohms!60.00 ohms!
+S!+DDR_VREF_A_DQ!+DDR_VREF_A_DQ!!20!!!!!20 MIL!!44.84 ohms!!44.84 ohms!44.84 ohms!
+S!+DDR_VREF_A_CA!+DDR_VREF_A_CA!!!!!!!20 MIL!!18.08 ohms!!16.95 ohms!27.53 ohms!
+S!+DC_IN_SS!+DC_IN_SS!!!!!!!!!2.39 ohms!!1.63 ohms!60.00 ohms!
+S!+DC_IN!+DC_IN!!!!!!!!!7.04 ohms!!1.90 ohms!60.00 ohms!
+S!+DCPRTC!+DCPRTC!!!!!!!!!46.78 ohms!!44.84 ohms!50.19 ohms!
+S!+DCIN_JACK!+DCIN_JACK!!!!!!!!!4.06 ohms!!3.32 ohms!44.84 ohms!
+S!+CRT_VCC!+CRT_VCC!!!!!!!40 MIL!!7.25 ohms!!3.44 ohms!60.00 ohms!
+S!+COINCELL!+COINCELL!!!!!!!20 MIL!!18.21 ohms!!16.95 ohms!40.48 ohms!
+S!+CHARGER_SRC!+CHARGER_SRC!!!!!!!!!1.69 ohms!!1.20 ohms!7.02 ohms!
+S!+BL_PWR_SRC!+BL_PWR_SRC!!!!!!!80 MIL!!3.32 ohms!!2.96 ohms!44.84 ohms!
+S!+AC_IN!+AC_IN!!!!!!!!!3.38 ohms!!2.21 ohms!44.84 ohms!
+S!+5V_USB_CHG_PWR!+5V_USB_CHG_PWR!!!!!!!100 MIL!!1.75 ohms!!1.45 ohms!60.00 ohms!
+S!+5V_TSP!+5V_TSP!!!!!!!40 MIL!!2.07 ohms!!2.07 ohms!2.07 ohms!
+S!+5V_TBT_VBUS!+5V_TBT_VBUS!!!!!!!!!5.31 ohms!!4.34 ohms!60.00 ohms!
+S!+5V_TBTA_VBUS_D!+5V_TBTA_VBUS_D!!!!!!!!!2.63 ohms!!2.11 ohms!5.84 ohms!
+S!+5V_RUN_UZ 00000004!+5V_RUN_UZ4!!!!!!!100 MIL!!4.10 ohms!!3.66 ohms!40.48 ohms!
+S!+5V_RUN_PVDD_L!+5V_RUN_PVDD_L!!!!!!!100 MIL!!3.07 ohms!!3.07 ohms!3.07 ohms!
+S!+5V_RUN_AUDIO_UZ 00000005!+5V_RUN_AUDIO_UZ5!!!!!!!100 MIL!!4.49 ohms!!4.49 ohms!4.49 ohms!
+S!+5V_RUN_AUDIO!+5V_RUN_AUDIO!!!!!!!100 MIL!!3.43 ohms!!2.33 ohms!60.00 ohms!
+S!+5V_RUN!+5V_RUN!!!!!!!20 MIL!!0.23 ohms!!0.14 ohms!60.00 ohms!
+S!+5V_PD_VDD!+5V_PD_VDD!!!!!!!!!2.62 ohms!!2.62 ohms!2.62 ohms!
+S!+5V_HDD!+5V_HDD!!!!!!!60 MIL!!6.40 ohms!!3.17 ohms!40.48 ohms!
+S!+5V_ALW_PDA!+5V_ALW_PDA!!!!!!!140 MIL!!3.43 ohms!!2.79 ohms!60.00 ohms!
+S!+5V_ALWP!+5V_ALWP!!!!!!!!!3.81 ohms!!1.82 ohms!60.00 ohms!
+S!+5V_ALW 00000002!+5V_ALW2!!!!!!!20 MIL!!29.49 ohms!!27.53 ohms!44.84 ohms!
+S!+5V_ALW!+5V_ALW!!!!!!!20 MIL!!5.25 ohms!!1.53 ohms!60.00 ohms!
+S!+3.3V_WWAN_UZ 00000002!+3.3V_WWAN_UZ2!!!!!!!90 MIL!!3.08 ohms!!2.84 ohms!40.48 ohms!
+S!+3.3V_WWAN!+3.3V_WWAN!!!!!!!110 MIL!!4.02 ohms!!1.97 ohms!60.00 ohms!
+S!+3.3V_WLAN_UZ 00000004!+3.3V_WLAN_UZ4!!!!!!!110 MIL!!4.02 ohms!!4.02 ohms!4.02 ohms!
+S!+3.3V_WLAN!+3.3V_WLAN!!!!!!!90 MIL!!1.30 ohms!!1.09 ohms!60.00 ohms!
+S!+3.3V_VGA!+3.3V_VGA!!!!!!!30 MIL!!23.24 ohms!!16.95 ohms!40.48 ohms!
+S!+3.3V_VDD_PIC!+3.3V_VDD_PIC!!!!!!!30 MIL!!9.89 ohms!!3.28 ohms!60.00 ohms!
+S!+3.3V_VDD_DCIN!+3.3V_VDD_DCIN!!!!!!!!!12.67 ohms!!7.81 ohms!60.00 ohms!
+S!+3.3V_VCCHDA!+3.3V_VCCHDA!!!!!!!20 MIL!!7.01 ohms!!5.32 ohms!60.00 ohms!
+S!+3.3V_TP!+3.3V_TP!!!!!!!20 MIL!!5.32 ohms!!2.79 ohms!27.53 ohms!
+S!+3.3V_TBTA_FLASH!+3.3V_TBTA_FLASH!!!!!!!!!11.14 ohms!!4.05 ohms!60.00 ohms!
+S!+3.3V_SPI!+3.3V_SPI!!!!!!!20 MIL!!18.71 ohms!!16.95 ohms!60.00 ohms!
+S!+3.3V_RUN_UZ 00000003!+3.3V_RUN_UZ3!!!!!!!140 MIL!!3.72 ohms!!3.40 ohms!40.48 ohms!
+S!+3.3V_RUN_DIMM 00000002!+3.3V_RUN_DIMM2!!!!!!!!!12.48 ohms!!10.01 ohms!44.84 ohms!
+S!+3.3V_RUN_DIMM 00000001!+3.3V_RUN_DIMM1!!!!!!!!!22.27 ohms!!16.95 ohms!27.53 ohms!
+S!+3.3V_RUN_CARD!+3.3V_RUN_CARD!!!!!!!40 MIL!!9.73 ohms!!6.68 ohms!60.00 ohms!
+S!+3.3V_RUN_AUDIO_UZ 00000005!+3.3V_RUN_AUDIO_UZ5!!!!!!!20 MIL!!6.73 ohms!!6.73 ohms!6.73 ohms!
+S!+3.3V_RUN_AUDIO_IO!+3.3V_RUN_AUDIO_IO!!!!!!!20 MIL!!5.41 ohms!!5.41 ohms!5.41 ohms!
+S!+3.3V_RUN_AUDIO_DVDD!+3.3V_RUN_AUDIO_DVDD!!!!!!!20 MIL!!3.01 ohms!!3.01 ohms!3.01 ohms!
+S!+3.3V_RUN_AUDIO!+3.3V_RUN_AUDIO!!!!!!!20 MIL!!5.20 ohms!!2.63 ohms!60.00 ohms!
+S!+3.3V_RUN!+3.3V_RUN!!!!!!!20 MIL!!5.10 ohms!!1.20 ohms!60.00 ohms!
+S!+3.3V_RTC_LDO!+3.3V_RTC_LDO!!!!!!!20 MIL!!27.68 ohms!!27.53 ohms!60.00 ohms!
+S!+3.3V_PGPPE!+3.3V_PGPPE!!!!!!!20 MIL!!13.26 ohms!!7.96 ohms!60.00 ohms!
+S!+3.3V_PGPPD!+3.3V_PGPPD!!!!!!!20 MIL!!21.87 ohms!!16.95 ohms!60.00 ohms!
+S!+3.3V_PGPPC!+3.3V_PGPPC!!!!!!!20 MIL!!22.44 ohms!!16.95 ohms!60.00 ohms!
+S!+3.3V_PGPPB!+3.3V_PGPPB!!!!!!!20 MIL!!18.17 ohms!!16.95 ohms!27.53 ohms!
+S!+3.3V_PDA_VOUT!+3.3V_PDA_VOUT!!!!!!!!!47.28 ohms!!44.84 ohms!50.19 ohms!
+S!+3.3V_MMI_IN!+3.3V_MMI_IN!!!!!!!50 MIL!!5.44 ohms!!4.54 ohms!60.00 ohms!
+S!+3.3V_MMI_AUX!+3.3V_MMI_AUX!!!!!!!20 MIL!!5.85 ohms!!5.17 ohms!40.48 ohms!
+S!+3.3V_LAN_UZ 00000002!+3.3V_LAN_UZ2!!!!!!!40 MIL!!4.49 ohms!!4.49 ohms!4.49 ohms!
+S!+3.3V_LAN_OUT!+3.3V_LAN_OUT!!!!!!!20 MIL!!5.34 ohms!!3.03 ohms!60.00 ohms!
+S!+3.3V_LAN!+3.3V_LAN!!!!!!!40 MIL!!9.57 ohms!!3.28 ohms!60.00 ohms!
+S!+3.3V_HDD_M 00000002!+3.3V_HDD_M2!!!!!!!120 MIL!!1.46 ohms!!1.14 ohms!4.60 ohms!
+S!+3.3V_HDD!+3.3V_HDD!!!!!!!90 MIL!!8.68 ohms!!2.86 ohms!60.00 ohms!
+S!+3.3V_EC_PLL!+3.3V_EC_PLL!!!!!!!!!9.14 ohms!!8.81 ohms!44.84 ohms!
+S!+3.3V_CPS_R 00000001!+3.3V_CPS_R1!!!!!!!!!28.05 ohms!!27.53 ohms!31.52 ohms!
+S!+3.3V_CPS!+3.3V_CPS!!!!!!!20 MIL!!23.59 ohms!!16.95 ohms!60.00 ohms!
+S!+3.3V_CAM!+3.3V_CAM!!!!!!!20 MIL!!20.22 ohms!!16.95 ohms!60.00 ohms!
+S!+3.3V_ALW_UE 00000001!+3.3V_ALW_UE1!!!!!!!20 MIL!!17.82 ohms!!9.51 ohms!60.00 ohms!
+S!+3.3V_ALW_PCH_UZ 00000003!+3.3V_ALW_PCH_UZ3!!!!!!!40 MIL!!8.04 ohms!!6.04 ohms!40.48 ohms!
+S!+3.3V_ALW_PCH!+3.3V_ALW_PCH!!!!!!!40 MIL!!6.23 ohms!!2.50 ohms!60.00 ohms!
+S!+3.3V_ALW_DSW!+3.3V_ALW_DSW!!!!!!!20 MIL!!1.83 ohms!!1.06 ohms!60.00 ohms!
+S!+3.3V_ALWP!+3.3V_ALWP!!!!!!!!!2.80 ohms!!1.35 ohms!27.53 ohms!
+S!+3.3V_ALW 00000002!+3.3V_ALW2!!!!!!!20 MIL!!24.92 ohms!!16.95 ohms!60.00 ohms!
+S!+3.3V_ALW!+3.3V_ALW!!!!!!!20 MIL!!4.34 ohms!!1.03 ohms!60.00 ohms!
+S!+3.3V_1.8V_PGPPG!+3.3V_1.8V_PGPPG!!!!!!!20 MIL!!19.29 ohms!!16.95 ohms!60.00 ohms!
+S!+3.3V_1.8V_PGPPA!+3.3V_1.8V_PGPPA!!!!!!!20 MIL!!4.52 ohms!!4.09 ohms!60.00 ohms!
+S!+3.3V_1.8V_ESPI!+3.3V_1.8V_ESPI!!!!!!!!!22.31 ohms!!6.41 ohms!60.00 ohms!
+S!+2.5V_VIN!+2.5V_VIN!!!!!!!!!4.86 ohms!!4.19 ohms!44.84 ohms!
+S!+2.5V_MEM!+2.5V_MEM!!!!!!!30 MIL!!4.18 ohms!!2.75 ohms!60.00 ohms!
+S!+1VS_VCCIOP!+1VS_VCCIOP!!!!!!!!!3.42 ohms!!2.40 ohms!60.00 ohms!
+S!+1VALWP_B+!+1VALWP_B+!!!!!!!!!3.31 ohms!!2.73 ohms!8.69 ohms!
+S!+1VALWP!+1VALWP!!!!!!!!!3.52 ohms!!1.96 ohms!44.84 ohms!
+S!+1.8V_RUN_UZ 00000008!+1.8V_RUN_UZ8!!!!!!!40 MIL!!6.77 ohms!!6.33 ohms!40.48 ohms!
+S!+1.8V_RUN_CARD!+1.8V_RUN_CARD!!!!!!!20 MIL!!6.82 ohms!!5.11 ohms!60.00 ohms!
+S!+1.8V_RUN_AUDIO!+1.8V_RUN_AUDIO!!!!!!!!!5.09 ohms!!4.19 ohms!60.00 ohms!
+S!+1.8V_RUN!+1.8V_RUN!!!!!!!20 MIL!!3.40 ohms!!1.51 ohms!60.00 ohms!
+S!+1.8V_PRIM!+1.8V_PRIM!!!!!!!40 MIL!!9.89 ohms!!6.22 ohms!60.00 ohms!
+S!+1.8V_PGPPF!+1.8V_PGPPF!!!!!!!40 MIL!!21.09 ohms!!20.96 ohms!27.53 ohms!
+S!+1.8V_3.3V_ALW_VTR 00000003!+1.8V_3.3V_ALW_VTR3!!!!!!!!!8.99 ohms!!5.27 ohms!60.00 ohms!
+S!+1.8VALWP!+1.8VALWP!!!!!!!!!8.02 ohms!!4.68 ohms!27.53 ohms!
+S!+1.2V_MEM_CPUCLK!+1.2V_MEM_CPUCLK!!!!!!!10 MIL!!15.61 ohms!!11.41 ohms!16.95 ohms!
+S!+1.2V_MEM!+1.2V_MEM!!POWER!!!!!!!0.37 ohms!!0.22 ohms!44.84 ohms!
+S!+1.2V_LDO!+1.2V_LDO!!!!!!!20 MIL!!6.92 ohms!!4.89 ohms!60.00 ohms!
+S!+1.2V_DDRP!+1.2V_DDRP!!!!!!!!!3.60 ohms!!1.98 ohms!27.53 ohms!
+S!+1.0V_VCCST_C!+1.0V_VCCST_C!!!!!!!20 MIL!!5.12 ohms!!4.71 ohms!40.48 ohms!
+S!+1.0V_VCCSTG_R!+1.0V_VCCSTG_R!!!!!!!!!3.98 ohms!!3.68 ohms!27.53 ohms!
+S!+1.0V_VCCSTG_C!+1.0V_VCCSTG_C!!!!!!!20 MIL!!13.51 ohms!!5.51 ohms!16.95 ohms!
+S!+1.0V_VCCSTG!+1.0V_VCCSTG!!!!!!!20 MIL!!11.15 ohms!!5.03 ohms!60.00 ohms!
+S!+1.0V_VCCST!+1.0V_VCCST!!!!!!!20 MIL!!16.64 ohms!!6.11 ohms!60.00 ohms!
+S!+1.0V_SRAM!+1.0V_SRAM!!!!!!!30 MIL!!2.87 ohms!!2.45 ohms!60.00 ohms!
+S!+1.0V_PRIM_XDP!+1.0V_PRIM_XDP!!!!!!!20 MIL!!23.89 ohms!!16.95 ohms!60.00 ohms!
+S!+1.0V_PRIM_COREP!+1.0V_PRIM_COREP!!!!!!!!!2.79 ohms!!2.14 ohms!60.00 ohms!
+S!+1.0V_PRIM_CORE!+1.0V_PRIM_CORE!!!!!!!110 MIL!!9.66 ohms!!6.13 ohms!60.00 ohms!
+S!+1.0V_PRIM!+1.0V_PRIM!!!!!!!20 MIL!!3.50 ohms!!1.20 ohms!60.00 ohms!
+S!+1.0V_MPHYGT!+1.0V_MPHYGT!!!!!!!120 MIL!!2.32 ohms!!1.41 ohms!60.00 ohms!
+S!+1.0V_MPHYAON!+1.0V_MPHYAON!!!!!!!120 MIL!!2.10 ohms!!1.29 ohms!27.53 ohms!
+S!+1.0V_DTS!+1.0V_DTS!!!!!!!20 MIL!!17.86 ohms!!16.95 ohms!31.52 ohms!
+S!+1.0V_CLK 00000006!+1.0V_CLK6!!!!!!!20 MIL!!18.37 ohms!!16.95 ohms!31.52 ohms!
+S!+1.0V_CLK 00000005!+1.0V_CLK5!!!!!!!20 MIL!!8.02 ohms!!5.68 ohms!60.00 ohms!
+S!+1.0V_CLK 00000004!+1.0V_CLK4!!!!!!!20 MIL!!4.75 ohms!!4.49 ohms!60.00 ohms!
+S!+1.0V_CLK 00000003!+1.0V_CLK3!!!!!!!20 MIL!!19.56 ohms!!16.95 ohms!60.00 ohms!
+S!+1.0V_CLK 00000002!+1.0V_CLK2!!!!!!!20 MIL!!11.22 ohms!!6.68 ohms!27.53 ohms!
+S!+1.0V_CLK 00000001!+1.0V_CLK1!!!!!!!20 MIL!!17.98 ohms!!16.95 ohms!31.52 ohms!
+S!+1.0V_APLLEBB!+1.0V_APLLEBB!!!!!!!20 MIL!!7.33 ohms!!5.57 ohms!60.00 ohms!
+S!+1.0V_APLL!+1.0V_APLL!!!!!!!20 MIL!!11.26 ohms!!6.97 ohms!27.53 ohms!
+S!+1.0V_AMPHYPLL!+1.0V_AMPHYPLL!!!!!!!20 MIL!!4.87 ohms!!4.26 ohms!60.00 ohms!
+S!+1.0VS_VCCIO!+1.0VS_VCCIO!!!!!!!130 MIL!!0.33 ohms!!0.19 ohms!60.00 ohms!
+S!+1.0VO_DSW!+1.0VO_DSW!!!!!!!10 MIL!!27.53 ohms!!27.53 ohms!27.53 ohms!
+S!+0.9V_LAN!+0.9V_LAN!!!!!!!30 MIL!!9.42 ohms!!5.18 ohms!60.00 ohms!
+S!+0.6V_DDR_VTT!+0.6V_DDR_VTT!!!!!!!40 MIL!!8.11 ohms!!5.75 ohms!60.00 ohms!
+S!+0.6VSP!+0.6VSP!!!!!!!!!9.48 ohms!!9.24 ohms!9.79 ohms!

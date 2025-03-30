@@ -1,0 +1,103 @@
+<wfState parentWizardPath="C:/MentorGraphics/ODB++_Inside_Cadence_Allegro/brd2odb_dir/sys/wizards/brd2odb.xmlz">
+    <variables>
+        <variable value="stp" name="elSTEP"/>
+        <variable value="true" name="bSolderM"/>
+        <variable value="true" name="bVwr"/>
+        <variable value="false" name="bHelpGui"/>
+        <variable value="inch" name="oApplicationUnits"/>
+        <variable value="false" name="bJobExist"/>
+        <variable value="true" name="bDoc"/>
+        <variable value="" name="listDBList"/>
+        <variable value="standard" name="textCurrentMode"/>
+        <variable value="0" name="intSTATUS"/>
+        <variable value="th" name="tDrillRout"/>
+        <variable value="false" name="bNetlist"/>
+        <variable value="ignore" name="oPadflash"/>
+        <variable value="" name="tRemoveCompDetails"/>
+        <variable value="no" name="bBb"/>
+        <variable value="odbjob" name="tOutDesignName"/>
+        <variable value="${pEDASourcePath}" name="pLogPath"/>
+        <variable value="brd2odb_log" name="tLogName"/>
+        <variable value="0" name="textCOMANS"/>
+        <variable value="ss" name="tSilk"/>
+        <variable value="no" name="bSilkFill"/>
+        <variable value="no" name="bRoundCorners"/>
+        <variable value="full" name="oExport"/>
+        <variable value="sm" name="tSolderM"/>
+        <variable value="no" name="bFi"/>
+        <variable value="r" name="oProfileSymbolType"/>
+        <variable value="" name="tUdt"/>
+        <variable value="" name="tFlexMaterialList"/>
+        <variable value="yes" name="bRemoveRedundantDielectric"/>
+        <variable value="no" name="oSkipRefdes"/>
+        <variable value="yes" name="oNetNoneFlag"/>
+        <variable value="no" name="bIff"/>
+        <variable value="" name="pMatrixFile"/>
+        <variable value="" name="tUdr"/>
+        <variable value="C:/Users/Prometheus/Downloads/Downloads/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.0/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.1.brd" name="pEDASourcePath"/>
+        <variable value="out_cpr" name="tOuter"/>
+        <variable value="false" name="bVerify"/>
+        <variable value="mentor_boardstation" name="oEDA"/>
+        <variable value="" name="tUdb"/>
+        <variable value="true" name="bDrillRout"/>
+        <variable value="no" name="oTrSym"/>
+        <variable value="eda" name="tCompPackageLogicalNet"/>
+        <variable value="false" name="bHelp"/>
+        <variable value="true" name="bNeutNets"/>
+        <variable value="true" name="bInner"/>
+        <variable value="no" name="bThermalError"/>
+        <variable value="C:/Users/Prometheus/Downloads/Downloads/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.0/odbjob" name="out_job_full_path"/>
+        <variable value="" name="elDPRS"/>
+        <variable value="C:/MentorGraphics/ODB++_Inside_Cadence_Allegro/brd2odb_dir/tmp/files_list-genesis186a8.desktop-ou1r4s8.3812" name="eResp"/>
+        <variable value="odbjob" name="elJOB"/>
+        <variable value="0.2" name="fMatch"/>
+        <variable value="false" name="bFab"/>
+        <variable value="inn_cpr" name="tInner"/>
+        <variable value="true" name="bMiscellaneous"/>
+        <variable value="true" name="bSilk"/>
+        <variable value="" name="eModels"/>
+        <variable value="" name="pAifFile"/>
+        <variable value="phys_nets" name="tPhysicalNets"/>
+        <variable value="false" name="bRemoveCompDetails"/>
+        <variable value="false" name="bAssem"/>
+        <variable value="false" name="bDelete"/>
+        <variable value="no" name="bSuppressR0"/>
+        <variable value="directory" name="oCompression"/>
+        <variable value="no" name="bSolderName"/>
+        <variable value="place_bound" name="oComponent"/>
+        <variable value="no" name="oSuppress"/>
+        <variable value="" name="textCurrentDC"/>
+        <variable value="" name="pReadConfig"/>
+        <variable value="no" name="bSupportOutdatedFiles"/>
+        <variable value="no" name="bSuppressPads"/>
+        <variable value="doc" name="tDoc"/>
+        <variable value="true" name="boolIsDirectMode"/>
+        <variable value="no" name="bBoundary"/>
+        <variable value="v8" name="oVersion"/>
+        <variable value="default" name="oTm"/>
+        <variable value="" name="tDiodPin1Name"/>
+        <variable value="" name="pTf"/>
+        <variable value="sp" name="tSolderP"/>
+        <variable value="false" name="bVer"/>
+        <variable value="0.1" name="fOutline"/>
+        <variable value="true" name="bSolderP"/>
+        <variable value="C:/Users/Prometheus/Downloads/Downloads/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.0" name="pOutputPath"/>
+        <variable value="" name="tActualDesignPath"/>
+        <variable value="true" name="bOuter"/>
+        <variable value="fatf" name="oASM"/>
+        <variable value="false" name="bRemoveEDA"/>
+        <variable value="yes" name="bReadRegion"/>
+        <variable value="false" name="bMoreOpt"/>
+        <variable value="no" name="bReadDrc"/>
+        <variable value="no" name="bUsePanel"/>
+        <variable value="true" name="bGuiMode"/>
+        <variable value="no" name="oReadSqa"/>
+        <variable value="true" name="bPhysicalNets"/>
+        <variable value="misc" name="tMiscellaneous"/>
+        <variable value="odb_viewer" name="oInvocationMode"/>
+    </variables>
+    <stages>
+        <stage name="Settings_Preferences" skip="false"/>
+    </stages>
+    <executionState designCenter="" running="true" nextStageIndex="0" nextBlockIndex="7" executionMode="standard" nextStageName="Settings_Preferences" nextCmdIndex="36"/>
+</wfState>

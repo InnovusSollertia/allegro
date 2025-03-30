@@ -1,0 +1,12 @@
+EMB stp/comp_+_top 0
+NEL stp/top 1571
+NEL stp/gnd1 1513
+NEL stp/in1 1484
+NEL stp/gnd2 1523
+NEL stp/in2 1494
+NEL stp/in3 1500
+NEL stp/vcc 1511
+NEL stp/in4 1484
+NEL stp/gnd3 1529
+NEL stp/bottom 1574
+EMB stp/comp_+_bot 0

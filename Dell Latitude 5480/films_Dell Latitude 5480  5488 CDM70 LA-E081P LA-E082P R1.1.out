@@ -1,0 +1,241 @@
+A!FILM_NAME!CLASS!SUBCLASS!ROTATION!OFFSET_X!OFFSET_Y!UNDEFINED_LINE_WIDTH!SHAPE_BOUNDING_BOX!PLOT_MODE!FILM_MIRRORED!FULL_CONTACT_THERMAL_RELIEFS!SUPPRESS_UNCONNECTED_PADS!DRAW_MISSING_PAD_APERTURES!USE_APERTURE_ROTATION!SUPPRESS_SHAPE_FILL!VECTOR_BASED_PAD_BEHAVIOR!
+J!C:/Users/Prometheus/Downloads/Downloads/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.0/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.1.brd!Mar 19 17:06:17 2024!24000.00!-24000.00!15787.40!-16212.60!2!mils!!!10!out of date!
+S!GND2!DRAWING FORMAT!GND2!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND2!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND2!VIA CLASS!GND2!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND2!PIN!GND2!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND2!ETCH!GND2!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND3!DRAWING FORMAT!GND3!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND3!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND3!VIA CLASS!GND3!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND3!PIN!GND3!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND3!ETCH!GND3!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!VCC!VIA CLASS!VCC!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!VCC!PIN!VCC!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!VCC!ETCH!VCC!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!VCC!DRAWING FORMAT!VCC!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!VCC!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN4!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN4!DRAWING FORMAT!IN4!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN4!VIA CLASS!IN4!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN4!PIN!IN4!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN4!ETCH!IN4!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN3!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN3!DRAWING FORMAT!IN3!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN3!VIA CLASS!IN3!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN3!PIN!IN3!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN3!ETCH!IN3!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN2!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN2!DRAWING FORMAT!IN2!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN2!VIA CLASS!IN2!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN2!PIN!IN2!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN2!ETCH!IN2!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN1!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN1!DRAWING FORMAT!IN1!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN1!VIA CLASS!IN1!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN1!PIN!IN1!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!IN1!ETCH!IN1!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND1!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND1!DRAWING FORMAT!GND1!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND1!VIA CLASS!GND1!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND1!PIN!GND1!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!GND1!ETCH!GND1!0!0.00!0.00!5.00!0.00!positive!no!no!yes!no!no!no!yes!
+S!2D-TOP!VIA CLASS!SOLDERMASK_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!VIA CLASS!PASTEMASK_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!PIN!SOLDERMASK_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!PIN!PASTEMASK_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!PIN!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!PACKAGE GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!PACKAGE GEOMETRY!SOLDERMASK_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!DRAWING FORMAT!SOLDEMASK_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-TOP!BOARD GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!VIA CLASS!SOLDERMASK_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!VIA CLASS!PASTEMASK_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!PIN!SOLDERMASK_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!PIN!PASTEMASK_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!PIN!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!PACKAGE GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!PACKAGE GEOMETRY!SOLDERMASK_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!DRAWING FORMAT!SOLDEMASK_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!2D-BOT!BOARD GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!Z-impedance!MANUFACTURING!IMPEDANCE_TABLE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-top!REF DES!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-top!REF DES!DISPLAY_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-top!PACKAGE GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-top!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-top!DRAWING FORMAT!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-top!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-top!BOARD GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-bot!REF DES!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-bot!REF DES!DISPLAY_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-bot!PACKAGE GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-bot!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-bot!DRAWING FORMAT!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-bot!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!pdf-silk-bot!BOARD GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!BOARD GEOMETRY!DXF-1107BH!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!BOARD GEOMETRY!DXF-1107B!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!DRC ERROR CLASS!PACKAGE_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!VIA KEEPOUT!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!VIA KEEPOUT!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!ROUTE KEEPOUT!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!ROUTE KEEPOUT!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!ROUTE KEEPIN!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!PIN!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!PACKAGE KEEPOUT!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!PACKAGE KEEPOUT!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!PACKAGE KEEPIN!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!PACKAGE GEOMETRY!PLACE_BOUND_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!PACKAGE GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-bot!BOARD GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!BOARD GEOMETRY!DXF-1107TH!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!BOARD GEOMETRY!DXF-1107T!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!DRC ERROR CLASS!PACKAGE_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!VIA KEEPOUT!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!VIA KEEPOUT!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!ROUTE KEEPOUT!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!ROUTE KEEPOUT!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!ROUTE KEEPIN!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!PIN!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!PACKAGE KEEPOUT!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!PACKAGE KEEPOUT!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!PACKAGE KEEPIN!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!PACKAGE GEOMETRY!PLACE_BOUND_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!PACKAGE GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!place-top!BOARD GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!Board_Outline!DRAWING FORMAT!OUTLINE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!Board_Outline!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!Board_Outline!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!TOP!VIA CLASS!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!TOP!PIN!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!TOP!ETCH!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!TOP!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!TOP!DRAWING FORMAT!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!TOP!COMPONENT VALUE!ASSEMBLY_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!SILK_TOP!REF DES!SILKSCREEN_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_TOP!PACKAGE GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_TOP!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_TOP!DRAWING FORMAT!SILKSCREEN_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_TOP!BOARD GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_BOT!REF DES!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_BOT!PACKAGE GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_BOT!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_BOT!DRAWING FORMAT!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!SILK_BOT!BOARD GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!PAST_TOP!VIA CLASS!PASTEMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_TOP!PIN!PASTEMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_TOP!PACKAGE GEOMETRY!PASTEMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_TOP!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_TOP!DRAWING FORMAT!PASTEMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_BOT!VIA CLASS!PASTEMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_BOT!PIN!PASTEMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_BOT!PACKAGE GEOMETRY!PASTEMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_BOT!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!PAST_BOT!DRAWING FORMAT!PASTEMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_TOP!VIA CLASS!SOLDERMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_TOP!PIN!SOLDERMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_TOP!PACKAGE GEOMETRY!SOLDERMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_TOP!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_TOP!DRAWING FORMAT!SOLDEMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_BOT!VIA CLASS!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_BOT!PIN!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_BOT!PACKAGE GEOMETRY!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_BOT!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!MASK_BOT!DRAWING FORMAT!SOLDEMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!DRILL!MANUFACTURING!NCLEGEND-1-10!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!DRILL!MANUFACTURING!PHOTOPLOT_OUTLINE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!DRILL!MANUFACTURING!NCDRILL_LEGEND!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!DRILL!MANUFACTURING!NCDRILL_FIGURE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!DRILL!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!DRILL!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!check-0hm_b!PIN!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!check-0hm_b!COMPONENT VALUE!ASSEMBLY_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!check-0hm_b!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!check-0hm_t!PIN!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!check-0hm_t!COMPONENT VALUE!ASSEMBLY_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!check-0hm_t!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!BOTTOM!VIA CLASS!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!BOTTOM!PIN!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!BOTTOM!ETCH!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!BOTTOM!DRAWING FORMAT!TITLE_BLOCK!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!BOTTOM!DRAWING FORMAT!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!BOTTOM!COMPONENT VALUE!ASSEMBLY_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!yes!no!no!yes!
+S!CIC-SILK_BOT!PACKAGE GEOMETRY!ASSEMBLY_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!VIA CLASS!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!VIA CLASS!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!VIA CLASS!IN2!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!VIA CLASS!IN1!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!REF DES!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!REF DES!DISPLAY_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!PIN!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!PIN!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!PACKAGE GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!PACKAGE GEOMETRY!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!MANUFACTURING!PROBE_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!DRC ERROR CLASS!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!DRC ERROR CLASS!IN2!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!DRC ERROR CLASS!IN1!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!DRC ERROR CLASS!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!BOARD GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_BOT!BOARD GEOMETRY!SOLDERMASK_BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!PACKAGE GEOMETRY!ASSEMBLY_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!VIA CLASS!SOLDERMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!VIA CLASS!IN3!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!VIA CLASS!IN2!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!VIA CLASS!IN1!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!VIA CLASS!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!REF DES!SILKSCREEN_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!REF DES!DISPLAY_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!PIN!SOLDERMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!PIN!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!PACKAGE GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!PACKAGE GEOMETRY!SOLDERMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!MANUFACTURING!PROBE_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!DRC ERROR CLASS!BOTTOM!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!DRC ERROR CLASS!IN3!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!DRC ERROR CLASS!IN2!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!DRC ERROR CLASS!IN1!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!DRC ERROR CLASS!TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!BOARD GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-SILK_TOP!BOARD GEOMETRY!SOLDERMASK_TOP!0!0.00!0.00!5.00!0.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!VIA CLASS!FILMMASKBOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!VIA CLASS!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!ROUTE KEEPIN!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!PIN!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!PACKAGE GEOMETRY!ASSEMBLY_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!BOARD GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!PACKAGE GEOMETRY!SILKSCREEN_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!MANUFACTURING!PROBE_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!MANUFACTURING!NO_PROBE_BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!ETCH!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!DRC ERROR CLASS!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!DRC ERROR CLASS!IN3!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!DRC ERROR CLASS!IN2!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!DRC ERROR CLASS!IN1!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!DRC ERROR CLASS!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_BOT!PIN!FILMMASKBOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!VIA CLASS!FILMMASKTOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!VIA CLASS!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!ROUTE KEEPIN!ALL!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!PIN!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!PACKAGE GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!MANUFACTURING!PROBE_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!MANUFACTURING!NO_PROBE_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!ETCH!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!DRC ERROR CLASS!BOTTOM!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!DRC ERROR CLASS!IN3!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!DRC ERROR CLASS!IN2!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!DRC ERROR CLASS!IN1!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!DRC ERROR CLASS!TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!BOARD GEOMETRY!OUTLINE!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!BOARD GEOMETRY!SILKSCREEN_TOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!
+S!CIC-TEST_TOP!PIN!FILMMASKTOP!0!0.00!0.00!0.00!100.00!positive!no!no!no!no!no!no!yes!

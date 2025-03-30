@@ -1,0 +1,99 @@
+INFO: Loaded existing interconnect file 'C:\Users\Prometheus\Downloads\Downloads\Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.0\interconn.iml'
+INFO: Loaded existing interconnect file 'c:\cadence\spb_23.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_1S_1R_3872
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaaw04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3873
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaax04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3874
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaay04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3875
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaaz04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3876
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaba04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3877
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabb04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3878
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabc04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3879
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabd04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3880
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabe04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3881
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabf04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3882
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabg04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3883
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabh04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3884
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabi04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3885
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabj04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3886
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabk04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3887
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabl04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3888
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabm04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3889
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabn04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3890
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabo04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3891
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabp04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3892
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabq04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3893
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabr04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3894
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabs04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3895
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabt04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3896
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabu04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3897
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabv04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3898
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabw04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3899
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabx04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3900
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaby04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3901
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaabz04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3902
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaca04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3903
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacb04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3904
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacc04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3905
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacd04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3906
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaace04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3907
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacf04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3908
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacg04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3909
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaach04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3910
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaci04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3911
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacj04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3912
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaack04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3913
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacl04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3914
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacm04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3915
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacn04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3916
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaco04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3917
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacp04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3918
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacq04296.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_3919
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaacr04296.in" 0.00127

@@ -1,0 +1,1 @@
+Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.1.brd
