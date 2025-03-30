@@ -1,0 +1,60 @@
+\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Dec 20 18:48:51 2024
+\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=2132 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe F:\Books\Инженерные науки\Проектирование аппаратного обеспечения (Электроника)\Справочная документация по устройствам\Unknown CML\615704_CML_S_UDIMM_3200_CMP-H _RVP_BRD_Rev0p7.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:03) fillin yes 
+\i (00:00:05) fillin yes 
+\d (00:00:15) Design opened: F:/Books/Инженерные науки/Проектирование аппаратного обеспечения (Электроника)/Справочная документация по устройствам/Unknown CML/615704_CML_S_UDIMM_3200_CMP-H _RVP_BRD_Rev0p7.brd
+\i (00:00:15) trapsize 49752
+\i (00:00:15) trapsize 49753
+\i (00:00:15) trapsize 51135
+\i (00:00:15) trapsize 51544
+\i (00:00:15) trapsize 59164
+\i (00:00:15) trapsize 59164
+\t (00:00:16) Loading NV GPU Plugin
+\i (00:00:16) placementedit 
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -37.0570 48.6094
+\i (00:00:19) trapsize 29582
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 12.0490 61.0339
+\i (00:00:19) trapsize 14791
+\i (00:00:22) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:23) roam start
+\i (00:00:23) roam x 16
+\i (00:00:23) roam x 16
+\i (00:00:23) roam x 16
+\i (00:00:23) roam x 16
+\i (00:00:23) roam x 16
+\i (00:00:23) roam y -16
+\i (00:00:24) roam x 32
+\i (00:00:24) roam y -16
+\i (00:00:24) roam x 16
+\i (00:00:24) roam y 16
+\i (00:00:24) roam y 16
+\i (00:00:24) roam y 16
+\i (00:00:24) roam x -32
+\i (00:00:24) roam y 16
+\i (00:00:24) roam x -16
+\i (00:00:26) roam x -16
+\i (00:00:26) roam y 16
+\i (00:00:27) roam end
+\i (00:00:51) exit 
+\t (00:00:52) Lic Summary:
+[18:49:41.001248] cdslmd servers: DESKTOP-D851ENJ
+[18:49:41.001248] Feature usage summary:
+[18:49:41.001248] Allegro_PCB_RF  
+[18:49:41.001248] Allegro_PCB_Harmony_Option  
+[18:49:41.001248] Allegro_Venture_PCB_Designer  
+[18:49:41.001248] PCB_design_studio  
+[18:49:41.001248] Venture_PCB_Schematic  
+[18:49:41.001248] Allegro_Venture_PCB_Designer2  
+[18:49:41.016600]  Allegro_PCB_Productivity_TB  
+[18:49:41.309663]   Allegro_X_Platinum_Layout  
+
+\t (00:00:52)     Journal end - Fri Dec 20 18:49:41 2024
