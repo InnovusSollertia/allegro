@@ -1,0 +1,150 @@
+\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Dec 20 18:48:08 2024
+\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=13128 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe F:\Books\Инженерные науки\Проектирование аппаратного обеспечения (Электроника)\Справочная документация по устройствам\Unknown Corona\Corona_V3_V4_X862605-002_waitsburg (1).BRD
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 51
+\i (00:00:04) trapsize 54
+\i (00:00:04) trapsize 56
+\i (00:00:04) trapsize 84
+\i (00:00:04) trapsize 84
+\t (00:00:04) Loading NV GPU Plugin
+\i (00:00:04) trapsize 24
+\i (00:00:05) placementedit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 194.0 278.5
+\i (00:00:07) trapsize 24
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 194.0 277.5
+\i (00:00:08) trapsize 24
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 194.0 277.5
+\i (00:00:08) trapsize 24
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 194.0 277.5
+\i (00:00:08) trapsize 24
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 194.0 277.5
+\i (00:00:08) trapsize 12
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 194.0 277.6
+\i (00:00:08) trapsize 6
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 186.1 271.2
+\i (00:00:10) trapsize 12
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 186.0 269.4
+\i (00:00:10) trapsize 24
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 161.6 245.7
+\i (00:00:10) trapsize 24
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 160.7 240.8
+\i (00:00:10) trapsize 12
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 160.7 240.8
+\i (00:00:10) trapsize 6
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 160.7 240.8
+\i (00:00:10) trapsize 3
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 160.8 240.8
+\i (00:00:10) trapsize 2
+\i (00:00:14) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 175.6 238.5
+\i (00:00:14) trapsize 3
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 175.5 238.5
+\i (00:00:14) trapsize 6
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 174.6 237.4
+\i (00:00:14) trapsize 12
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 190.6 232.3
+\i (00:00:14) trapsize 24
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 356.1 170.3
+\i (00:00:14) trapsize 24
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 260.1 116.9
+\i (00:00:14) trapsize 12
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 258.7 115.0
+\i (00:00:14) trapsize 6
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 258.5 114.6
+\i (00:00:14) trapsize 3
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 258.6 114.7
+\i (00:00:15) trapsize 2
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 258.6 114.7
+\i (00:00:15) trapsize 1
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 258.6 114.7
+\i (00:00:15) trapsize 1
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 258.6 114.7
+\i (00:00:15) trapsize 1
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 258.6 114.7
+\i (00:00:15) trapsize 2
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 258.6 114.7
+\i (00:00:15) trapsize 3
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 258.6 114.8
+\i (00:00:15) trapsize 6
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 258.5 114.8
+\i (00:00:15) trapsize 12
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 258.6 114.8
+\i (00:00:15) trapsize 24
+\i (00:00:44) exit 
+\t (00:00:44) Lic Summary:
+[18:48:51.001248] cdslmd servers: DESKTOP-D851ENJ
+[18:48:51.001248] Feature usage summary:
+[18:48:51.001248] Allegro_PCB_RF  
+[18:48:51.001248] Allegro_PCB_Harmony_Option  
+[18:48:51.001248] Allegro_Venture_PCB_Designer  
+[18:48:51.001248] PCB_design_studio  
+[18:48:51.001248] Venture_PCB_Schematic  
+[18:48:51.001248] Allegro_Venture_PCB_Designer2  
+[18:48:51.016600]  Allegro_PCB_Productivity_TB  
+[18:48:51.309663]   Allegro_X_Platinum_Layout  
+
+\t (00:00:44)     Journal end - Fri Dec 20 18:48:51 2024
