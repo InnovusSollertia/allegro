@@ -1,0 +1,30 @@
+\t (00:00:38) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:38)     Journal start - Fri Nov  8 09:11:48 2024
+\t (00:00:38)         Host=DESKTOP-D851ENJ User=Prometheus Pid=1996 CPUs=12
+\t (00:00:38) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe E:\Books\Проектирование аппаратного обеспечения (Электроника)\Справочная документация по устройствам\Xilinx Kintex-7 K325 Development Board\AC7K325.brd
+\t (00:00:38) 
+\t (00:00:39) Loading axlcore.cxt 
+\t (00:00:40) Opening existing design...
+\e (00:00:40) ERROR(SPMHDB-181): The current version of software is unable to open design E:/Books/Проектирование аппаратного обеспечения (Электроника)/Справочная документация по устройствам/Xilinx Kintex-7 K325 Development Board/AC7K325.brd.
+The design was last saved using version 16.6 and must be updated using DB Doctor. [help]
+\e (00:00:40) ERROR(SPMHDB-181): The current version of software is unable to open design E:/Books/Проектирование аппаратного обеспечения (Электроника)/Справочная документация по устройствам/Xilinx Kintex-7 K325 Development Board/AC7K325.brd.
+The design was last saved using version 16.6 and must be updated using DB Doctor. [help]
+\i (00:01:10) fillin confirm
+\t (00:01:10) Starting new design...
+\i (00:01:11) trapsize 6604
+\t (00:01:11) Loading NV GPU Plugin
+\i (00:01:11) generaledit 
+\i (00:01:13) exit 
+\t (00:01:13) Lic Summary:
+[09:12:23.001168] cdslmd servers: DESKTOP-D851ENJ
+[09:12:23.001168] Feature usage summary:
+[09:12:23.001168] Allegro_PCB_RF  
+[09:12:23.001168] Allegro_PCB_Harmony_Option  
+[09:12:23.001168] Allegro_Venture_PCB_Designer  
+[09:12:23.001168] PCB_design_studio  
+[09:12:23.001168] Venture_PCB_Schematic  
+[09:12:23.001168] Allegro_Venture_PCB_Designer2  
+[09:12:23.016520]  Allegro_PCB_Productivity_TB  
+[09:12:23.309583]   Allegro_X_Platinum_Layout  
+
+\t (00:01:13)     Journal end - Fri Nov  8 09:12:23 2024

@@ -1,0 +1,273 @@
+\t (00:00:06) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Fri Nov  8 09:14:34 2024
+\t (00:00:06)         Host=DESKTOP-D851ENJ User=Prometheus Pid=12680 CPUs=12
+\t (00:00:06) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe E:\Books\Проектирование аппаратного обеспечения (Электроника)\Справочная документация по устройствам\Xilinx Kintex-7 K325 Development Board\AC7K235_new.brd
+\t (00:00:06) 
+\t (00:00:06) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "AC7K235_new"
+\d (00:00:10) Design opened: E:/Books/Проектирование аппаратного обеспечения (Электроника)/Справочная документация по устройствам/Xilinx Kintex-7 K325 Development Board/AC7K235_new.brd
+\i (00:00:10) trapsize 11220
+\i (00:00:10) trapsize 11723
+\i (00:00:11) trapsize 11875
+\i (00:00:11) trapsize 11220
+\i (00:00:11) trapsize 13866
+\t (00:00:11) Loading NV GPU Plugin
+\i (00:00:13) generaledit 
+\i (00:00:58) trapsize 8726
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 85.8414 47.6529
+\i (00:00:59) trapsize 4363
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 85.8414 47.5657
+\i (00:00:59) trapsize 2182
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 84.3143 47.2603
+\i (00:01:00) trapsize 4363
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 84.4889 47.1731
+\i (00:01:00) trapsize 8726
+\i (00:01:00) roam start
+\i (00:01:00) roam x -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -32
+\i (00:01:01) roam x -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam x -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam x -16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:02) roam end
+\i (00:01:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (0/3)" Colors
+\i (00:01:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (0/3)" Colors
+\i (00:01:04) color192 
+\i (00:01:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (0/3)" 2 "|" Colors
+\i (00:01:05) generaledit 
+\i (00:01:08) QtSignal CVDLayerSplitter CVDLayerTable allButtonClicked
+\i (00:01:08) QtSignal CVDLayerSplitter CVDLayerTable allButtonClicked
+\i (00:01:09) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:01:13) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:01:16) QtSignal ColorVisibilityDialog CVDReturnButton clicked
+\i (00:01:16) trapsize 8726
+\i (00:01:16) trapsize 8726
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:18) QtSignal ColorVisibilityDialog CVDReturnButton clicked
+\i (00:01:18) trapsize 8726
+\i (00:01:18) trapsize 8726
+\i (00:01:20) QtSignal CVDLoadMenu CVDLoadDefaultAction triggered
+\i (00:01:23) QtSignal ColorVisibilityDialog CVDCancelButton clicked
+\i (00:01:23) trapsize 8726
+\i (00:01:23) trapsize 8726
+\i (00:01:24) roam start
+\i (00:01:24) roam y 16
+\i (00:01:24) roam y 16
+\i (00:01:24) roam y 16
+\i (00:01:24) roam y 16
+\i (00:01:24) roam x -16
+\i (00:01:24) roam y 16
+\i (00:01:24) roam y 16
+\i (00:01:24) roam y 16
+\i (00:01:24) roam y 32
+\i (00:01:24) roam y 16
+\i (00:01:24) roam y 16
+\i (00:01:24) roam y 32
+\i (00:01:24) roam y 16
+\i (00:01:25) roam y 16
+\i (00:01:25) roam y 16
+\i (00:01:25) roam x 16
+\i (00:01:25) roam y 16
+\i (00:01:25) roam y 16
+\i (00:01:25) roam x -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam x 16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam x 16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam y -16
+\i (00:01:25) roam end
+\i (00:01:26) roam start
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam x 16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam y -16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam x -16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam x -16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam y 16
+\i (00:01:27) roam end
+\i (00:01:29) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 157.4763 68.6062
+\i (00:01:30) trapsize 17453
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 116.2873 41.3796
+\i (00:01:30) trapsize 31358
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 88.6155 43.6188
+\i (00:01:31) trapsize 15679
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 23.0773 48.3225
+\i (00:01:31) trapsize 7840
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 25.7428 45.3435
+\i (00:01:32) trapsize 15679
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 51.1427 49.4200
+\i (00:01:32) trapsize 7840
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 50.2020 48.6361
+\i (00:01:33) trapsize 15679
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in 49.8885 47.6954
+\i (00:01:34) trapsize 7840
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in 49.8885 47.6954
+\i (00:01:35) trapsize 3920
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in 49.8886 47.6954
+\i (00:01:36) trapsize 1960
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 58.6688 49.6945
+\i (00:01:37) trapsize 980
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 58.6688 49.7141
+\i (00:01:37) trapsize 1960
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 58.6688 49.7142
+\i (00:01:37) trapsize 3920
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 58.6689 49.7142
+\i (00:01:37) trapsize 7840
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 58.6688 49.7141
+\i (00:01:37) trapsize 15679
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out 58.6688 49.7141
+\i (00:01:38) trapsize 31358
+\i (00:01:39) exit 
+\e (00:01:39) Do you want to save the changes you made to AC7K235_new.brd?
+\i (00:01:40) fillin no 
+\t (00:01:44) Lic Summary:
+[09:16:12.001184] cdslmd servers: DESKTOP-D851ENJ
+[09:16:12.001184] Feature usage summary:
+[09:16:12.001184] Allegro_PCB_RF  
+[09:16:12.001184] Allegro_PCB_Harmony_Option  
+[09:16:12.001184] Allegro_Venture_PCB_Designer  
+[09:16:12.001184] PCB_design_studio  
+[09:16:12.001184] Venture_PCB_Schematic  
+[09:16:12.001184] Allegro_Venture_PCB_Designer2  
+[09:16:12.016536]  Allegro_PCB_Productivity_TB  
+[09:16:12.309599]   Allegro_X_Platinum_Layout  
+
+\t (00:01:44)     Journal end - Fri Nov  8 09:16:12 2024

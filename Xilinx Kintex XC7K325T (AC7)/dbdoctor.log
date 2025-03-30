@@ -1,0 +1,96 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : AC7K325.brd                                   )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Fri Nov  8 09:13:39 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Purging all unused user-defined subclasses:
+  BOARD GEOMETRY / PEN3
+  BOARD GEOMETRY / BOT-DXF-O
+  BOARD GEOMETRY / TOP-DXF-O
+  BOARD GEOMETRY / BOT-DXF
+  BOARD GEOMETRY / TOP-DXF
+  BOARD GEOMETRY / LOGO (Films: L5_Gnd L4 L3 L2_Gnd drill PASTEMAKS_BOTTOM PASTEMAKS_TOP SOLDEREMAKS_BOTTOM SOLDEREMAKS_TOP SILKSCREEN_BOTTOM SILKSCREEN_TOP bottom top)
+  BOARD GEOMETRY / PASTEMASK_BOTTOM (Films: PASTEMAKS_BOTTOM)
+  BOARD GEOMETRY / PASTEMASK_TOP (Films: PASTEMAKS_TOP)
+  BOARD GEOMETRY / BOT-DXF-L
+  BOARD GEOMETRY / TOP-DXF-L
+  DRAWING FORMAT / TP-B
+  DRAWING FORMAT / TP-T
+  DRAWING FORMAT / HIGH_LIGHT
+  DRAWING FORMAT / SVCC2
+  DRAWING FORMAT / SGND2
+  DRAWING FORMAT / SVCC1
+  DRAWING FORMAT / SGND3
+  DRAWING FORMAT / IN5
+  DRAWING FORMAT / IN6
+  DRAWING FORMAT / IN4
+  DRAWING FORMAT / INT_SVCC
+  DRAWING FORMAT / INDEX_BOTTOM
+  DRAWING FORMAT / INDEX_TOP
+  DRAWING FORMAT / MOAT
+  DRAWING FORMAT / PROBE_NUM_BOTTOM
+  DRAWING FORMAT / PROBE_NUM_TOP
+  DRAWING FORMAT / CENTER_BOTTOM
+  DRAWING FORMAT / CENTER_TOP
+  DRAWING FORMAT / ASSEMBLY_BOTTOM
+  DRAWING FORMAT / ASSEMBLY_TOP
+  DRAWING FORMAT / FAB_NOTE
+  DRAWING FORMAT / NCDRILL_LEGEND (Films: drill)
+  DRAWING FORMAT / PASTEMASK_BOTTOM (Films: PASTEMAKS_BOTTOM)
+  DRAWING FORMAT / PASTEMASK_TOP (Films: PASTEMAKS_TOP)
+  DRAWING FORMAT / SOLDERMASK_BOTTOM (Films: SOLDEREMAKS_BOTTOM)
+  DRAWING FORMAT / SOLDERMASK_TOP (Films: SOLDEREMAKS_TOP)
+  DRAWING FORMAT / SILKSCREEN_BOTTOM (Films: SILKSCREEN_BOTTOM)
+  DRAWING FORMAT / SILKSCREEN_TOP (Films: SILKSCREEN_TOP)
+  DRAWING FORMAT / SGND1
+  DRAWING FORMAT / SVCC
+  DRAWING FORMAT / SGND
+  DRAWING FORMAT / BOTTOM (Films: bottom)
+  DRAWING FORMAT / IN3
+  DRAWING FORMAT / IN2
+  DRAWING FORMAT / IN1
+  DRAWING FORMAT / TOP (Films: top)
+  DRAWING FORMAT / TEMP
+  DRAWING FORMAT / TEMP_OUTLINE
+  MANUFACTURING / NCLEGEND-1-12
+  MANUFACTURING / NCLEGEND-1-10
+  PACKAGE GEOMETRY / DESIGN NOTES
+  PACKAGE GEOMETRY / INFO_EXTERNAL
+  PACKAGE GEOMETRY / MATING_SIDE
+  PACKAGE GEOMETRY / 3D
+  PACKAGE GEOMETRY / MECH_DIMENSION
+  PACKAGE GEOMETRY / PCI_FINGER
+  PACKAGE GEOMETRY / DIMSYM
+  PACKAGE GEOMETRY / NOTE
+  PACKAGE GEOMETRY / DIMENSION
+  REF DES / CENTER_BOTTOM
+  REF DES / CENTER_TOP
+ Number of empty subclasses deleted : 61.
+
+Regenerating DRC
+  Original DRC errors:   4
+  Updated DRC errors:    4
+  DRC elapsed time:      00:00:01
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 96   after update: 96
+
+Saved drawing E:/Books/Проектирование аппаратного обеспечения (Электроника)/Справочная документация по устройствам/Xilinx Kintex-7 K325 Development Board/AC7K235_new.brd.
+
+
+<<< Design Uprev Warnings >>>
+
+Fri Nov  8 09:13:30 2024				Page     1
+
+
+Performing DRC...
+DRC done; 4 errors detected.
