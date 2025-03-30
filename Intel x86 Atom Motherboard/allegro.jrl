@@ -1,0 +1,303 @@
+\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Jan 30 22:27:23 2025
+\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=5112 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe F:\Books\(EL) Электроника и наноэлектроника\Справочная документация по устройствам\Intel AlpineBay\AlpineBay_v2310006.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Design opened: F:/Books/(EL) Электроника и наноэлектроника/Справочная документация по устройствам/Intel AlpineBay/AlpineBay_v2310006.brd
+\i (00:00:05) trapsize 14502
+\i (00:00:05) trapsize 15538
+\i (00:00:05) trapsize 15862
+\i (00:00:05) trapsize 27585
+\i (00:00:05) trapsize 27585
+\t (00:00:05) Loading NV GPU Plugin
+\i (00:00:05) trapsize 7279
+\i (00:00:07) generaledit 
+\i (00:00:21) roam start
+\i (00:00:21) roam x -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x -16
+\i (00:00:21) roam y -48
+\i (00:00:22) roam y -32
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -48
+\i (00:00:22) roam x 16
+\i (00:00:22) roam x 32
+\i (00:00:22) roam y -32
+\i (00:00:22) roam x 48
+\i (00:00:22) roam y -32
+\i (00:00:22) roam x 16
+\i (00:00:22) roam x 32
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam x -16
+\i (00:00:23) roam end
+\i (00:00:28) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 4252.25 264.42
+\i (00:00:30) trapsize 3639
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 5802.61 846.72
+\i (00:00:31) trapsize 1820
+\i (00:00:31) roam start
+\i (00:00:31) roam y -16
+\i (00:00:31) roam y -16
+\i (00:00:31) roam y -16
+\i (00:00:31) roam y -16
+\i (00:00:31) roam y -16
+\i (00:00:31) roam y -16
+\i (00:00:31) roam y -32
+\i (00:00:31) roam y -16
+\i (00:00:31) roam y -16
+\i (00:00:31) roam x 16
+\i (00:00:31) roam y -16
+\i (00:00:31) roam x 16
+\i (00:00:31) roam y -16
+\i (00:00:31) roam x 48
+\i (00:00:31) roam y -32
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 32
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 32
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 16
+\i (00:00:31) roam x 16
+\i (00:00:32) roam end
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 6686.98 1439.93
+\i (00:00:32) trapsize 3639
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 6679.70 1439.93
+\i (00:00:32) trapsize 7279
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 216.21 5283.09
+\i (00:00:43) trapsize 3639
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 216.22 5246.70
+\i (00:00:44) trapsize 1820
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 518.28 5075.65
+\i (00:00:44) trapsize 910
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out 712.99 4786.33
+\i (00:00:52) trapsize 1820
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 712.99 4684.42
+\i (00:00:52) trapsize 910
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 718.45 4686.25
+\i (00:00:52) trapsize 455
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 717.55 4671.70
+\i (00:00:53) trapsize 227
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 713.00 4637.13
+\i (00:00:54) trapsize 455
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 713.01 4636.22
+\i (00:00:54) trapsize 910
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 696.63 4674.43
+\i (00:00:54) trapsize 455
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 696.63 4674.43
+\i (00:00:54) trapsize 227
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 696.63 4674.44
+\i (00:00:54) trapsize 114
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 696.63 4674.44
+\i (00:00:54) trapsize 57
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 700.62 4680.59
+\i (00:00:55) trapsize 114
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 701.07 4666.48
+\i (00:00:57) trapsize 227
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 701.08 4666.48
+\i (00:00:57) trapsize 455
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 701.07 4666.49
+\i (00:00:57) trapsize 910
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 701.07 4666.48
+\i (00:00:57) trapsize 1820
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 701.08 4666.49
+\i (00:00:57) trapsize 3639
+\i (00:00:59) 3d 
+\i (00:01:00) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 0 "1000X187_TARGET"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 4 "102276-100"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 5 "102283-004"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 6 "102283-005"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 8 "109717-022"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 9 "109717-120"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 10 "109717-748"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 11 "109717-755"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 12 "201377-001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 13 "201581-003"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 14 "2X30_XDP_CONN-B"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 15 2X5HDR9
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 16 "302921-001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 18 3X14HDR
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 19 "639823-001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 20 "642575-123"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 21 "650520-116"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 22 "663573-003"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 23 "664311-001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 24 "672681-002"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 25 "700000-669"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 26 "752402-009"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 27 "A71107-001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 28 "ANCHOR_CLIP_GHOST"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 30 "BATT_HLDR_2P1N"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 32 "C42687-001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 33 "C83026-001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 34 "CONN24_88502-2401_KB"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 35 "CONN_500P_SEAF"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 36 "CONN_HDMI"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 38 "D32488-001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 39 KAM9034
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 40 "KYOCERA_045036006100862"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 41 "LCC10_P5MM_3MM_DIE62X98"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 43 "LCC16_65MM_SQ4MM_105DIE"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 44 "LCC40_P4MM_S5MM_S140DIE"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 45 "LGA28_5X5"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 46 LINCROFT
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 47 "LOTES_LATCH"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 48 "LVDS_50"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 49 "MFG_MODE_JMPR"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 50 "MOLEX_SD_67492_001"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 51 MSOP10
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 52 "MTG_SPOKE_N170"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 53 "N_R0805"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 54 OSSCO43
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 58 "PQFP128_4MM_LP868"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 59 "PQFP48_5MM_NF"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 60 "QFN36_6X6"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 61 "SC70-6"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 62 "SC70_5"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 63 SDIOMMC
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 67 SMC1206
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 70 SMC7343
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 73 SMESD0603
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 74 SMF0402
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 76 SMF1206
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 77 SML0603
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 78 SML2525
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 79 SML2824
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 86 SMR2010
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 88 SMY49S
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 89 SOI8
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 91 "SOI8_50IN_157X197"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 92 "SOI8_50IN_213X210"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 93 SOT143
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 95 "SOT23_5"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 96 "SOT23_6"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 97 "SOT323_08MM_PITCH"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 98 SOT363
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 99 "SSOP10_5MM_3W"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 100 "SSOP14_65MM"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 101 "SSOP16_25IN"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 102 "SSOP16_25IN_4MM"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 104 "SSOP20_65MM_53W"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 105 "SSOP36_8MM"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 106 SSOP5
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 108 "SSOP8_65MM"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 109 "SSOP8_65MM_3W"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 110 "TESTPAD_C25"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 111 "TXC_SMD_TA_TYPE"
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 112 VSOP8
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 113 WHITNEYPOINT
+\i (00:02:10) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 114 XDP
+\i (00:02:11) generaledit 
+\i (00:02:47) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 771 627 771 682 0 0 "-120"
+\i (00:02:49) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 526 348 526 403 0 0 120
+\i (00:02:49) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 521 351 521 406 0 0 120
+\i (00:02:50) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 287 310 287 365 0 0 120
+\i (00:02:50) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 287 309 287 364 0 0 240
+\i (00:02:50) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 287 309 287 364 0 0 120
+\i (00:02:51) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 473 402 473 457 0 0 "-120"
+\i (00:02:54) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 2389.79 5569.07
+\i (00:02:56) trapsize 7279
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 2389.79 4844.62
+\i (00:02:56) trapsize 14558
+\i (00:03:00) exit 
+\e (00:03:00) Do you want to save the changes you made to AlpineBay_v2310006.brd?
+\i (00:03:02) fillin yes 
+\t (00:03:04) Lic Summary:
+[22:30:25.001144] cdslmd servers: DESKTOP-D851ENJ
+[22:30:25.001144] Feature usage summary:
+[22:30:25.001144] Allegro_PCB_RF  
+[22:30:25.001144] Allegro_PCB_Harmony_Option  
+[22:30:25.001144] Allegro_Venture_PCB_Designer  
+[22:30:25.001144] PCB_design_studio  
+[22:30:25.001144] Venture_PCB_Schematic  
+[22:30:25.001144] Allegro_Venture_PCB_Designer2  
+[22:30:25.016496]  Allegro_PCB_Productivity_TB  
+[22:30:25.309559]   Allegro_X_Platinum_Layout  
+
+\t (00:03:04)     Journal end - Thu Jan 30 22:30:25 2025

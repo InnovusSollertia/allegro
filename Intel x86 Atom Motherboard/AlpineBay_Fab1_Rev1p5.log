@@ -1,0 +1,33 @@
+Performing UPREV on the database - Z:/Books/Проектирование аппаратного обеспечения (Электроника)/Справочная документация по устройствам/AlpineBay Rev1P5/AlpineBay_Fab1_Rev1p5.brd
+================================================================================
+   Performing dbdoctor15 to bring DB up to REV15
+================================================================================
+   Performing dbdoctor16 to bring DB up to REV16
+------------------------------ Terminal Output ---------------------------------
+------------------------------ Log File Output ---------------------------------
+   (---------------------------------------------------------------------)
+   (                                                                     )
+   (    DBDOCTOR                                                         )
+   (                                                                     )
+   (    Drawing          : #Taaaaab01636.tmp                             )
+   (    Software Version : 16.6-2015S064                                 )
+   (    Date/Time        : Tue Aug 27 12:13:36 2024                      )
+   (                                                                     )
+   (---------------------------------------------------------------------)
+   
+   
+   
+   ERROR IN ARC SEGMENT center = (6365.89 -225.36)
+     class = ETCH
+     subclass = L2-GND 
+     ERROR(SPMHUT-144): Illegal arc specification.
+      Error was fixed.
+   
+   WARNING   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+   
+   1 warnings, 1 errors detected, 1 errors  fixed.
+--------------------------------------------------------------------------------
+ERROR: Uprev of revision to REV16 found errors.
+================================================================================
+   Performing dbdoctor17 to bring DB up to REV17
+Revision to 23.x is complete.
