@@ -1,0 +1,118 @@
+\t (00:00:07) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Fri Nov  8 10:29:26 2024
+\t (00:00:07)         Host=DESKTOP-D851ENJ User=Prometheus Pid=6480 CPUs=12
+\t (00:00:07) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe E:\Books\Проектирование аппаратного обеспечения (Электроника)\Справочная документация по устройствам\Parallel Bus PCB\parallelbus_check.brd
+\t (00:00:07) 
+\t (00:00:07) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\i (00:11:37) fillin yes 
+\i (00:11:39) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "parallelbus_check"
+\d (00:11:39) Design opened: E:/Books/Проектирование аппаратного обеспечения (Электроника)/Справочная документация по устройствам/Parallel Bus PCB/parallelbus_check.brd
+\i (00:11:39) trapsize 18533
+\i (00:11:39) trapsize 19048
+\i (00:11:39) trapsize 19200
+\i (00:11:39) trapsize 18533
+\i (00:11:39) trapsize 20326
+\t (00:11:39) Loading NV GPU Plugin
+\i (00:11:41) generaledit 
+\t (00:11:41) [10:41:00.003128] periodic Lic check successful
+[10:41:00.003128] Feature usage summary:
+[10:41:00.003128] Allegro_PCB_RF  
+[10:41:00.003128] Allegro_PCB_Harmony_Option  
+[10:41:00.003128] Allegro_Venture_PCB_Designer  
+[10:41:00.003128] PCB_design_studio  
+[10:41:00.003128] Venture_PCB_Schematic  
+[10:41:00.003128] Allegro_Venture_PCB_Designer2  
+[10:41:00.016432]  Allegro_PCB_Productivity_TB  
+[10:41:00.463239]   Allegro_X_Platinum_Layout  
+
+\i (00:11:42) zoom out 1 
+\i (00:11:42) setwindow pcb
+\i (00:11:42) zoom out 10622.234 7490.678
+\i (00:11:42) trapsize 40653
+\i (00:11:42) zoom out 1 
+\i (00:11:42) setwindow pcb
+\i (00:11:42) zoom out 9857.964 7059.760
+\i (00:11:42) trapsize 81305
+\i (00:11:43) zoom out 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom out 9857.964 7059.761
+\i (00:11:43) trapsize 162611
+\i (00:11:43) zoom in 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom in 7283.630 4555.557
+\i (00:11:43) trapsize 81305
+\i (00:11:44) zoom in 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom in 5478.652 5027.128
+\i (00:11:44) trapsize 40653
+\i (00:11:44) zoom in 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom in 5478.652 5035.258
+\i (00:11:44) trapsize 20326
+\i (00:11:44) zoom in 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom in 5340.433 4994.606
+\i (00:11:44) trapsize 10163
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in 5480.685 4842.158
+\i (00:11:48) trapsize 5082
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in 5480.686 4842.159
+\i (00:11:48) trapsize 2541
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in 5480.686 4842.160
+\i (00:11:48) trapsize 1270
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in 5480.685 4842.160
+\i (00:11:48) trapsize 635
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in 5480.812 4842.160
+\i (00:11:48) trapsize 318
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 5480.875 4842.224
+\i (00:11:48) trapsize 635
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out 5480.876 4842.224
+\i (00:11:49) trapsize 1270
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out 5480.877 4842.225
+\i (00:11:49) trapsize 2541
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out 5480.876 4842.224
+\i (00:11:49) trapsize 5082
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out 5480.876 4842.224
+\i (00:11:49) trapsize 10163
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out 5480.877 4842.224
+\i (00:11:49) trapsize 20326
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out 5480.876 4842.225
+\i (00:11:49) trapsize 40653
+\i (00:11:51) exit 
+\t (00:11:51) Lic Summary:
+[10:41:10.001088] cdslmd servers: DESKTOP-D851ENJ
+[10:41:10.001088] Feature usage summary:
+[10:41:10.001088] Allegro_PCB_RF  
+[10:41:10.001088] Allegro_PCB_Harmony_Option  
+[10:41:10.001088] Allegro_Venture_PCB_Designer  
+[10:41:10.001088] PCB_design_studio  
+[10:41:10.001088] Venture_PCB_Schematic  
+[10:41:10.001088] Allegro_Venture_PCB_Designer2  
+[10:41:10.016440]  Allegro_PCB_Productivity_TB  
+[10:41:10.309503]   Allegro_X_Platinum_Layout  
+
+\t (00:11:51)     Journal end - Fri Nov  8 10:41:10 2024

@@ -1,0 +1,316 @@
+\t (00:00:12) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:12)     Journal start - Thu Jan 30 22:13:39 2025
+\t (00:00:12)         Host=DESKTOP-D851ENJ User=Prometheus Pid=20808 CPUs=12
+\t (00:00:12) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe F:\Books\(EL) Электроника и наноэлектроника\Справочная документация по устройствам\Cadence ParallelBus PCB\parallelbus_check.brd
+\t (00:00:12) 
+\t (00:00:12) Loading axlcore.cxt 
+\t (00:00:13) Opening existing design...
+\i (00:00:24) fillin yes 
+\d (00:00:26) Design opened: F:/Books/(EL) Электроника и наноэлектроника/Справочная документация по устройствам/Cadence ParallelBus PCB/parallelbus_check.brd
+\i (00:00:27) trapsize 18533
+\i (00:00:27) trapsize 19048
+\i (00:00:27) trapsize 19753
+\i (00:00:27) trapsize 19753
+\i (00:00:28) generaledit 
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 8664.896 7328.148
+\i (00:00:30) trapsize 39506
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 9099.466 7083.209
+\i (00:00:30) trapsize 79013
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 8925.639 6751.355
+\i (00:00:31) trapsize 158025
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 24159.284 -2161.275
+\i (00:00:33) trapsize 230453
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 28190.638 -4055.864
+\i (00:00:33) trapsize 115226
+\i (00:00:35) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 17382.407 959.774
+\i (00:00:35) trapsize 230453
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 2886.934 6360.597
+\i (00:00:36) trapsize 115226
+\i (00:00:39) 3d 
+\i (00:00:40) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 0 "10_PIN_CONNECTOR"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 2 "4P_OSC"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 3 "8_PINS_SURFACE_MOUNT"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 4 "BANANA_JACK"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 5 BRICK7
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 6 "BRICK_8"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 9 "CAPT_7343"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 10 "CAPT_C"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 16 CFCONN50P
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 17 "CON120_HM-ZD"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 18 DB9DOUBLE
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 19 DIMM240
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 20 DIP8
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 22 DO35
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 25 "EDGE_LAUNCHED_SMA"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 27 EG4208A
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 28 "EG_6201"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 29 F1020
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 30 GUIDEPOST
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 31 "HDR2X10_100MIL"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 32 "HDR2X20_100MIL"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 33 "HDR2X2_100MIL"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 34 "HDR2X4_100MIL"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 35 "HDR2X7_100MIL"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 36 "HEATSINK-7106D"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 37 HSSDC2
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 41 "LQFP_32"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 42 MICTOR
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 43 "MOLEX-10X2"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 44 "MTH_125_400KO"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 45 "PACKAGE_D"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 46 "PQFP100_720X956"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 47 PUSHBUTTON
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 48 QSOP16
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 51 "RES_0805"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 53 RJ426
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 56 SFP
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 57 "SM-IND-UP1B-1R5"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 59 "SM-LED-3P2X1P6-2L-3P5"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 60 SMT
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 64 SO40
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 65 SO8
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 66 SO8N
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 67 "SOG_05"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 69 "SOG_65"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 70 SOIC16F
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 74 "SOT23-5"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 75 SSOT6
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 76 "SW_SLIDE_DP3T"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 78 "TH-CONN-2-P1"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 80 "THRU_HOLE"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 81 TO263
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 83 TP0
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 84 TQFP128P
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 85 "TSM-105-01-L-DV"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 86 "TSM-110-01-G-DV"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 87 TSOP48
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 89 TSSOP48
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 90 TSSOP8
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 91 "TSSOP_8"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 92 "VERT_SM_SMA"
+\i (00:02:16) QtSignal pcb3d_MapperTab packageDeviceList itemChanged 93 XPAK1
+\i (00:02:17) generaledit 
+\i (00:04:36) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 709 336 709 391 4 4 0 +
+\i (00:04:36) QtSignal "64338.9" "55490.4" "-2804.73"
+\i (00:04:36) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent "64338.9" "55490.4" "-2804.73" +
+\i (00:04:36) QtSignal "64682.9" "55834.4" "-2804.73"
+\i (00:04:36) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent "64338.4" "55489.9" "-2804.73" +
+\i (00:04:36) QtSignal "67376.7" "57267.7" "-4348.54"
+\i (00:04:38) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent "64333.3" "55488.2" "-2800.48" +
+\i (00:04:38) QtSignal "67197.4" "50789.3" "-12063.3"
+\i (00:04:38) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 725 413 725 468 4 0 +
+\i (00:04:38) QtSignal 0 "64324.1" "55499.9" "-2774.96"
+\i (00:04:38) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 725 413 725 468 0 0 480
+\i (00:04:38) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 755 533 755 588 0 0 1080
+\i (00:04:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 790 478 790 533 0 0 "-240"
+\i (00:04:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 801 481 801 536 4 4 0 +
+\i (00:04:39) QtSignal "61833.7" "57314.2" "2497.17"
+\i (00:04:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent "61833.7" "57314.2" "2497.17" +
+\i (00:04:39) QtSignal "62343.6" "57700.9" "2346.28"
+\i (00:04:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasPanEvent "61832.9" "57313.7" "2497.58" +
+\i (00:04:39) QtSignal "61832.9" "57313.7" "2497.58"
+\i (00:04:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 841 492 841 547 4 0 +
+\i (00:04:39) QtSignal 0 "61832.9" "57313.7" "2497.58"
+\i (00:04:40) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 768 321 768 376 0 0 120
+\i (00:04:40) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 767 321 767 376 0 0 120
+\i (00:04:40) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 767 321 767 376 0 0 120
+\i (00:04:40) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 767 321 767 376 0 0 120
+\i (00:04:40) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 767 321 767 376 0 0 120
+\i (00:04:44) QtSignal pcb3d_MapperTab packageDeviceList currentRowChanged 0
+\i (00:04:44) QtSignal pcb3d_MapperTab packageDeviceList itemSelectionChanged "10_PIN_CONNECTOR"
+\i (00:04:44) QtSignal pcb3d_MapperTab packageDeviceList itemClicked "10_PIN_CONNECTOR"
+\i (00:04:45) QtSignal pcb3d_MapperTab packageDeviceList currentRowChanged 3
+\i (00:04:45) QtSignal pcb3d_MapperTab packageDeviceList itemSelectionChanged "8_PINS_SURFACE_MOUNT"
+\i (00:04:45) QtSignal pcb3d_MapperTab packageDeviceList itemClicked "8_PINS_SURFACE_MOUNT"
+\i (00:04:46) QtSignal pcb3d_MapperTab packageDeviceList currentRowChanged 9
+\i (00:04:46) QtSignal pcb3d_MapperTab packageDeviceList itemSelectionChanged "CAPT_7343"
+\i (00:04:46) QtSignal pcb3d_MapperTab packageDeviceList itemClicked "CAPT_7343"
+\i (00:04:54) QtSignal Collision_Detection collisionTolerance editingFinished 0
+\i (00:04:54) QtSignal ViewerPanePanel ViewerPaneButton40:4ColorButton clicked
+\i (00:04:55) QtSignal ViewerPanePanel ViewerPaneLayer40All clicked true
+\i (00:04:58) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:05:09) zoom out 1 
+\t (00:05:09) [22:18:36.003256] periodic Lic check successful
+[22:18:36.003256] Feature usage summary:
+[22:18:36.003256] AdvancedPI  
+[22:18:36.003256] Aurora  
+[22:18:36.016560]  AdvancedSI  
+[22:18:36.467727]   Aurora_20  
+
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 3808.745 5023.972
+\i (00:05:09) trapsize 230453
+\i (00:05:09) zoom in 1 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom in 3255.658 4056.070
+\i (00:05:09) trapsize 115226
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 2863.889 -437.756
+\i (00:05:10) trapsize 57613
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 2909.979 -92.077
+\i (00:05:10) trapsize 28807
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 2840.843 2396.812
+\i (00:05:11) trapsize 14403
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 2892.696 2393.932
+\i (00:05:11) trapsize 7202
+\i (00:05:12) zoom in 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom in 2943.108 2360.804
+\i (00:05:12) trapsize 3601
+\i (00:05:12) zoom in 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom in 3088.581 2288.788
+\i (00:05:12) trapsize 1800
+\i (00:05:14) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:05:15) QtSignal CVPLayerGrid CVPAllPlanes clicked true
+\i (00:05:16) QtSignal CVPLayerGrid CVPAllAll_Layers clicked true
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 3123.149 2250.260
+\i (00:05:20) trapsize 3601
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 3121.709 2246.658
+\i (00:05:20) trapsize 7202
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 3120.268 2240.897
+\i (00:05:20) trapsize 14403
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 3120.268 2235.136
+\i (00:05:20) trapsize 28807
+\i (00:05:21) zoom out 1 
+\i (00:05:21) setwindow pcb
+\i (00:05:21) zoom out 3114.506 2223.614
+\i (00:05:21) trapsize 57613
+\i (00:05:21) zoom out 1 
+\i (00:05:21) setwindow pcb
+\i (00:05:21) zoom out 3114.507 2200.569
+\i (00:05:21) trapsize 115226
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 3506.277 7639.252
+\i (00:05:23) trapsize 230453
+\i (00:05:23) zoom in 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom in 8187.346 10877.470
+\i (00:05:23) trapsize 115226
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 7127.264 9609.981
+\i (00:05:24) trapsize 57613
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 7588.170 9552.368
+\i (00:05:24) trapsize 28807
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 7628.500 9523.562
+\i (00:05:24) trapsize 14403
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 7665.949 9512.040
+\i (00:05:24) trapsize 7202
+\i (00:05:25) zoom in 1 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom in 7797.019 9481.793
+\i (00:05:25) trapsize 3601
+\i (00:05:27) zoom out 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom out 7864.715 9597.020
+\i (00:05:27) trapsize 7202
+\i (00:05:37) QtSignal AnalysisDialog SelectWorkflow CurrentIndexChanged "Impedance Workflow"
+\i (00:05:38) QtSignal ImpedanceWorkflow DesignSetupTask linkActivated "design_setup"
+\i (00:05:39) QtSignal DesignSetupWorkflow DefineMatTask linkActivated "def_mat"
+\i (00:05:39) define materials 
+\i (00:05:46) QtSignal frame_3 m_okBtn clicked
+\i (00:05:46) generaledit 
+\i (00:05:48) QtSignal DesignSetupWorkflow DesignSetupCrossSection linkActivated "cross_section"
+\i (00:05:48) xsection 
+\i (00:05:57) QtSignal CCMQtXSectionDlg m_ApplyBtn clicked
+\i (00:05:57) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:05:59) QtSignal CCMQtXSectionDlg m_OkBtn clicked
+\i (00:05:59) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:05:59) generaledit 
+\i (00:06:05) QtSignal DesignSetupWorkflow LaunchAMMTask linkActivated "launch_amm"
+\i (00:06:16) toolswap 
+\i (00:06:42) fillin Aurora_20 AdvancedPI AdvancedSI  
+\i (00:06:42) generaledit 
+\i (00:07:03) toolswap 
+\i (00:07:09) fillin Allegro_X_Platinum_Layout Allegro_PCB_Harmony_Option Allegro_PCB_RF Allegro_PCB_Productivity_TB         
+\t (00:07:11) Opening existing design...
+\t (00:07:11) Loading consmgr.cxt 
+\t (00:07:11) Loading acns_formula.cxt 
+\i (00:07:12) trapsize 7202
+\i (00:07:12) trapsize 7415
+\i (00:07:12) trapsize 7479
+\i (00:07:12) trapsize 8365
+\i (00:07:12) trapsize 8365
+\i (00:07:12) generaledit 
+\i (00:07:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (0/3)"
+\i (00:07:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (0/3)"
+\i (00:07:29) zoom out 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom out 7305.846 9235.425
+\i (00:07:29) trapsize 16730
+\i (00:07:29) zoom out 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom out 7339.307 9262.194
+\i (00:07:29) trapsize 33461
+\i (00:07:29) zoom out 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom out 7359.383 9268.886
+\i (00:07:29) trapsize 66922
+\i (00:07:29) zoom out 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom out 7372.768 9268.887
+\i (00:07:29) trapsize 133843
+\i (00:07:30) zoom out 1 
+\i (00:07:30) setwindow pcb
+\i (00:07:30) zoom out 7372.768 9295.655
+\i (00:07:30) trapsize 267686
+\i (00:07:35) save 
+\i (00:07:37) fillin yes 
+\i (00:07:38) generaledit 
+\i (00:07:40) exit 
+\t (00:07:40) Lic Summary:
+[22:21:07.001144] cdslmd servers: DESKTOP-D851ENJ
+[22:21:07.001144] Feature usage summary:
+[22:21:07.001144] Allegro_PCB_RF  
+[22:21:07.001144] Allegro_PCB_Harmony_Option  
+[22:21:07.001144] Allegro_Venture_PCB_Designer  
+[22:21:07.001144] PCB_design_studio  
+[22:21:07.001144] Venture_PCB_Schematic  
+[22:21:07.001144] Allegro_Venture_PCB_Designer2  
+[22:21:07.001144] Allegro_X_Platinum_Layout  
+[22:21:07.001144] AdvancedSI  
+[22:21:07.001144] AdvancedPI  
+[22:21:07.001144] Aurora  
+[22:21:07.016496]  Allegro_PCB_Productivity_TB  
+[22:21:07.464503]   Aurora_20  
+
+\t (00:07:40)     Journal end - Thu Jan 30 22:21:07 2025

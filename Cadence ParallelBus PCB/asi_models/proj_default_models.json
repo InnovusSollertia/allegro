@@ -1,0 +1,87 @@
+{
+    "Current": {
+        "DiffPair": [
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_diff.ibs",
+                "ModelName": "cds_bi_gen_2p5v_10_10pf",
+                "PinUse": "BI",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            },
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_diff.ibs",
+                "ModelName": "cds_in_gen_2p5v_10pf_50down",
+                "PinUse": "IN",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            },
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_diff.ibs",
+                "ModelName": "cds_out_gen_2p5v_10_10pf",
+                "PinUse": "OUT",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            }
+        ],
+        "SingleEnded": [
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_bidirs.ibs",
+                "ModelName": "cds_bi_gen_2p5v_10_10pf",
+                "PinUse": "BI",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            },
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_receivers.ibs",
+                "ModelName": "cds_in_gen_2p5v_10pf_noterm",
+                "PinUse": "IN",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            },
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_drivers.ibs",
+                "ModelName": "cds_out_gen_2p5v_10_10pf",
+                "PinUse": "OUT",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            }
+        ]
+    },
+    "Default": {
+        "DiffPair": [
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_diff.ibs",
+                "ModelName": "cds_bi_gen_2p5v_10_10pf",
+                "PinUse": "BI",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            },
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_diff.ibs",
+                "ModelName": "cds_in_gen_2p5v_10pf_50down",
+                "PinUse": "IN",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            },
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_diff.ibs",
+                "ModelName": "cds_out_gen_2p5v_10_10pf",
+                "PinUse": "OUT",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            }
+        ],
+        "SingleEnded": [
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_bidirs.ibs",
+                "ModelName": "cds_bi_gen_2p5v_10_10pf",
+                "PinUse": "BI",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            },
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_receivers.ibs",
+                "ModelName": "cds_in_gen_2p5v_10pf_noterm",
+                "PinUse": "IN",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            },
+            {
+                "IBISFilePath": "c:/cadence/spb_24.1/share/pcb/ida/ibis_cds_default_2p5v_drivers.ibs",
+                "ModelName": "cds_out_gen_2p5v_10_10pf",
+                "PinUse": "OUT",
+                "SearchPath": "c:/cadence/spb_24.1/share/pcb/ida"
+            }
+        ]
+    }
+}
+
