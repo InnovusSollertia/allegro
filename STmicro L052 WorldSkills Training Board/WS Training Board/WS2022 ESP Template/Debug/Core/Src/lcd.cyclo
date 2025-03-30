@@ -1,0 +1,6 @@
+../Core/Src/lcd.c:18:6:lcd_write_cmd	1
+../Core/Src/lcd.c:35:6:lcd_set_cursor_style	1
+../Core/Src/lcd.c:49:6:lcd_init	1
+../Core/Src/lcd.c:70:6:lcd_goto_rc	2
+../Core/Src/lcd.c:90:6:lcd_putchar	1
+../Core/Src/lcd.c:106:6:lcd_putstr	2

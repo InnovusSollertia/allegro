@@ -1,0 +1,2 @@
+../Core/Src/ws2812b.c:31:6:ws2812b_set_colors	3
+../Core/Src/ws2812b.c:73:6:ws2812b_display_all_led_colors	2

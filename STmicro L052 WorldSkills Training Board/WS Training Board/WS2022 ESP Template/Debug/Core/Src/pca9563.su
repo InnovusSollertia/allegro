@@ -1,0 +1,3 @@
+../Core/Src/pca9563.c:22:6:pca9536_configure_port	32	static
+../Core/Src/pca9563.c:40:6:pca9536_write_port_outputs	32	static
+../Core/Src/pca9563.c:59:9:pca9536_read_port_inputs	40	static
