@@ -1,0 +1,155 @@
+(ExpressProject "AIC880M80-EVAUATION-KIT"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 P001 (4147275)  [9/30/2023]-[12/04/23]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\libraries\prj_spec.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\aic880m80-evauation-kit.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (RootChangedForceReNetlist "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Allegro Netlist Output Board File" ".\aic880m80-evauation-kit.brd"))
+  (Folder "Layout"
+    (File ".\aic880m80-evauation-kit.brd"
+      (Type "Board File")
+      (OutputBoard ".\aic880m80-evauation-kit.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\MOSES\CODE\AIC8800M80-EVAUATION-KIT\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\MOSES\CODE\AIC8800M80-EVAUATION-KIT\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "C:\USERS\MOSES\CODE\AIC8800M80-EVAUATION-KIT\allegro\eco.txt")))
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (AIC8800M80
+      (FullPartName "AIC8800M80.Normal")
+      (LibraryName
+         "C:\USERS\MOSES\CODE\AIC8800M80-EVAUATION-KIT\LIBRARIES\PRJ_SPEC.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "useroot")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\AIC8800M80_EVAL\aic880m80-evauation-kit.dsn")
+      (Path "Design Resources"
+         "C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\AIC8800M80_EVAL\aic880m80-evauation-kit.dsn"
+         "ROOT")
+      (Path "Design Resources"
+         "C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\AIC8800M80_EVAL\aic880m80-evauation-kit.dsn"
+         "MCU")
+      (Path "Design Resources"
+         "C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\AIC8800M80_EVAL\aic880m80-evauation-kit.dsn"
+         "POWER")
+      (Path "Design Resources"
+         "C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\AIC8800M80_EVAL\aic880m80-evauation-kit.dsn"
+         "RF")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\AIC8800M80_EVAL\libraries\prj_spec.olb")
+      (Path "Layout")
+      (Select "Design Resources"
+         "C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\AIC8800M80_EVAL\aic880m80-evauation-kit.dsn"
+         "RF" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 477"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 495")
+        (Scroll "-42 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USEROOT\DOCUMENTS\GITHUB\DOSTI\EXPERIMENTALPROJECTS\CADENCE ALLEGRO\AIC8800M80_EVAL\AIC880M80-EVAUATION-KIT.DSN")
+      (Schematic "ROOT")
+      (Page "TOP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 495")
+        (Scroll "-42 140")
+        (Zoom "100")
+        (Occurrence "/PAGE1"))
+      (Path
+         "C:\USERS\USEROOT\DOCUMENTS\GITHUB\DOSTI\EXPERIMENTALPROJECTS\CADENCE ALLEGRO\AIC8800M80_EVAL\AIC880M80-EVAUATION-KIT.DSN")
+      (Schematic "MCU")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 495")
+        (Scroll "-42 0")
+        (Zoom "100")
+        (Occurrence "/PAGE2"))
+      (Path
+         "C:\USERS\USEROOT\DOCUMENTS\GITHUB\DOSTI\EXPERIMENTALPROJECTS\CADENCE ALLEGRO\AIC8800M80_EVAL\AIC880M80-EVAUATION-KIT.DSN")
+      (Schematic "POWER")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 495")
+        (Scroll "-42 0")
+        (Zoom "100")
+        (Occurrence "/PAGE3"))
+      (Path
+         "C:\USERS\USEROOT\DOCUMENTS\GITHUB\DOSTI\EXPERIMENTALPROJECTS\CADENCE ALLEGRO\AIC8800M80_EVAL\AIC880M80-EVAUATION-KIT.DSN")
+      (Schematic "RF")
+      (Page "PAGE1"))))

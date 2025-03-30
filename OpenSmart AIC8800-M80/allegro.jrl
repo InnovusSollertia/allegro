@@ -1,0 +1,60 @@
+\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Nov  8 10:37:20 2024
+\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=2960 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe E:\Books\Проектирование аппаратного обеспечения (Электроника)\Справочная документация по устройствам\AIC8800M80\aic880m80-evauation-kit.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:03) fillin yes 
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "aic880m80-evauation-kit"
+\d (00:00:03) Design opened: E:/Books/Проектирование аппаратного обеспечения (Электроника)/Справочная документация по устройствам/AIC8800M80/aic880m80-evauation-kit.brd
+\i (00:00:03) trapsize 574
+\i (00:00:03) trapsize 590
+\i (00:00:03) trapsize 594
+\i (00:00:03) trapsize 574
+\i (00:00:03) trapsize 820
+\t (00:00:03) > Sending response DoneOpenBoard
+\t (00:00:03) Loading NV GPU Plugin
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 17.64 39.75
+\i (00:00:05) trapsize 1640
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 17.64 43.03
+\i (00:00:05) trapsize 3279
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -2.03 23.36
+\i (00:00:06) trapsize 6559
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 24.21 167.65
+\i (00:00:06) trapsize 3279
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 24.21 167.66
+\i (00:00:06) trapsize 1640
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 24.22 167.66
+\i (00:00:06) trapsize 820
+\i (00:00:06) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 24.22 167.66
+\i (00:00:07) trapsize 410
+\i (00:00:08) exit 
+\t (00:00:08) Lic Summary:
+[10:37:27.299712] Cdslmd servers: DESKTOP-D851ENJ
+[10:37:27.824004] Feature usage summary:
+[10:37:27.824004] Allegro_X_Platinum_Layout
+[10:37:27.824004] Allegro_PCB_Productivity_TB
+[10:37:27.824004] Allegro_PCB_RF
+[10:37:27.824004] Allegro_PCB_Harmony_Option
+[10:37:27.824004] Allegro_Venture_PCB_Designer
+[10:37:27.824004] PCB_design_studio
+[10:37:27.824004] Venture_PCB_Schematic
+[10:37:27.824004] Allegro_Venture_PCB_Designer2
+
+\t (00:00:08)     Journal end - Fri Nov  8 10:37:27 2024

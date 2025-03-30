@@ -1,0 +1,77 @@
+\t (00:00:03) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Jan 20 23:50:45 2024
+\t (00:00:03)         Host=ZEPHYRUS-G14 User=useroot Pid=29508 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_23.1\tools\bin\allegro.exe C:\Users\useroot\Documents\GitHub\DOSTI\ExperimentalProjects\Cadence Allegro\AIC8800M80_EVAL\aic880m80-evauation-kit.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:10) fillin yes 
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "aic880m80-evauation-kit"
+\d (00:00:10) Design opened: C:/Users/useroot/Documents/GitHub/DOSTI/ExperimentalProjects/Cadence Allegro/AIC8800M80_EVAL/aic880m80-evauation-kit.brd
+\i (00:00:10) trapsize 574
+\i (00:00:11) trapsize 590
+\i (00:00:11) trapsize 594
+\i (00:00:11) trapsize 633
+\i (00:00:11) trapsize 777
+\t (00:00:11) > Sending response DoneOpenBoard
+\t (00:00:11) Loading NV GPU Plugin
+\i (00:00:11) generaledit 
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -29.17 -30.06
+\i (00:00:14) trapsize 388
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -29.17 -32.39
+\i (00:00:14) trapsize 777
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -29.16 -32.39
+\i (00:00:14) trapsize 1553
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -29.16 -32.39
+\i (00:00:15) trapsize 777
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -29.16 -32.39
+\i (00:00:15) trapsize 388
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 7.35 4.89
+\i (00:00:16) trapsize 194
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 7.35 4.89
+\i (00:00:16) trapsize 97
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 9.09 9.16
+\i (00:00:20) trapsize 194
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 9.10 9.16
+\i (00:00:21) trapsize 388
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 9.10 9.16
+\i (00:00:21) trapsize 777
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 9.10 9.16
+\i (00:00:21) trapsize 1553
+\i (00:00:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (00:00:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (00:00:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (00:00:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (00:00:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (00:00:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (00:00:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup "Design Parameters"
+\i (00:00:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup "Design Parameters"
+\i (00:00:29) prmed 
+\i (00:00:31) setwindow form.prmedit
+\i (00:00:31) FORM prmedit cancel  
+\i (00:00:31) setwindow pcb
+\i (00:00:31) generaledit 
+\i (00:00:32) exit 
+\t (00:00:32)     Journal end - Sat Jan 20 23:51:14 2024
