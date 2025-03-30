@@ -1,0 +1,172 @@
+\t (00:00:02) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Mar 30 16:15:15 2025
+\t (00:00:02)         Host=DESKTOP-D851ENJ User=Prometheus Pid=14520 CPUs=12
+\t (00:00:02) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe F:\Books\Electronics and nanoelectronics\.old\Справочная документация по устройствам\DDR4-SODIMM V070 201508052024\PC4-SODIMM_V070_RC_G1_20150805_2024.brd
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: F:/Books/Electronics and nanoelectronics/.old/Справочная документация по устройствам/DDR4-SODIMM V070 201508052024/PC4-SODIMM_V070_RC_G1_20150805_2024.brd
+\i (00:00:05) trapsize 21
+\i (00:00:05) trapsize 22
+\i (00:00:06) trapsize 23
+\i (00:00:06) trapsize 30
+\i (00:00:06) trapsize 30
+\t (00:00:06) Loading NV GPU Plugin
+\i (00:00:06) trapsize 10
+\i (00:00:07) generaledit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 53.212 27.027
+\i (00:00:11) trapsize 19
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 53.213 27.026
+\i (00:00:11) trapsize 39
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 53.212 27.026
+\i (00:00:11) trapsize 77
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 53.212 27.026
+\i (00:00:11) trapsize 154
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 53.367 27.335
+\i (00:00:11) trapsize 309
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 53.368 27.335
+\i (00:00:11) trapsize 618
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 53.368 27.335
+\i (00:00:11) trapsize 1235
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 53.367 27.335
+\i (00:00:11) trapsize 2471
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -57.502 -2.651
+\i (00:00:12) trapsize 1235
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -57.502 -2.650
+\i (00:00:12) trapsize 618
+\i (00:00:13) roam start
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 32
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 32
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 32
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam end
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 23.787 5.627
+\i (00:00:13) trapsize 309
+\i (00:00:14) roam start
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -32
+\i (00:00:14) roam x 16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam y -32
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam y -32
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam y -32
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam end
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 6.058 16.621
+\i (00:00:17) trapsize 154
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 4.884 16.343
+\i (00:00:18) trapsize 77
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 6.599 17.054
+\i (00:00:19) trapsize 154
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 18.304 32.743
+\i (00:00:22) trapsize 309
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out -7.207 18.167
+\i (00:00:23) trapsize 618
+\i (00:00:27) color192 
+\i (00:00:28) generaledit 
+\i (00:00:37) trapsize 618
+\i (00:00:37) trapsize 618
+\i (00:00:39) exit 
+\t (00:00:39) Lic Summary:
+[16:15:52.001192] cdslmd servers: DESKTOP-D851ENJ
+[16:15:52.001192] Feature usage summary:
+[16:15:52.001192] Allegro_PCB_RF  
+[16:15:52.001192] Allegro_PCB_Harmony_Option  
+[16:15:52.001192] Allegro_Venture_PCB_Designer  
+[16:15:52.001192] PCB_design_studio  
+[16:15:52.001192] Venture_PCB_Schematic  
+[16:15:52.001192] Allegro_Venture_PCB_Designer2  
+[16:15:52.016544]  Allegro_PCB_Productivity_TB  
+[16:15:52.309607]   Allegro_X_Platinum_Layout  
+
+\t (00:00:39)     Journal end - Sun Mar 30 16:15:52 2025
