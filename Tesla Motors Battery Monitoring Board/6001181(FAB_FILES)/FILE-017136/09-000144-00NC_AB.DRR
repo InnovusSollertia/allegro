@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 09-000144-01_AB(BMB-OVP).PcbDoc   18-Dec-07  5:48:59 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 09-000144-01_AB(BMB-OVP).TXT
+EIA File   : 09-000144-01_AB(BMB-OVP).DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        16mil (0.4064mm)         Round          21               18.38 Inch (466.93 mm)
+T2        18mil (0.4572mm)         Round          494              100.20 Inch (2545.05 mm)
+T3        20mil (0.508mm)          Round          5                9.92 Inch (251.94 mm)
+T4        39mil (0.9906mm)         Round          52               22.36 Inch (567.94 mm)
+T5        118mil (2.9972mm)        Round          7         NPTH   11.47 Inch (291.37 mm)
+T6        128mil (3.2512mm)        Round          3         NPTH   18.41 Inch (467.58 mm)
+---------------------------------------------------------------------------
+Totals                                            582              180.74 Inch (4590.81 mm)
+Layer Pair : Bottom Layer to Bottom Layer
+ASCII RoundHoles File : 09-000144-01_AB(BMB-OVP).TX1
+EIA File   : 09-000144-01_AB(BMB-OVP).DR1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T2        18mil (0.4572mm)         Round          4                7.56 Inch (192.06 mm)
+---------------------------------------------------------------------------
+Totals                                            4                7.56 Inch (192.06 mm)
+---------------------------------------------------------------------------
+Totals                                            586              188.30 Inch (4782.87 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
